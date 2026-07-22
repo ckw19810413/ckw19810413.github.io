@@ -4,7 +4,7 @@
 {{- $archivesPath := "/page/archives/" -}}
 {{- $url := $page.RelPermalink -}}
 {{- if hasPrefix $url "/en/" -}}{{- $archivesPath = "/en/archives/" -}}
-{{- else if hasPrefix $url "/zh/" -}}{{- $archivesPath = "/zh/archives/" -}}
+{{- else if hasPrefix $url "/zh-cn/" -}}{{- $archivesPath = "/zh-cn/archives/" -}}
 {{- else if hasPrefix $url "/ja/" -}}{{- $archivesPath = "/ja/archives/" -}}
 {{- else if hasPrefix $url "/es/" -}}{{- $archivesPath = "/es/archives/" -}}
 {{- end -}}

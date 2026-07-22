@@ -4,7 +4,7 @@
 {{- $searchPath := "/page/search/" -}}
 {{- $url := $page.RelPermalink -}}
 {{- if hasPrefix $url "/en/" -}}{{- $searchPath = "/en/search/" -}}
-{{- else if hasPrefix $url "/zh/" -}}{{- $searchPath = "/zh/search/" -}}
+{{- else if hasPrefix $url "/zh-cn/" -}}{{- $searchPath = "/zh-cn/search/" -}}
 {{- else if hasPrefix $url "/ja/" -}}{{- $searchPath = "/ja/search/" -}}
 {{- else if hasPrefix $url "/es/" -}}{{- $searchPath = "/es/search/" -}}
 {{- end -}}

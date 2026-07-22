@@ -35,41 +35,41 @@
     [zh-tw.menu.main.params]
       icon = 'copyright'
 
-[zh]
+[zh-cn]
   languageCode = 'zh-CN'
   languageName = '中文简体'
   title = 'Wayne 的博客'
   weight = 2
-  [zh.params]
-    [zh.params.sidebar]
+  [zh-cn.params]
+    [zh-cn.params.sidebar]
       subtitle = '记录并分享日常'
-  [[zh.menu.main]]
+  [[zh-cn.menu.main]]
     identifier = 'home'
     name = '主页'
-    url = '/zh/'
+    url = '/zh-cn/'
     weight = 1
-    [zh.menu.main.params]
+    [zh-cn.menu.main.params]
       icon = 'home'
-  [[zh.menu.main]]
+  [[zh-cn.menu.main]]
     identifier = 'archives'
     name = '归档'
-    url = '/zh/archives/'
+    url = '/zh-cn/archives/'
     weight = 2
-    [zh.menu.main.params]
+    [zh-cn.menu.main.params]
       icon = 'archives'
-  [[zh.menu.main]]
+  [[zh-cn.menu.main]]
     identifier = 'search'
     name = '搜索'
-    url = '/zh/search/'
+    url = '/zh-cn/search/'
     weight = 3
-    [zh.menu.main.params]
+    [zh-cn.menu.main.params]
       icon = 'search'
-  [[zh.menu.main]]
+  [[zh-cn.menu.main]]
     identifier = 'about'
     name = '关于'
-    url = '/zh/关于/'
+    url = '/zh-cn/关于/'
     weight = 4
-    [zh.menu.main.params]
+    [zh-cn.menu.main.params]
       icon = 'copyright'
 
 [en]
