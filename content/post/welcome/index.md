@@ -22,7 +22,7 @@ This blog is built with [Hugo](https://gohugo.io/) static site generator, using 
 
 ### Blog Features
 
-- Multilingual support (Traditional Chinese, English)
+- Multilingual support (Traditional Chinese, Simplified Chinese, English, Japanese, Spanish)
 - Dark/Light mode toggle
 - Article search
 - Article archives

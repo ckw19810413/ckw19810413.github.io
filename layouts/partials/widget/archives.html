@@ -3,10 +3,10 @@
 {{- $archivesPage := false -}}
 {{- $archivesPath := "/page/archives/" -}}
 {{- $url := $page.RelPermalink -}}
-{{- if hasPrefix $url "/en/" -}}{{- $archivesPath = "/en/archives/" -}}
-{{- else if hasPrefix $url "/zh-cn/" -}}{{- $archivesPath = "/zh-cn/archives/" -}}
-{{- else if hasPrefix $url "/ja/" -}}{{- $archivesPath = "/ja/archives/" -}}
-{{- else if hasPrefix $url "/es/" -}}{{- $archivesPath = "/es/archives/" -}}
+{{- if hasPrefix $url "/en/" -}}{{- $archivesPath = "/en/page/archives/" -}}
+{{- else if hasPrefix $url "/zh-cn/" -}}{{- $archivesPath = "/zh-cn/page/archives/" -}}
+{{- else if hasPrefix $url "/ja/" -}}{{- $archivesPath = "/ja/page/archives/" -}}
+{{- else if hasPrefix $url "/es/" -}}{{- $archivesPath = "/es/page/archives/" -}}
 {{- end -}}
 {{- range $archivePages -}}
     {{- if eq .RelPermalink $archivesPath -}}

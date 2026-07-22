@@ -1,5 +1,4 @@
 ---
-title: "Archives"
+title: "歸檔"
 layout: "archives"
-description: "All posts archived"
 ---
