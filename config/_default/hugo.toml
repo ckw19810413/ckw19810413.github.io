@@ -1,0 +1,9 @@
+baseURL = 'https://ckw19810413.github.io/'
+title = 'Wayne 的部落格'
+theme = ['hugo-theme-stack']
+hasCJKLanguage = true
+defaultContentLanguage = 'zh-tw'
+defaultContentLanguageInSubdir = false
+
+[pagination]
+pagerSize = 12
