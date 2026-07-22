@@ -1,6 +1,6 @@
 [[main]]
     identifier = 'home'
-    name = 'Home'
+    name = 'Inicio'
     url = '/'
     weight = 1
     [main.params]
@@ -8,7 +8,7 @@
 
 [[main]]
     identifier = 'archives'
-    name = 'Archives'
+    name = 'Archivo'
     url = '/archives/'
     weight = 2
     [main.params]
@@ -16,7 +16,7 @@
 
 [[main]]
     identifier = 'search'
-    name = 'Search'
+    name = 'Buscar'
     url = '/search/'
     weight = 3
     [main.params]
@@ -24,8 +24,8 @@
 
 [[main]]
     identifier = 'about'
-    name = 'About'
-    url = '/en/about/'
+    name = 'Acerca de'
+    url = '/es/acerca-de/'
     weight = 4
     [main.params]
         icon = 'copyright'
