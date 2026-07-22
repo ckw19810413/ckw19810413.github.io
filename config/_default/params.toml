@@ -5,6 +5,8 @@ dateFormat = { published = '2006-01-02', lastUpdated = '2006-01-02' }
 
 [sidebar]
   subtitle = '記錄並分享日常'
+  [sidebar.avatar]
+    src = "avatar.png"
 
 [widgets]
   homepage = [
