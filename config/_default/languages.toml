@@ -46,7 +46,7 @@
   [[zh.menu.main]]
     identifier = 'home'
     name = '主页'
-    url = '/'
+    url = '/zh/'
     weight = 1
     [zh.menu.main.params]
       icon = 'home'
@@ -83,7 +83,7 @@
   [[en.menu.main]]
     identifier = 'home'
     name = 'Home'
-    url = '/'
+    url = '/en/'
     weight = 1
     [en.menu.main.params]
       icon = 'home'
@@ -120,7 +120,7 @@
   [[ja.menu.main]]
     identifier = 'home'
     name = 'ホーム'
-    url = '/'
+    url = '/ja/'
     weight = 1
     [ja.menu.main.params]
       icon = 'home'
@@ -157,7 +157,7 @@
   [[es.menu.main]]
     identifier = 'home'
     name = 'Inicio'
-    url = '/'
+    url = '/es/'
     weight = 1
     [es.menu.main.params]
       icon = 'home'

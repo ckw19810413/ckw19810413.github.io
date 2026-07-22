@@ -7,3 +7,10 @@ defaultContentLanguageInSubdir = false
 
 [pagination]
 pagerSize = 12
+
+[[menu.social]]
+    identifier = 'github'
+    name = 'GitHub'
+    url = 'https://github.com/ckw19810413'
+    [menu.social.params]
+        icon = 'brand-github'
