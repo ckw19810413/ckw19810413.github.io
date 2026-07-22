@@ -9,7 +9,7 @@
 [[main]]
     identifier = 'archives'
     name = '歸檔'
-    url = '/archives/'
+    url = '/page/archives/'
     weight = 2
     [main.params]
         icon = 'archives'
@@ -17,7 +17,7 @@
 [[main]]
     identifier = 'search'
     name = '搜索'
-    url = '/search/'
+    url = '/page/search/'
     weight = 3
     [main.params]
         icon = 'search'
@@ -25,7 +25,7 @@
 [[main]]
     identifier = 'about'
     name = '關於'
-    url = '/about/'
+    url = '/page/about/'
     weight = 4
     [main.params]
         icon = 'copyright'
