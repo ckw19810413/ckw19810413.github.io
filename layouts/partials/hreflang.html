@@ -1,0 +1,13 @@
+{{- if .IsTranslated }}
+  {{- range .Translations }}
+  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink | absURL }}" />
+  {{- end }}
+  <link rel="alternate" hreflang="{{ lang.Lang }}" href="{{ .Permalink | absURL }}" />
+{{- else }}
+  <link rel="alternate" hreflang="zh-tw" href="{{ absLangURL "zh-tw" }}" />
+  <link rel="alternate" hreflang="zh-cn" href="{{ absLangURL "zh-cn" }}" />
+  <link rel="alternate" hreflang="en" href="{{ absLangURL "en" }}" />
+  <link rel="alternate" hreflang="ja" href="{{ absLangURL "ja" }}" />
+  <link rel="alternate" hreflang="es" href="{{ absLangURL "es" }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink | absURL }}" />
+{{- end }}
