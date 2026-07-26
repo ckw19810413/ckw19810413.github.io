@@ -91,7 +91,7 @@ The barrier to entry has never been lower. Most of the tools on this list offer 
 - **Smart content creation**: Draft blog posts, social media content, and email templates in seconds
 - **Project automation**: Set up workflows that automatically assign tasks, update statuses, and notify team members
 - **Data analysis**: Ask questions about your data and get instant answers with AI-generated charts and insights
-- **Translation**: Instantly translate content across languages — perfect for [multilingual content creation]({{< ref "how-i-built-multilingual-blog-with-ai" >}})
+- **Translation**: Instantly translate content across languages — perfect for multilingual content creation
 
 **Real use case**: I use Notion AI to manage my content production pipeline. When I write a blog post in English, Notion AI helps me generate optimized drafts, translate content into multiple languages, and organize my editorial calendar — all within the same workspace.
 
