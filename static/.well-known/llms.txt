@@ -1,0 +1,48 @@
+# Intellectual Guides — llms.txt
+> Practical, evergreen guides on money, productivity, and the web.
+> Multi-language: 中文繁體 (zh-tw), 中文简体 (zh-cn), English (en), 日本語 (ja), Español (es)
+
+## Core
+- https://slashmantools.us/ — Homepage (zh-tw default)
+- https://slashmantools.us/en/ — Homepage (English)
+- https://slashmantools.us/blog/ — Blog index (zh-tw)
+- https://slashmantools.us/en/blog/ — Blog index (English)
+- https://slashmantools.us/tools/ — Free online tools
+
+## About & Policies
+- https://slashmantools.us/about/ — About the author
+- https://slashmantools.us/privacy/ — Privacy policy
+- https://slashmantools.us/terms/ — Terms of service
+
+## Key Articles — AI & LLM
+- https://slashmantools.us/en/blog/ultimate-ai-prompt-engineering-guide-2026/ — The Ultimate AI Prompt Engineering Guide for 2026
+- https://slashmantools.us/en/blog/chatgpt-vs-claude/ — ChatGPT vs Claude Comparison 2026
+- https://slashmantools.us/en/blog/ai-prompts-guide/ — AI Prompts: Quick Start Guide
+- https://slashmantools.us/en/blog/build-ai-agent-team/ — How to Build an AI Agent Team
+- https://slashmantools.us/en/blog/multi-agent-coworking-platform/ — Multi-Agent Coworking Platform
+- https://slashmantools.us/en/blog/ai-automation-daily-life/ — AI Automation in Daily Life
+
+## Key Articles — Next.js & SaaS
+- https://slashmantools.us/en/blog/nextjs-saas-boilerplate-comparison/ — Best Next.js SaaS Boilerplates 2026
+- https://slashmantools.us/en/blog/nextjs-stripe-subscriptions/ — Stripe Subscriptions in Next.js
+- https://slashmantools.us/en/blog/nextjs-16-upgrade-guide/ — Upgrading Next.js 15 to 16
+- https://slashmantools.us/en/blog/rbac-nextjs/ — RBAC in Next.js
+- https://slashmantools.us/en/blog/nextjs-multi-tenancy/ — Multi-Tenancy in Next.js
+- https://slashmantools.us/en/blog/verify-stripe-webhook-nextjs/ — Verify Stripe Webhook Next.js
+
+## Key Articles — Finance (zh-tw/zh-cn)
+- https://slashmantools.us/blog/0050-vs-0056/ — 0050 vs 0056 比較
+- https://slashmantools.us/blog/dca-rule-of-72/ — 定期定額複利試算
+- https://slashmantools.us/blog/twse-backtesting-guide/ — 台股回測指南
+- https://slashmantools.us/blog/stock-advisory-membership-worth-it/ — 投顧會員值得嗎
+- https://slashmantools.us/blog/etf-ai-dashboard/ — ETF AI 儀表板
+
+## Key Articles — Productivity & Tools
+- https://slashmantools.us/blog/feishu-templates/ — Feishu Templates Guide
+- https://slashmantools.us/blog/gumroad-digital-product-strategy/ — Gumroad Digital Product Strategy
+- https://slashmantools.us/blog/local-ai-infrastructure-guide/ — Local AI Infrastructure Guide
+
+## Free Tools
+- https://slashmantools.us/utm-builder/ — UTM Builder
+- https://slashmantools.us/cron-expression-generator/ — Cron Expression Generator
+- https://slashmantools.us/youtube-thumbnail-downloader/ — YouTube Thumbnail Downloader

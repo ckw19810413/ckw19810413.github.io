@@ -3,8 +3,11 @@ rssFullContent = true
 favicon = 'favicon.ico'
 dateFormat = { published = '2006-01-02', lastUpdated = '2006-01-02' }
 
+# SEO
+description = 'Practical, evergreen guides on money, productivity, and the web — 理財、生產力、開發者工具的實用長青指南'
+
 [sidebar]
-  subtitle = '記錄並分享日常'
+  subtitle = 'Practical, evergreen guides on money, productivity, and the web'
   [sidebar.avatar]
     src = "avatar.png"
 
@@ -27,3 +30,9 @@ dateFormat = { published = '2006-01-02', lastUpdated = '2006-01-02' }
 [imageProcessing]
   content = { enabled = true }
   thumbnail = { enabled = true }
+
+# OpenGraph
+[opengraph]
+  [opengraph.twitter]
+    site = 'slashmantools'
+    card = 'summary_large_image'

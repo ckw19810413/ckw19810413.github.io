@@ -1,9 +1,12 @@
-baseURL = 'https://ckw19810413.github.io/'
-title = 'Wayne 的部落格'
+baseURL = 'https://slashmantools.us/'
+title = 'Intellectual Guides'
 theme = ['hugo-theme-stack']
 hasCJKLanguage = true
 defaultContentLanguage = 'zh-tw'
 defaultContentLanguageInSubdir = false
+
+[permalinks]
+  post = '/blog/:slug/'
 
 [pagination]
 pagerSize = 12
@@ -11,6 +14,14 @@ pagerSize = 12
 [markup]
 [markup.goldmark.renderer]
 unsafe = true
+
+# Google Analytics (GA4)
+[services.googleAnalytics]
+  ID = 'G-MY95FHB8JG'
+
+# Google AdSense
+[params.adsense]
+  publisher = 'ca-pub-7217603696203672'
 
 [[menu.social]]
     identifier = 'github'

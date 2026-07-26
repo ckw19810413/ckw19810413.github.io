@@ -1,10 +1,8 @@
 User-agent: *
 Allow: /
-
-# Sitemap
 Sitemap: https://slashmantools.us/sitemap.xml
 
-# Crawl delay for bots
+# Crawl delay for aggressive bots
 User-agent: AhrefsBot
 Crawl-delay: 10
 
@@ -16,3 +14,29 @@ Crawl-delay: 10
 
 User-agent: DotBot
 Crawl-delay: 10
+
+# AI crawlers — allowed with rate limiting
+User-agent: GPTBot
+Crawl-delay: 10
+
+User-agent: ChatGPT-User
+Crawl-delay: 10
+
+User-agent: Google-Extended
+Crawl-delay: 10
+
+User-agent: Claude-Web
+Crawl-delay: 10
+
+User-agent: PerplexityBot
+Crawl-delay: 10
+
+# Block scraping tools
+User-agent: Scrapy
+Disallow: /
+
+User-agent: curl
+Disallow: /
+
+User-agent: python-requests
+Disallow: /

@@ -32,8 +32,12 @@ draft: false
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Wayne's Blog",
-    "url": "https://ckw19810413.github.io"
+    "name": "Intellectual Guides",
+    "url": "https://slashmantools.us",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://slashmantools.us/icon-192.png"
+    }
   },
   "datePublished": "2026-07-26",
   "dateModified": "2026-07-26",
