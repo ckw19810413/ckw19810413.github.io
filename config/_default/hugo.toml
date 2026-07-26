@@ -8,6 +8,10 @@ defaultContentLanguageInSubdir = false
 [pagination]
 pagerSize = 12
 
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
 [[menu.social]]
     identifier = 'github'
     name = 'GitHub'
