@@ -1,0 +1,14 @@
+{{/* 
+    This helper is used to generate a background color and text color from a string
+    Used to generate deterministic colors for tags, categories, etc.
+    Override: replaces deprecated hash.FNV32a with crypto.FNV32a for Hugo 0.164+ compatibility
+*/}}
+
+{{- $str := . -}}
+{{- $hash := crypto.FNV32a $str -}}
+{{- $h := mod $hash 360 -}}
+
+{{- $backgroundColor := printf "hsl(%d, 60%%, 84%%)" $h -}}
+{{- $textColor := printf "hsl(%d, 60%%, 15%%)" $h -}}
+
+{{- return dict "BackgroundColor" $backgroundColor "TextColor" $textColor "Hue" $h -}}
