@@ -1,16 +1,35 @@
+{{- /*
+  Hreflang alternate links for multilingual SEO.
+
+  Emits one <link> per translated locale plus a self-referential link, and a
+  single x-default that consistently points to the DEFAULT content language
+  (zh-tw) version of *this* page from every translation — x-default must be the
+  same URL across the whole translation set, never each page pointing at itself.
+*/ -}}
 {{- if .IsTranslated }}
+  {{- /* Resolve the default content language: with defaultContentLanguageInSubdir=false
+         it is the only home served without a language subdir (RelPermalink "/"). */ -}}
+  {{- $defaultLang := site.Language.Lang -}}
+  {{- range site.Home.AllTranslations -}}
+    {{- if eq .RelPermalink "/" -}}{{- $defaultLang = .Language.Lang -}}{{- end -}}
+  {{- end -}}
+  {{- /* This page's default-language permalink (falls back to self if untranslated there). */ -}}
+  {{- $xDefault := .Permalink -}}
+  {{- range .AllTranslations -}}
+    {{- if eq .Language.Lang $defaultLang -}}{{- $xDefault = .Permalink -}}{{- end -}}
+  {{- end -}}
   {{- range .Translations }}
-  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
   {{- end }}
   <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
-  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
-{{- else }}
-  {{- if .IsHome }}
+  <link rel="alternate" hreflang="x-default" href="{{ $xDefault }}" />
+{{- else if .IsHome }}
+  {{- /* Fallback for a home page that isn't translated: still advertise every locale,
+         with x-default anchored to the default-language root. */ -}}
   <link rel="alternate" hreflang="zh-tw" href="{{ absLangURL "zh-tw" }}" />
   <link rel="alternate" hreflang="zh-cn" href="{{ absLangURL "zh-cn" }}" />
   <link rel="alternate" hreflang="en" href="{{ absLangURL "en" }}" />
   <link rel="alternate" hreflang="ja" href="{{ absLangURL "ja" }}" />
   <link rel="alternate" hreflang="es" href="{{ absLangURL "es" }}" />
-  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
-  {{- end }}
+  <link rel="alternate" hreflang="x-default" href="{{ absLangURL "zh-tw" }}" />
 {{- end }}
