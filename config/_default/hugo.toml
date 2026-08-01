@@ -1,4 +1,4 @@
-baseURL = 'https://slashmantools.us/'
+baseURL = 'https://ckw19810413.github.io/'
 title = 'Intellectual Guides'
 theme = ['hugo-theme-stack']
 hasCJKLanguage = true

@@ -30,18 +30,18 @@ draft: false
   "author": {
     "@type": "Person",
     "name": "Wayne Chien",
-    "url": "https://slashmantools.us"
+    "url": "https://ckw19810413.github.io"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Slashman Tools",
-    "url": "https://slashmantools.us"
+    "url": "https://ckw19810413.github.io"
   },
   "datePublished": "2026-07-27",
   "dateModified": "2026-07-27",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://slashmantools.us/zh-tw/multi-agent-business-solo-to-agency/"
+    "@id": "https://ckw19810413.github.io/zh-tw/multi-agent-business-solo-to-agency/"
   },
   "articleSection": "商業策略",
   "keywords": ["多 Agent 商業", "獨立創作者", "自動化代理商", "AI 商業模式"]

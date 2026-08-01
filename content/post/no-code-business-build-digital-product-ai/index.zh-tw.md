@@ -33,7 +33,7 @@ draft: false
   "publisher": {
     "@type": "Organization",
     "name": "Slashman Tools",
-    "url": "https://slashmantools.us"
+    "url": "https://ckw19810413.github.io"
   }
 }
 </script>
@@ -347,7 +347,7 @@ draft: false
 
 ## 我的真實案例：從 0 到數位產品生態
 
-以下是我在 [Slashman Tools](/slashmantools.us/) 的真實發展路徑：
+以下是我在 [Slashman Tools](https://ckw19810413.github.io/) 的真實發展路徑：
 
 ### 2026 年 1 月：第一個產品
 

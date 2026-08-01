@@ -32,10 +32,10 @@ draft: false
   "publisher": {
     "@type": "Organization",
     "name": "Intellectual Guides",
-    "url": "https://slashmantools.us",
+    "url": "https://ckw19810413.github.io",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://slashmantools.us/icon-192.png"
+      "url": "https://ckw19810413.github.io/icon-192.png"
     }
   },
   "datePublished": "2026-07-26",

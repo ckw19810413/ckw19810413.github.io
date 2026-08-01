@@ -30,18 +30,18 @@ draft: false
   "author": {
     "@type": "Person",
     "name": "Wayne Chien",
-    "url": "https://slashmantools.us"
+    "url": "https://ckw19810413.github.io"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Slashman Tools",
-    "url": "https://slashmantools.us"
+    "url": "https://ckw19810413.github.io"
   },
   "datePublished": "2026-07-27",
   "dateModified": "2026-07-27",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://slashmantools.us/en/ai-agent-frameworks-digital-marketing/"
+    "@id": "https://ckw19810413.github.io/en/ai-agent-frameworks-digital-marketing/"
   },
   "articleSection": "AI Frameworks",
   "keywords": ["AI agents", "digital product marketing", "multi-agent AI", "Cowork MCP"]

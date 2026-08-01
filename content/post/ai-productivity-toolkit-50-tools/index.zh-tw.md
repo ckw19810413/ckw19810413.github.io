@@ -33,7 +33,7 @@ draft: false
   "publisher": {
     "@type": "Organization",
     "name": "Slashman Tools",
-    "url": "https://slashmantools.us"
+    "url": "https://ckw19810413.github.io"
   }
 }
 </script>
