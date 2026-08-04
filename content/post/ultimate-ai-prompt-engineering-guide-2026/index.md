@@ -267,7 +267,7 @@ AI 回覆後，加上：
 - 一個自然的 CTA 引導至 [動作]
 ```
 
-**專業提示：** 一旦你有了可用的模板，把它們存成庫。這就是 **AI Prompt Library** 所做的——它是一套精心策劃的 200+ 測試提示詞模板，按使用場景分類整理。[在 Gumroad 上取得 →](https://gumroad.com/l/ai-prompt-library)
+**專業提示：** 一旦你有了可用的模板，把它們存成庫。這就是 **AI Prompt Library** 所做的——它是一套精心策劃的 200+ 測試提示詞模板，按使用場景分類整理。[在 Gumroad 上取得 →](https://gumroad.com/l/diwoc)
 
 ---
 
@@ -320,7 +320,7 @@ AI 回覆後，加上：
 
 全部在 ChatGPT、Claude 和 Gemini 上測試過。全部按分類整理，讓你幾秒鐘內找到正確的模板。
 
-👉 **[在 Gumroad 上取得 AI Prompt Library — 29 美元 →](https://gumroad.com/l/ai-prompt-library)**
+👉 **[在 Gumroad 上取得 AI Prompt Library — 29 美元 →](https://gumroad.com/l/diwoc)**
 
 ---
 
@@ -354,4 +354,4 @@ AI 回覆後，加上：
 
 *閱讀時間：約 10 分鐘 | 發表：2026 年 7 月 26 日 | 最後更新：2026 年 7 月 26 日*
 
-*如果你覺得這份指南有幫助，探索更多 AI 效率提升內容於 [Slashman Tools](/)。如需 200+ 按使用場景分類的測試提示詞模板，查看 [AI Prompt Library](/products/ai-prompt-library/)。*
+*如果你覺得這份指南有幫助，探索更多 AI 效率提升內容於 [Slashman Tools](/)。如需 200+ 按使用場景分類的測試提示詞模板，查看 [AI Prompt Library](https://gumroad.com/l/diwoc)。*

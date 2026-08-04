@@ -268,7 +268,7 @@ Include:
 - A subtle CTA to [action]
 ```
 
-**Pro tip:** Once you have working templates, save them in a library. That's exactly what the **AI Prompt Library** does — it's a curated collection of 200+ tested prompt templates organized by use case. [Get it on Gumroad →](https://gumroad.com/l/ai-prompt-library)
+**Pro tip:** Once you have working templates, save them in a library. That's exactly what the **AI Prompt Library** does — it's a curated collection of 200+ tested prompt templates organized by use case. [Get it on Gumroad →](https://gumroad.com/l/diwoc)
 
 > **📊 Visual: [Insert image placeholder]** — A screenshot-style graphic showing a filled-out prompt template with color-coded variable fields. Title: "Reusable Prompt Templates = Consistent AI Output"
 
@@ -323,7 +323,7 @@ If you want to accelerate your learning, I've spent months building and testing 
 
 All tested on ChatGPT, Claude, and Gemini. All organized so you can find the right template in seconds.
 
-👉 **[Get the AI Prompt Library on Gumroad — $29 →](https://gumroad.com/l/ai-prompt-library)**
+👉 **[Get the AI Prompt Library on Gumroad — $29 →](https://gumroad.com/l/diwoc)**
 
 ---
 
@@ -357,4 +357,4 @@ Even 30 minutes of focused practice on these 7 techniques will dramatically impr
 
 *Reading time: 10 minutes | Published: July 26, 2026 | Last updated: July 26, 2026*
 
-*If you found this guide helpful, explore more AI productivity content at [Slashman Tools](/). For 200+ tested prompt templates organized by use case, check out the [AI Prompt Library](/products/ai-prompt-library/).*
+*If you found this guide helpful, explore more AI productivity content at [Slashman Tools](/). For 200+ tested prompt templates organized by use case, check out the [AI Prompt Library](https://gumroad.com/l/diwoc).*

@@ -405,6 +405,6 @@ A: ComfyUI uses a node-based workflow, making it more flexible and efficient. Au
 
 *Read time: ~15 minutes | Published: 2026-07-27*
 
-*Find this guide helpful? Explore more guides on [Slashman Tools](/en/) or check out our [AI Toolchain Template Library](/en/products/ai-prompt-library/) for ready-to-use configurations.*
+*Find this guide helpful? Explore more guides on [Slashman Tools](/en/) or check out our [AI Toolchain Template Library](/enhttps://gumroad.com/l/diwoc) for ready-to-use configurations.*
 
 [[- Back to Home](/en/)]

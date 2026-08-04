@@ -433,6 +433,6 @@ The Cowork MCP framework makes this practical. It's open-source, self-hosted, an
 
 *Reading time: 12 minutes | Published: July 26, 2026 | Last updated: July 26, 2026*
 
-*If you found this tutorial helpful, explore more guides at [Slashman Tools](/). For ready-to-use AI prompt templates covering development, content creation, and business automation, check out the [AI Prompt Library](/products/ai-prompt-library/).*
+*If you found this tutorial helpful, explore more guides at [Slashman Tools](/). For ready-to-use AI prompt templates covering development, content creation, and business automation, check out the [AI Prompt Library](https://gumroad.com/l/diwoc).*
 
 [[Back to Home](/)]

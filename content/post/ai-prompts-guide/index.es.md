@@ -24,7 +24,7 @@ La clave no está en la herramienta, sino en **cómo preguntas**.
 
 En 2026, la IA ya es infraestructura básica en todos los sectores. Pero la mayoría de la gente solo usa el 10% de su potencial — porque aún no sabe lo que es un "buen prompt". Un buen prompt no es cuestión de talento, sino de una metodología que se puede aprender. Hoy comparto 5 técnicas de prompts que uso a diario, cada una con ejemplos completos para que puedas aplicarlas de inmediato.
 
-Si quieres dominar estas técnicas de forma sistemática, te recomiendo la [AI Prompt Library](/products/ai-prompt-library/) — mi colección de más de 200 prompts cuidadosamente seleccionados para trabajo, estudio y creación.
+Si quieres dominar estas técnicas de forma sistemática, te recomiendo la [AI Prompt Library](https://gumroad.com/l/diwoc) — mi colección de más de 200 prompts cuidadosamente seleccionados para trabajo, estudio y creación.
 
 ---
 
@@ -174,7 +174,7 @@ Nota: La autocorrección por sí sola no es muy efectiva, pero combinada con las
 
 Estas 5 técnicas son solo el comienzo. El mundo de los prompts de IA es muy amplio — diferentes herramientas (ChatGPT, Claude, Gemini, Grok) tienen sus fortalezas, y diferentes escenarios (marketing, programación, análisis de datos) requieren estrategias distintas.
 
-Si tu objetivo no es "usar la IA de vez en cuando", sino convertirla realmente en tu superpoder, te recomiendo probar la [AI Prompt Library](/products/ai-prompt-library/) — una colección de más de 200 plantillas de prompts probadas en situaciones reales, que cubren todos los escenarios de aplicación de IA que puedas encontrar en tu trabajo diario.
+Si tu objetivo no es "usar la IA de vez en cuando", sino convertirla realmente en tu superpoder, te recomiendo probar la [AI Prompt Library](https://gumroad.com/l/diwoc) — una colección de más de 200 plantillas de prompts probadas en situaciones reales, que cubren todos los escenarios de aplicación de IA que puedas encontrar en tu trabajo diario.
 
 ---
 

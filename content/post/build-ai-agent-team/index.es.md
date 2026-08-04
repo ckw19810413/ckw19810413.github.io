@@ -414,6 +414,6 @@ El framework Cowork MCP hace esto práctico. Es de código abierto, auto-alojado
 
 *Tiempo de lectura: 12 minutos | Publicado: 26 de julio de 2026 | Última actualización: 26 de julio de 2026*
 
-*Si este tutorial te fue útil, explora más guías en [Slashman Tools](/). Para plantillas de prompts de IA listas para usar que cubren desarrollo, creación de contenido y automatización empresarial, echa un vistazo a la [AI Prompt Library](/products/ai-prompt-library/).*
+*Si este tutorial te fue útil, explora más guías en [Slashman Tools](/). Para plantillas de prompts de IA listas para usar que cubren desarrollo, creación de contenido y automatización empresarial, echa un vistazo a la [AI Prompt Library](https://gumroad.com/l/diwoc).*
 
 [[Volver al Inicio](/)]

@@ -31,7 +31,7 @@ If 3 or more of these describe your situation, your company needs to go digital.
 
 This isn't a problem only large companies face. In fact, SMEs need digitalization even more — because your resources are limited, and every wasted minute hurts more. After helping several 10–50 person teams set up digital workspaces with Feishu, the most common result was: **saving 15–20 hours of management time per week** — equivalent to adding one extra person to the team.
 
-If you want to get started quickly without months of trial and error, my [Feishu Operations Template Bundle](/products/feishu-templates/) includes 20+ ready-to-use templates covering nearly every scenario you'll need in your operations.
+If you want to get started quickly without months of trial and error, my [Feishu Operations Template Bundle](https://gumroad.com/l/xohjh) includes 20+ ready-to-use templates covering nearly every scenario you'll need in your operations.
 
 ---
 
@@ -201,7 +201,7 @@ The most overlooked aspect of meeting notes is "follow-up." Action items generat
 
 CRM's most important role is "don't let customer data live in just one person's head." When someone changes roles, takes leave, or even leaves the company, the customer data remains.
 
-Our [Feishu Operations Template Bundle](/products/feishu-templates/) includes all 4 of these templates plus 16 additional ones, priced at just $49 — far less than the cost of hiring a consultant for a month.
+Our [Feishu Operations Template Bundle](https://gumroad.com/l/xohjh) includes all 4 of these templates plus 16 additional ones, priced at just $49 — far less than the cost of hiring a consultant for a month.
 
 ---
 

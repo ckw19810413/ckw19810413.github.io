@@ -24,7 +24,7 @@ The key isn't the tool — it's **how you ask**.
 
 In 2026, AI tools have become a fundamental infrastructure across every industry. But most people only use about 10% of their potential — because they don't yet know what makes a "good prompt." Writing great prompts isn't a talent you're born with; it's a learnable methodology. Today I'll share 5 of my most-used prompt techniques, each with complete examples you can apply immediately.
 
-If you want to master these skills systematically rather than picking them up here and there, check out [AI Prompt Library](/products/ai-prompt-library/) — my curated collection of 200+ premium prompts covering work, learning, and creative scenarios so you don't have to figure it all out on your own.
+If you want to master these skills systematically rather than picking them up here and there, check out [AI Prompt Library](https://gumroad.com/l/diwoc) — my curated collection of 200+ premium prompts covering work, learning, and creative scenarios so you don't have to figure it all out on your own.
 
 ---
 
@@ -176,7 +176,7 @@ Note that Self-Correction on its own isn't the highest-impact technique, but whe
 
 These 5 techniques are just the beginning. The world of AI prompts is vast — different tools (ChatGPT, Claude, Gemini, Grok) each excel in different areas, and different scenarios (marketing, coding, data analysis) require different prompting strategies.
 
-If your goal isn't just to "dabble with AI" but to truly make it your superpower, I highly recommend trying [AI Prompt Library](/products/ai-prompt-library/) — a battle-tested collection of 200+ prompt templates covering every AI application scenario you're likely to encounter in your daily work.
+If your goal isn't just to "dabble with AI" but to truly make it your superpower, I highly recommend trying [AI Prompt Library](https://gumroad.com/l/diwoc) — a battle-tested collection of 200+ prompt templates covering every AI application scenario you're likely to encounter in your daily work.
 
 [[Back to Home](/)]
 

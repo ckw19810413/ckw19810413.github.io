@@ -226,7 +226,7 @@ Set the last business day of every month as your "Investment Review Day":
 
 The workflow above sounds complex, but with the right tools, the initial setup takes 30 minutes, and ongoing maintenance is only about 15 minutes per week.
 
-Our [AI ETF Dashboard](/products/etf-dashboard/) was designed exactly for this. It's a SaaS tool that provides:
+Our [AI ETF Dashboard](https://gumroad.com/l/etf-dashboard) was designed exactly for this. It's a SaaS tool that provides:
 
 ### Core Features
 

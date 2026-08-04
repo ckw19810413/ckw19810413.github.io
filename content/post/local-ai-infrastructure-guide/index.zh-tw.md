@@ -405,6 +405,6 @@ A：ComfyUI 採用節點式工作流程，更靈活、更高效。Automatic1111 
 
 *閱讀時間：約 15 分鐘 | 發布日期：2026-07-27*
 
-*覺得這份指南有幫助？探索 [Slashman Tools](/zh-tw/) 上的更多指南。如果你想快速部署 AI 基礎設施，查看我們的 [AI 工具鏈模板庫](/zh-tw/products/ai-prompt-library/) 獲取即拿即用的設定檔。*
+*覺得這份指南有幫助？探索 [Slashman Tools](/zh-tw/) 上的更多指南。如果你想快速部署 AI 基礎設施，查看我們的 [AI 工具鏈模板庫](/zh-twhttps://gumroad.com/l/diwoc) 獲取即拿即用的設定檔。*
 
 [[- 返回首頁](/zh-tw/)]

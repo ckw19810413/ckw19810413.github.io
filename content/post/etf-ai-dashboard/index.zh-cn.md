@@ -213,7 +213,7 @@ AI不会因为市场下跌而恐慌，也不会因为市场上涨而贪婪。它
 
 以上流程听起来复杂，但有了正确的工具，整个流程可以在30分钟内完成初始设定，之后只需要每周15分钟维护。
 
-我们的 [AI ETF Dashboard](/products/etf-dashboard/) 就是为此设计的。它是一个SaaS工具，提供：
+我们的 [AI ETF Dashboard](https://gumroad.com/l/etf-dashboard) 就是为此设计的。它是一个SaaS工具，提供：
 
 ### 核心功能
 

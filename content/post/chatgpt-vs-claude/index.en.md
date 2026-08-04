@@ -26,7 +26,7 @@ Over the past two years, we've seen a relentless flood of "who's the smartest?" 
 
 ChatGPT and Claude 3.5 each have clear strengths. People who use the right tools for the right tasks see their productivity jump several levels above those who stick to just one. In this article, I'll use real-world examples to analyze the pros and cons of both and show you how to combine them effectively.
 
-If you want to upgrade your AI tools from "occasional casual chats" to a "true productivity engine," check out my [AI Course](/products/ai-course/), which includes complete setup guides and workflow tutorials.
+If you want to upgrade your AI tools from "occasional casual chats" to a "true productivity engine," check out my [AI Course](https://gumroad.com/l/vzalgb), which includes complete setup guides and workflow tutorials.
 
 ---
 
@@ -176,7 +176,7 @@ Knowing what the best tools are is one thing — learning to **use them well** i
 
 Many people face this dilemma: they know AI is powerful, but they don't know where to start. They've watched a few YouTube tutorials, picked up some scattered prompt tips, but lack a systematic approach.
 
-My [AI Course](/products/ai-course/) is designed to solve exactly this problem. It covers:
+My [AI Course](https://gumroad.com/l/vzalgb) is designed to solve exactly this problem. It covers:
 
 - **Phase 1: Foundations** — Complete setup guides for ChatGPT and Claude, basic prompt techniques
 - **Phase 2: Advanced** — How to build your own workflows, use plugins and APIs, automate repetitive tasks

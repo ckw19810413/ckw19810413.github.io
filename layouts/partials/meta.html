@@ -10,7 +10,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "{{ if .IsPage }}Article{{ else }}WebSite{{ end }}",
+  "@type": "{{ if .IsPage }}{{ if eq .Section "post" }}BlogPosting{{ else }}Article{{ end }}{{ else }}WebSite{{ end }}",
   "headline": "{{ if .Params.title }}{{ .Params.title }}{{ else }}{{ .Title }}{{ end }}",
   "description": "{{ if .Params.summary }}{{ .Params.summary | plainify }}{{ else }}{{ $description | plainify }}{{ end }}",
   "url": "{{ .Permalink }}",
@@ -18,7 +18,7 @@
   "author": {
     "@type": "Person",
     "name": "{{ with .Params.author }}{{ . }}{{ else }}Wayne{{ end }}",
-    "url": "https://ckw19810413.github.io/about/"
+    "url": "https://ckw19810413.github.io/page/about/"
   },
   "publisher": {
     "@type": "Organization",

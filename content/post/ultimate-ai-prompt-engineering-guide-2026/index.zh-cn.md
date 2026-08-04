@@ -267,7 +267,7 @@ AI 回复后，加上：
 - 一个自然的 CTA 引导至 [动作]
 ```
 
-**专业提示：** 一旦你有了可用的模板，把它们存成库。这就是 **AI Prompt Library** 所做的 — 它是一套精心策划的 200+ 测试提示词模板，按使用场景分类整理。[在 Gumroad 上取得 →](https://gumroad.com/l/ai-prompt-library)
+**专业提示：** 一旦你有了可用的模板，把它们存成库。这就是 **AI Prompt Library** 所做的 — 它是一套精心策划的 200+ 测试提示词模板，按使用场景分类整理。[在 Gumroad 上取得 →](https://gumroad.com/l/diwoc)
 
 ---
 
@@ -320,7 +320,7 @@ AI 回复后，加上：
 
 全部在 ChatGPT、Claude 和 Gemini 上测试过。全部按分类整理，让你几秒钟内找到正确的模板。
 
-👉 **[在 Gumroad 上取得 AI Prompt Library — 29 美元 →](https://gumroad.com/l/ai-prompt-library)**
+👉 **[在 Gumroad 上取得 AI Prompt Library — 29 美元 →](https://gumroad.com/l/diwoc)**
 
 ---
 
@@ -354,4 +354,4 @@ AI 回复后，加上：
 
 *阅读时间：约 10 分钟 | 发表：2026 年 7 月 26 日 | 最后更新：2026 年 7 月 26 日*
 
-*如果你觉得这份指南有帮助，探索更多 AI 效率提升内容于 [Slashman Tools](/)。如需 200+ 按使用场景分类的测试提示词模板，查看 [AI Prompt Library](/products/ai-prompt-library/)。*
+*如果你觉得这份指南有帮助，探索更多 AI 效率提升内容于 [Slashman Tools](/)。如需 200+ 按使用场景分类的测试提示词模板，查看 [AI Prompt Library](https://gumroad.com/l/diwoc)。*

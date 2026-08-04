@@ -435,6 +435,6 @@ A：当你的产品需要持续更新（如工具类软件、数据服务）时�
 
 *阅读时间：约 18 分钟 | 发布日期：2026-07-27*
 
-*觉得这份指南有帮助？探索 [Slashman Tools](/) 上的所有产品，或查看我们的 [AI Prompt Library](/products/ai-prompt-library/) 获取即用提示词模板。*
+*觉得这份指南有帮助？探索 [Slashman Tools](/) 上的所有产品，或查看我们的 [AI Prompt Library](https://gumroad.com/l/diwoc) 获取即用提示词模板。*
 
 [[- 返回首页](/)]

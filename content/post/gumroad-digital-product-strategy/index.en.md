@@ -434,6 +434,6 @@ Passive income isn't overnight — but it is absolutely achievable. Here's what 
 
 *Read time: ~18 minutes | Published: 2026-07-27*
 
-*Find this guide helpful? Explore all products on [Slashman Tools](/en/) or check out our [AI Prompt Library](/en/products/ai-prompt-library/) for ready-to-use prompt templates.*
+*Find this guide helpful? Explore all products on [Slashman Tools](/en/) or check out our [AI Prompt Library](/enhttps://gumroad.com/l/diwoc) for ready-to-use prompt templates.*
 
 [[- Back to Home](/en/)]

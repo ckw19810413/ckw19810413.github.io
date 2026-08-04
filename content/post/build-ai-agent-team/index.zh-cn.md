@@ -381,6 +381,6 @@ Cowork MCP 框架让这一切变得实用。它是开源的、可自架、可在
 
 *阅读时间：12 分钟 | 发布日期：2026-07-26 | 最后更新：2026-07-26*
 
-*觉得这份教程有帮助？探索 [Slashman Tools](/zh-cn/) 上的更多指南。如果你想要即拿即用的 AI 提示词模板，涵盖开发、内容创作和商业自动化，请查看 [AI Prompt Library](/zh-cn/products/ai-prompt-library/)。*
+*觉得这份教程有帮助？探索 [Slashman Tools](/zh-cn/) 上的更多指南。如果你想要即拿即用的 AI 提示词模板，涵盖开发、内容创作和商业自动化，请查看 [AI Prompt Library](/zh-cnhttps://gumroad.com/l/diwoc)。*
 
 [[返回首页](/zh-cn/)]

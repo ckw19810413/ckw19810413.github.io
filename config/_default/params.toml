@@ -14,11 +14,12 @@ description = 'Practical, evergreen guides on money, productivity, and the web â
 [widgets]
   homepage = [
       { type = 'search' },
+      { type = 'products' },
       { type = 'archives', params = { limit = 5 } },
       { type = 'categories', params = { limit = 10 } },
       { type = 'tag-cloud', params = { limit = 10 } },
   ]
-  page = [{ type = 'toc' }]
+  page = [{ type = 'toc' }, { type = 'products' }]
 
 [comment]
   enabled = false

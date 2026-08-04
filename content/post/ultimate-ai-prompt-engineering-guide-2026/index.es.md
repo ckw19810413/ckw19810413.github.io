@@ -203,7 +203,7 @@ Incluye:
 - Un CTA sutil para [acción]
 ```
 
-**Consejo profesional:** Una vez que tengas plantillas funcionando, guárdalas en una biblioteca. Eso es exactamente lo que hace la **AI Prompt Library** — una colección curada de más de 200 plantillas de prompts probadas organizadas por caso de uso. [Cómprala en Gumroad →](https://gumroad.com/l/ai-prompt-library)
+**Consejo profesional:** Una vez que tengas plantillas funcionando, guárdalas en una biblioteca. Eso es exactamente lo que hace la **AI Prompt Library** — una colección curada de más de 200 plantillas de prompts probadas organizadas por caso de uso. [Cómprala en Gumroad →](https://gumroad.com/l/diwoc)
 
 ---
 
@@ -256,7 +256,7 @@ Si quieres acelerar tu aprendizaje, he pasado meses construyendo y probando plan
 
 Todas probadas en ChatGPT, Claude y Gemini. Todas organizadas para que encuentres la plantilla correcta en segundos.
 
-👉 **[Consigue la AI Prompt Library en Gumroad — $29 →](https://gumroad.com/l/ai-prompt-library)**
+👉 **[Consigue la AI Prompt Library en Gumroad — $29 →](https://gumroad.com/l/diwoc)**
 
 ---
 
@@ -290,4 +290,4 @@ Incluso 30 minutos de práctica enfocada en estas 7 técnicas mejorarán drásti
 
 *Tiempo de lectura: 10 minutos | Publicado: 26 de julio de 2026 | Última actualización: 26 de julio de 2026*
 
-*Si esta guía te fue útil, explora más contenido de productividad con IA en [Slashman Tools](/). Para más de 200 plantillas de prompts probadas organizadas por caso de uso, echa un vistazo a la [AI Prompt Library](/products/ai-prompt-library/).*
+*Si esta guía te fue útil, explora más contenido de productividad con IA en [Slashman Tools](/). Para más de 200 plantillas de prompts probadas organizadas por caso de uso, echa un vistazo a la [AI Prompt Library](https://gumroad.com/l/diwoc).*

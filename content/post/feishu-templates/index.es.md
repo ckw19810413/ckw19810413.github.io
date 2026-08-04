@@ -31,7 +31,7 @@ Si te identificas con 3 o más de estas situaciones, tu empresa necesita digital
 
 Este no es un problema exclusivo de las grandes empresas. De hecho, las PyMEs necesitan aún más la digitalización — porque sus recursos son limitados y cada minuto desperdiciado duele más. Después de ayudar a varios equipos de 10-50 personas a construir espacios de trabajo digitales con Feishu, el resultado más común es: **ahorrar de 15 a 20 horas semanales de tiempo de gestión** — equivalente a tener una persona extra en el equipo.
 
-Si quieres empezar rápidamente sin meses de prueba y error, mi [Paquete de Plantillas de Feishu](/products/feishu-templates/) incluye más de 20 plantillas listas para usar, cubriendo casi todos los escenarios que necesitas en tu operación diaria.
+Si quieres empezar rápidamente sin meses de prueba y error, mi [Paquete de Plantillas de Feishu](https://gumroad.com/l/xohjh) incluye más de 20 plantillas listas para usar, cubriendo casi todos los escenarios que necesitas en tu operación diaria.
 
 ---
 
@@ -193,7 +193,7 @@ Lo que más se pasa por alto en las actas de reunión es el "seguimiento posteri
 
 La función más importante del CRM es "no dejar que los datos de los clientes existan solo en la cabeza de una persona". Cambios de personal, vacaciones, o incluso renuncias — los datos de los clientes no desaparecen.
 
-Nuestro [Paquete de Plantillas de Feishu](/products/feishu-templates/) incluye estas 4 plantillas y 16 adicionales, por solo $49, mucho menos que contratar a un consultor por un mes.
+Nuestro [Paquete de Plantillas de Feishu](https://gumroad.com/l/xohjh) incluye estas 4 plantillas y 16 adicionales, por solo $49, mucho menos que contratar a un consultor por un mes.
 
 ---
 

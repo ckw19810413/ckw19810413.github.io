@@ -26,7 +26,7 @@ En los últimos dos años, hemos visto a todas las grandes empresas de IA lanzar
 
 ChatGPT y Claude 3.5 tienen cada uno sus áreas de especialización claras. Quien usa la herramienta correcta para cada tarea puede superar por varios niveles a quien usa una sola herramienta para todo. En este artículo, te ayudaré a analizar las fortalezas y debilidades de ambas con casos prácticos, y te diré cómo combinarlas.
 
-Si quieres llevar tus herramientas de IA de "charlar de vez en cuando" a una "máquina de productividad real", te recomiendo mi [Curso de IA](/products/ai-course/), que incluye métodos de configuración completos y flujos de trabajo.
+Si quieres llevar tus herramientas de IA de "charlar de vez en cuando" a una "máquina de productividad real", te recomiendo mi [Curso de IA](https://gumroad.com/l/vzalgb), que incluye métodos de configuración completos y flujos de trabajo.
 
 ---
 
@@ -163,7 +163,7 @@ Saber cuál es la mejor herramienta es solo el primer paso. Lo siguiente es apre
 
 Mucha gente está atascada: saben que la IA es muy útil, pero no saben por dónde empezar. Han visto algunos tutoriales de YouTube, aprendido algunas técnicas de prompts sueltas, pero no tienen un método sistemático.
 
-Mi [Curso de IA](/products/ai-course/) está diseñado para resolver este problema. El curso incluye:
+Mi [Curso de IA](https://gumroad.com/l/vzalgb) está diseñado para resolver este problema. El curso incluye:
 
 - **Fase 1**: Básico — Guía completa de configuración de ChatGPT y Claude, técnicas básicas de prompts
 - **Fase 2**: Intermedio — Cómo crear tu propio flujo de trabajo, usar plugins y APIs, automatizar tareas repetitivas

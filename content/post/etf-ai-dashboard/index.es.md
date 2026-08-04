@@ -212,7 +212,7 @@ Establece el último día hábil de cada mes como "día de revisión de inversio
 
 El proceso anterior suena complicado, pero con las herramientas adecuadas, la configuración inicial se completa en 30 minutos, y luego solo necesitas 15 minutos semanales de mantenimiento.
 
-Nuestro [AI ETF Dashboard](/products/etf-dashboard/) está diseñado precisamente para esto. Es una herramienta SaaS que ofrece:
+Nuestro [AI ETF Dashboard](https://gumroad.com/l/etf-dashboard) está diseñado precisamente para esto. Es una herramienta SaaS que ofrece:
 
 ### Funciones Principales
 
