@@ -14,14 +14,14 @@ Todos los productos se venden a través de Gumroad — descarga instantánea tra
 
 | Producto | Precio | Descripción | Artículo de reseña |
 |----------|--------|-------------|--------------------|
-| [ETF Dashboard](https://slashmaster6.gumroad.com/l/etf-dashboard) | $199 | Panel de investigación ETF automatizado con análisis de IA, backtesting y herramientas de rebalanceo | [Leer reseña]({{< relref "/post/etf-ai-dashboard" >}}) |
-| [AI Prompt Library](https://slashmaster6.gumroad.com/l/diwoc) | $29 | Más de 300 plantillas de prompts de IA probadas para copywriting, marketing, programación y productividad diaria | [Leer reseña]({{< relref "/post/ai-prompts-guide" >}}) |
-| [AI Practical Course](https://slashmaster6.gumroad.com/l/vzalgb) | $99 | Curso práctico de IA de cero a la práctica: ingeniería de prompts, flujos de automatización y agentes de IA | [Leer reseña]({{< relref "/post/ultimate-ai-prompt-engineering-guide-2026" >}}) |
-| [Feishu Template Marketplace](https://slashmaster6.gumroad.com/l/xohjh) | $49 | Más de 20 plantillas empresariales de Feishu: gestión de proyectos, CRM, flujos de automatización | [Leer reseña]({{< relref "/post/feishu-templates" >}}) |
-| [Cowork Pro](https://slashmaster6.gumroad.com/l/xfhfps) | $99 | Curso de orquestación multiagente: construye tu propio equipo de IA con el framework Cowork MCP | [Leer reseña]({{< relref "/post/build-ai-agent-team" >}}) |
-| [Ship With AI](https://slashmaster6.gumroad.com/l/mgtpcn) | $99 | Curso práctico completo para lanzar productos digitales rápidamente con IA | — |
-| [SAAS Starter Kit](https://slashmaster6.gumroad.com/l/kuvajr) | $99 | De cero a 1000 usuarios de pago: hoja de ruta y plantillas de lanzamiento de productos SAAS | — |
-| [DGX Spark Kit](https://slashmaster6.gumroad.com/l/bppdqp) | $99 | Guía de despliegue de infraestructura de IA local: vLLM, ComfyUI y optimización de GPU | — |
+| [ETF Dashboard](https://slashmaster6.gumroad.com/l/etf-dashboard) | $29 | Panel de investigación ETF automatizado con análisis de IA, backtesting y herramientas de rebalanceo | [Leer reseña]({{< relref "/post/etf-ai-dashboard" >}}) |
+| [AI Prompt Library](https://slashmaster6.gumroad.com/l/diwoc) | $39 | Más de 300 plantillas de prompts de IA probadas para copywriting, marketing, programación y productividad diaria | [Leer reseña]({{< relref "/post/ai-prompts-guide" >}}) |
+| [AI Practical Course](https://slashmaster6.gumroad.com/l/vzalgb) | $69 | Curso práctico de IA de cero a la práctica: ingeniería de prompts, flujos de automatización y agentes de IA | [Leer reseña]({{< relref "/post/ultimate-ai-prompt-engineering-guide-2026" >}}) |
+| [Feishu Template Marketplace](https://slashmaster6.gumroad.com/l/feishu-templates) | $29 | Más de 20 plantillas empresariales de Feishu: gestión de proyectos, CRM, flujos de automatización | [Leer reseña]({{< relref "/post/feishu-templates" >}}) |
+| [Cowork Pro](https://slashmaster6.gumroad.com/l/cowork-pro) | $59 | Curso de orquestación multiagente: construye tu propio equipo de IA con el framework Cowork MCP | [Leer reseña]({{< relref "/post/build-ai-agent-team" >}}) |
+| [Ship With AI](https://slashmaster6.gumroad.com/l/ship-with-ai) | $39 | Curso práctico completo para lanzar productos digitales rápidamente con IA | — |
+| [SAAS Starter Kit](https://slashmaster6.gumroad.com/l/kuvajr) | $99.99 | De cero a 1000 usuarios de pago: hoja de ruta y plantillas de lanzamiento de productos SAAS | — |
+| [DGX Spark Kit](https://slashmaster6.gumroad.com/l/bppdqp) | $49 | Guía de despliegue de infraestructura de IA local: vLLM, ComfyUI y optimización de GPU | — |
 
 ## ¿Por qué Slashman Tools?
 
