@@ -256,7 +256,7 @@ Si quieres acelerar tu aprendizaje, he pasado meses construyendo y probando plan
 
 Todas probadas en ChatGPT, Claude y Gemini. Todas organizadas para que encuentres la plantilla correcta en segundos.
 
-👉 **[Consigue la AI Prompt Library en Gumroad — $29 →](https://gumroad.com/l/diwoc)**
+👉 **[Consigue la AI Prompt Library en Gumroad — $39 →](https://gumroad.com/l/diwoc)**
 
 ---
 

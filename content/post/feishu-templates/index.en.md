@@ -201,7 +201,7 @@ The most overlooked aspect of meeting notes is "follow-up." Action items generat
 
 CRM's most important role is "don't let customer data live in just one person's head." When someone changes roles, takes leave, or even leaves the company, the customer data remains.
 
-Our [Feishu Operations Template Bundle](https://gumroad.com/l/xohjh) includes all 4 of these templates plus 16 additional ones, priced at just $49 — far less than the cost of hiring a consultant for a month.
+Our [Feishu Operations Template Bundle](https://gumroad.com/l/xohjh) includes all 4 of these templates plus 16 additional ones, priced at just $29 — far less than the cost of hiring a consultant for a month.
 
 ---
 

@@ -193,7 +193,7 @@ Lo que más se pasa por alto en las actas de reunión es el "seguimiento posteri
 
 La función más importante del CRM es "no dejar que los datos de los clientes existan solo en la cabeza de una persona". Cambios de personal, vacaciones, o incluso renuncias — los datos de los clientes no desaparecen.
 
-Nuestro [Paquete de Plantillas de Feishu](https://gumroad.com/l/xohjh) incluye estas 4 plantillas y 16 adicionales, por solo $49, mucho menos que contratar a un consultor por un mes.
+Nuestro [Paquete de Plantillas de Feishu](https://gumroad.com/l/xohjh) incluye estas 4 plantillas y 16 adicionales, por solo $29, mucho menos que contratar a un consultor por un mes.
 
 ---
 

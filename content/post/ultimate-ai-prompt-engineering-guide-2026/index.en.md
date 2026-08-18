@@ -323,7 +323,7 @@ If you want to accelerate your learning, I've spent months building and testing 
 
 All tested on ChatGPT, Claude, and Gemini. All organized so you can find the right template in seconds.
 
-👉 **[Get the AI Prompt Library on Gumroad — $29 →](https://gumroad.com/l/diwoc)**
+👉 **[Get the AI Prompt Library on Gumroad — $39 →](https://gumroad.com/l/diwoc)**
 
 ---
 

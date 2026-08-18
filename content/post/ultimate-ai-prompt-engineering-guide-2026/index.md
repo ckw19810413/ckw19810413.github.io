@@ -320,7 +320,7 @@ AI 回覆後，加上：
 
 全部在 ChatGPT、Claude 和 Gemini 上測試過。全部按分類整理，讓你幾秒鐘內找到正確的模板。
 
-👉 **[在 Gumroad 上取得 AI Prompt Library — 29 美元 →](https://gumroad.com/l/diwoc)**
+👉 **[在 Gumroad 上取得 AI Prompt Library — 39 美元 →](https://gumroad.com/l/diwoc)**
 
 ---
 
