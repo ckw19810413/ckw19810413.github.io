@@ -75,7 +75,7 @@ To evaluate whether an ETF is worth investing in, you need to check:
 - Maximum drawdown
 - Expense ratio
 - Portfolio holdings breakdown
-- Comparison with同类 ETFs
+- Comparison withsimilar ETFs
 
 You have to collect, organize, and compare all this data yourself — a complete analysis report usually takes 1–2 hours.
 
@@ -188,7 +188,7 @@ Use tools to automatically collect the following data:
 Once a month, use AI tools to analyze your ETF holdings:
 
 - Feed your holdings data into an AI and ask it to evaluate whether your allocation is sound
-- Ask the AI to compare your holdings with同类 ETFs' performance
+- Ask the AI to compare your holdings withsimilar ETFs' performance
 - Ask the AI for rebalancing recommendations based on current market conditions
 
 **Prompt Example**:

@@ -112,11 +112,11 @@ Now that we have the topic, let’s get to the core: generating content with AI.
 Take the actual process of Slashman Tools as an example:
 
 ```
-1. 將搜尋數據輸入 AI → 生成 3-5 個候選標題
-2. 選定標題後，AI 自動生成文章大綱（包含 H2、H3 子標題）
-3. 將大綱分段餵給 AI，每次生成 1-2 個小節
-4. 人工審核：補充個人經驗、案例、數據、品牌聲調
-5. AI 二次優化：SEO 檢查、語句流暢度、內部連結建議
+1. Input search data to AI → Generate 3-5 candidate titles
+2. After selecting a title, AI auto-generates the article outline (including H2, H3 subheadings)
+3. Feed the outline to AI in segments, generating 1-2 sections at a time
+4. Manual review: add personal experience, cases, data, and brand tone
+5. AI secondary optimization: SEO check, fluency, internal link suggestions
 ```
 
 The benefits of this process are: **AI handles 80% of the basic work (structure, outline, first draft), and you focus on the most valuable 20% (experience, insights, brand voice). **
@@ -182,19 +182,19 @@ The following is a typical "one-time generation, multi-platform distribution" co
 ### Automated distribution pipeline example
 
 ```
-[部落格文章完成]
-    ↓ (Webhook / n8n 觸發)
-[AI 生成 7 種不同格式]
+[Blog Post Completed]
+    ↓ (Webhook / n8n Trigger)
+[AI generates 7 different formats]
     ↓
-[自動發佈到 X（排程 3 天內分開發布）]
+[Auto-publish to X (scheduled separately within 3 days)]
     ↓
-[自動發佈 LinkedIn（排程 5 天內）]
+[Auto-publish to LinkedIn (scheduled within 5 days)]
     ↓
-[自動發佈 Medium 同步]
+[Auto-publish sync to Medium]
     ↓
-[自動生成電子報版本]
+[Auto-generate Newsletter version]
     ↓
-[自動發送電子報]
+[Auto-send Newsletter]
 ```
 
 This pipeline can be implemented using **n8n** or **Make**. Take n8n as an example:
@@ -257,12 +257,12 @@ AI has no personal experience. Each time you generate content, add your own:
 Set clear brand voice guidelines for each AI tool:
 
 ```
-品牌聲調：
-- 友善但專業
-- 避免過度正式的商業用語
-- 使用第一人称（我、我們）
-- 加入幽默和個人表達
-- 用具體案例代替抽象概念
+Brand Tone:
+- Friendly but professional
+- Avoid overly formal business jargon
+- Use first person (I, we)
+- Add humor and personal expression
+- Use concrete examples instead of abstract concepts
 ```
 
 **3. Mixed use of multiple models**
