@@ -26,10 +26,10 @@
 {{- else if .IsHome }}
   {{- /* Fallback for a home page that isn't translated: still advertise every locale,
          with x-default anchored to the default-language root. */ -}}
-  <link rel="alternate" hreflang="zh-tw" href="{{ absLangURL "zh-tw" }}" />
-  <link rel="alternate" hreflang="zh-cn" href="{{ absLangURL "zh-cn" }}" />
-  <link rel="alternate" hreflang="en" href="{{ absLangURL "en" }}" />
-  <link rel="alternate" hreflang="ja" href="{{ absLangURL "ja" }}" />
-  <link rel="alternate" hreflang="es" href="{{ absLangURL "es" }}" />
-  <link rel="alternate" hreflang="x-default" href="{{ absLangURL "zh-tw" }}" />
+  <link rel="alternate" hreflang="zh-tw" href="{{ absURL "/" }}" />
+  <link rel="alternate" hreflang="zh-cn" href="{{ absURL "/zh-cn/" }}" />
+  <link rel="alternate" hreflang="en" href="{{ absURL "/en/" }}" />
+  <link rel="alternate" hreflang="ja" href="{{ absURL "/ja/" }}" />
+  <link rel="alternate" hreflang="es" href="{{ absURL "/es/" }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ absURL "/" }}" />
 {{- end }}
