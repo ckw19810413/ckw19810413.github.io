@@ -49,6 +49,8 @@ categories: ["創作實驗"]
 
 ## 什麼時候買得到？
 
+**更新（10/12）：麻糬海豹噗嚕已經開賣！👉 [LINE STORE 購買頁](https://store.line.me/stickershop/product/37215265/zh-Hant)（NT$42）。芋圓貓還在審核中。另外我也做了第三組 [2027 羊年貼圖「綿綿羊」](/blog/line-sticker-goat-year-2027/)。**
+
 **更新（10/10）：兩組貼圖都已經送 LINE Creators Market 審核，目前是「等待審核」。** 審核通常要幾天到一週，通過後會自動開賣，售價 NT$42（LINE 在台灣的最低價位）。開賣後我會把商店連結補在這篇文章裡。想第一時間知道，可以收藏我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520)，或到 LINE STORE 搜尋「芋圓貓」或「麻糬海豹噗嚕」。
 
 芋圓貓也報名了 LINE 官方的「我們的戀愛日常貼圖特輯」，如果審核通過，12 月中會出現在貼圖小舖的特輯橫幅裡。
