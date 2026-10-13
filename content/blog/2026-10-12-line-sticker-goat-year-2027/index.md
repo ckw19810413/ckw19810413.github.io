@@ -4,6 +4,7 @@ slug: "line-sticker-goat-year-2027"
 date: 2026-10-12T16:00:00+08:00
 draft: false
 image: cover.jpg
+cover: "https://ckw19810413.github.io/blog/line-sticker-goat-year-2027/cover.jpg"
 description: "聖誕、跨年、春節是 LINE 一年中最集中傳貼圖的季節。2027 是羊年，我提前兩個月做了一組「綿綿羊・喜氣羊羊過好年」，分享季節貼圖的時間表、選詞邏輯，以及第一組貼圖開賣的實際數字。"
 tags: ["LINE貼圖", "貼圖創作", "羊年", "新年貼圖", "AI繪圖", "綿綿羊"]
 categories: ["創作實驗"]

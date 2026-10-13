@@ -4,6 +4,7 @@ slug: "line-sticker-trends-2026"
 date: 2026-10-10T15:00:00+08:00
 draft: false
 image: cover.jpg
+cover: "https://ckw19810413.github.io/blog/line-sticker-trends-2026/cover.jpg"
 description: "整理 LINE 2025 年度貼圖排行與 2026 熱門趨勢，歸納爆款貼圖的 5 個共同點，並用 AI 輔助做出一組情侶日常貼圖「芋圓貓」實際驗證。"
 tags: ["LINE貼圖", "貼圖創作", "AI繪圖", "副業", "芋圓貓"]
 categories: ["創作實驗"]

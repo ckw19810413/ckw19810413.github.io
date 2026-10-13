@@ -4,6 +4,7 @@ slug: "line-sticker-capybara-calm"
 date: 2026-10-13T18:00:00+08:00
 draft: false
 image: cover.jpg
+cover: "https://ckw19810413.github.io/blog/line-sticker-capybara-calm/cover.jpg"
 description: "水豚為什麼在台灣和日本都紅？「情緒穩定」為什麼變成年輕人的流行語？我把這個梗做成一組 16 張的 LINE 貼圖「柚柚水豚・情緒穩定中」，順便公開前三組貼圖的上架結果。"
 tags: ["LINE貼圖", "貼圖創作", "水豚", "情緒穩定", "AI繪圖", "柚柚水豚"]
 categories: ["創作實驗"]
