@@ -1,7 +1,7 @@
 ---
 title: "爸媽每天早上傳的那張圖，換成會動的柴犬：「柴犬福福」長輩問候 LINE 動態貼圖"
 slug: "line-animated-sticker-shiba-greetings"
-date: 2026-10-14T09:30:00+08:00
+date: 2026-10-14T01:00:00+08:00
 draft: false
 image: cover.jpg
 cover: "https://ckw19810413.github.io/blog/line-animated-sticker-shiba-greetings/cover.jpg"
