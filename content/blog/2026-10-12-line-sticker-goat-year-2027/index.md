@@ -38,10 +38,11 @@ categories: ["創作實驗"]
 ## 進度與購買連結
 
 - **麻糬海豹噗嚕・想躺平日常：已開賣 🎉** 👉 [LINE STORE 購買頁](https://store.line.me/stickershop/product/37215265/zh-Hant)（NT$42）
-- **芋圓貓・黏TT戀愛日常**：LINE 審核中
-- **綿綿羊・喜氣羊羊過好年**：10/12 已送審，通過後自動開賣
+- **芋圓貓・黏TT戀愛日常：已開賣** 👉 [LINE STORE 購買頁](https://store.line.me/stickershop/product/37220496/zh-Hant)
+- **綿綿羊・喜氣羊羊過好年：已開賣（送審隔天就通過）** 👉 [LINE STORE 購買頁](https://store.line.me/stickershop/product/37266378/zh-Hant)
+- 新作 **柚柚水豚・情緒穩定中**：[製作紀錄](/blog/line-sticker-capybara-calm/)
 
-三組都會出現在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520)，可以先收藏起來。綿綿羊開賣後，我會把連結補在這篇。
+三組都會出現在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520)，可以先收藏起來。
 
 ## 一點誠實的筆記
 
