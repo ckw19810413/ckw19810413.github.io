@@ -34,6 +34,14 @@
     weight = 4
     [zh-tw.menu.main.params]
       icon = 'copyright'
+  [[zh-tw.menu.main]]
+    identifier = 'line-stickers'
+    name = 'LINE 貼圖'
+    url = 'https://line.me/S/shop/sticker/author/6564520'
+    weight = 5
+    [zh-tw.menu.main.params]
+      icon = 'messages'
+      newTab = true
 
 [zh-cn]
   languageCode = 'zh-CN'
@@ -71,6 +79,14 @@
     weight = 4
     [zh-cn.menu.main.params]
       icon = 'copyright'
+  [[zh-cn.menu.main]]
+    identifier = 'line-stickers'
+    name = 'LINE 贴图'
+    url = 'https://line.me/S/shop/sticker/author/6564520'
+    weight = 5
+    [zh-cn.menu.main.params]
+      icon = 'messages'
+      newTab = true
 
 [en]
   languageCode = 'en'
@@ -108,6 +124,14 @@
     weight = 4
     [en.menu.main.params]
       icon = 'copyright'
+  [[en.menu.main]]
+    identifier = 'line-stickers'
+    name = 'LINE Stickers'
+    url = 'https://line.me/S/shop/sticker/author/6564520'
+    weight = 5
+    [en.menu.main.params]
+      icon = 'messages'
+      newTab = true
 
 [ja]
   languageCode = 'ja'
@@ -145,6 +169,14 @@
     weight = 4
     [ja.menu.main.params]
       icon = 'copyright'
+  [[ja.menu.main]]
+    identifier = 'line-stickers'
+    name = 'LINEスタンプ'
+    url = 'https://line.me/S/shop/sticker/author/6564520'
+    weight = 5
+    [ja.menu.main.params]
+      icon = 'messages'
+      newTab = true
 
 [es]
   languageCode = 'es'
@@ -182,3 +214,11 @@
     weight = 4
     [es.menu.main.params]
       icon = 'copyright'
+  [[es.menu.main]]
+    identifier = 'line-stickers'
+    name = 'Stickers de LINE'
+    url = 'https://line.me/S/shop/sticker/author/6564520'
+    weight = 5
+    [es.menu.main.params]
+      icon = 'messages'
+      newTab = true
