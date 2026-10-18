@@ -67,7 +67,7 @@ categories: ["創作實驗"]
 ## 上架進度
 
 - **黏土垂耳兔睏睏・晚安熬夜中**（動態貼圖，NT$60）：已送審，也報名了 LINE「2026 放手去DRAW 貼圖大賽」。通過後自動開賣，到時會在這裡補上購買連結。
-- 前一組 [小狐狸橙橙・謝謝對不起拜託](/blog/line-animated-sticker-fox-thanks/) 也在審核中。
+- 前一組 [小狐狸橙橙・謝謝對不起拜託](https://store.line.me/stickershop/product/37375782/zh-Hant) 已開賣（10/19 更新）。之前的動態貼圖也全部開賣了，清單見 [像素松鼠存存](/blog/line-animated-sticker-squirrel-payday/) 這篇。
 - 已經開賣的動態貼圖：[糰糰倉鼠](https://store.line.me/stickershop/product/37292039/zh-Hant)、[社畜企鵝啵啵](https://store.line.me/stickershop/product/37292394/zh-Hant)、[柴犬福福](https://store.line.me/stickershop/product/37292442/zh-Hant)。
 - 一般貼圖：[柚柚水豚](https://store.line.me/stickershop/product/37291887/zh-Hant)、[麻糬海豹噗嚕](https://store.line.me/stickershop/product/37215265/zh-Hant)。
 - 所有作品：[LINE 貼圖作者主頁](https://line.me/S/shop/sticker/author/6564520)
