@@ -66,8 +66,8 @@ categories: ["創作實驗"]
 
 ## 上架進度
 
-- **像素松鼠存存・月光族日常**（動態貼圖，NT$60）：已送審，並報名 LINE「2026 放手去DRAW 貼圖大賽」。通過後自動開賣，到時補上購買連結。
-- 前一組 [黏土垂耳兔睏睏・晚安熬夜中](/blog/line-animated-sticker-bunny-goodnight/) 也在審核中。
+- **像素松鼠存存・月光族日常**（動態貼圖，NT$60）：**已開賣！** 👉 [LINE 商店購買](https://store.line.me/stickershop/product/37390747/zh-Hant)
+- 前一組 [黏土垂耳兔睏睏・晚安熬夜中](https://store.line.me/stickershop/product/37390703/zh-Hant) 也已開賣。
 - **好消息：之前的動態貼圖都開賣了！**
   - 回覆／問候：[糰糰倉鼠](https://store.line.me/stickershop/product/37292039/zh-Hant)、[柴犬福福・長輩早安](https://store.line.me/stickershop/product/37292442/zh-Hant)、[小狐狸橙橙・謝謝對不起拜託](https://store.line.me/stickershop/product/37375782/zh-Hant)、[像素鸚鵡啾比・敷衍回覆](https://store.line.me/stickershop/product/37327360/zh-Hant)
   - 上班上學：[社畜企鵝啵啵](https://store.line.me/stickershop/product/37292394/zh-Hant)、[貓頭鷹咕咕・考試週](https://store.line.me/stickershop/product/37303917/zh-Hant)、[小黃鴨嘎嘎・衝鴨應援](https://store.line.me/stickershop/product/37350499/zh-Hant)
