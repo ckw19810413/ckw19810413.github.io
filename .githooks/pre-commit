@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Block committing new *.mp4 / *.zip under content/ — they belong in Release
+# assets (python3 tools/publish_post_media.py <post bundle dir>). Same rule as
+# tools/check_no_media.sh in CI, but stops the file before it enters history.
+# Enable once per clone: git config core.hooksPath .githooks
+set -euo pipefail
+cd "$(git rev-parse --show-toplevel)"
+new=$(git diff --cached --name-only --diff-filter=AR -- 'content/*.mp4' 'content/*.zip' \
+  | sort -u | comm -23 - <(sort -u tools/media-allowlist.txt))
+if [ -n "$new" ]; then
+  echo "pre-commit: mp4/zip under content/ must be Release assets, not git files:" >&2
+  echo "$new" >&2
+  echo "Run: python3 tools/publish_post_media.py <post bundle dir>" >&2
+  exit 1
+fi
