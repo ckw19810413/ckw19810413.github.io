@@ -35,42 +35,42 @@ categories: ["創作實驗"]
 
 <div class="ms-g" id="ms-g">
   <figure class="ms-c">
-    <video src="jelly-01.mp4" poster="sound/01.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/jelly-01.mp4" poster="sound/01.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>已讀不回～你奈我何！</figcaption>
     <button type="button" class="ms-share" data-k="01">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="jelly-02.mp4" poster="sound/02.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/jelly-02.mp4" poster="sound/02.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>啊啊啊！原地發瘋中！</figcaption>
     <button type="button" class="ms-share" data-k="02">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="jelly-03.mp4" poster="sound/03.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/jelly-03.mp4" poster="sound/03.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>大哥求饒～別再cue我！</figcaption>
     <button type="button" class="ms-share" data-k="03">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="jelly-04.mp4" poster="sound/04.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/jelly-04.mp4" poster="sound/04.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>我就爛～躺平有多爽！</figcaption>
     <button type="button" class="ms-share" data-k="04">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="jelly-05.mp4" poster="sound/05.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/jelly-05.mp4" poster="sound/05.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>去你的！老子不幹了！</figcaption>
     <button type="button" class="ms-share" data-k="05">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="jelly-06.mp4" poster="sound/06.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/jelly-06.mp4" poster="sound/06.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>好委屈喔～才怪咧！</figcaption>
     <button type="button" class="ms-share" data-k="06">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="jelly-07.mp4" poster="sound/07.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/jelly-07.mp4" poster="sound/07.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>有錢進帳～瞬間復活！</figcaption>
     <button type="button" class="ms-share" data-k="07">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="jelly-08.mp4" poster="sound/08.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/jelly-08.mp4" poster="sound/08.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>靈魂登出～慢走不送！</figcaption>
     <button type="button" class="ms-share" data-k="08">傳給朋友</button>
   </figure>
@@ -84,7 +84,7 @@ categories: ["創作實驗"]
     if(!c) return;
     var k = c.querySelector("video");
     if(e.target.classList.contains("ms-share")){
-      var u = window.location.origin + window.location.pathname + "jelly-" + e.target.dataset.k + ".mp4";
+      var u = "https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/" + "jelly-" + e.target.dataset.k + ".mp4";
       if(navigator.share){
         navigator.share({title: c.querySelector("figcaption").textContent, url: u}).catch(function(){});
       } else {
@@ -108,7 +108,7 @@ categories: ["創作實驗"]
 
 ## 🔊 一次聽完全套 8 句（24 秒直式社群展示影音）
 
-<video src="jelly-promo-vertical.mp4" controls playsinline preload="metadata" poster="cover.jpg" style="max-width:380px;width:100%;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.15)"></video>
+<video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/jelly-promo-vertical.mp4" controls playsinline preload="metadata" poster="cover.jpg" style="max-width:380px;width:100%;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.15)"></video>
 
 > 💡 **聲音規格說明：** LINE Creators Market 原創市集標準上架規格為 APNG 動態貼圖。上架至原創市集時採用高清晰度、透明背景的 APNG 動態貼圖包；而超魔性的台灣娃娃音短影音版本，則可透過本網頁一鍵即時播放、轉發好友或下載永久收藏！
 
@@ -165,5 +165,5 @@ categories: ["創作實驗"]
 ## 6. 下載完整貼圖包
 
 - [WeirdJelly_LINE_stickers_upload.zip](https://github.com/ckw19810413/ckw19810413.github.io/raw/main/content/blog/2026-10-23-line-animated-sticker-weird-jelly/cover.jpg)：LINE 創作者市集 1-Click 上傳壓縮包
-- [jelly-promo-vertical.mp4](jelly-promo-vertical.mp4)：24 秒直式高畫質社群推廣展示影片
+- [jelly-promo-vertical.mp4](https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/jelly-promo-vertical.mp4)：24 秒直式高畫質社群推廣展示影片
 - [jelly-sheet.png](jelly-sheet.png)：8 款貼圖完整展示長圖

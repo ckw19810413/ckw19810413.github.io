@@ -33,42 +33,42 @@ categories: ["創作實驗"]
 
 <div class="ms-g" id="ms-g">
   <figure class="ms-c">
-    <video src="bunny-01.mp4" poster="sound/01.jpg" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-bunny/bunny-01.mp4" poster="sound/01.jpg" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>隨便啦你高興就好</figcaption>
     <button type="button" class="ms-share" data-k="01">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="bunny-02.mp4" poster="sound/02.jpg" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-bunny/bunny-02.mp4" poster="sound/02.jpg" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>啊啊啊！我不要上班！</figcaption>
     <button type="button" class="ms-share" data-k="02">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="bunny-03.mp4" poster="sound/03.jpg" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-bunny/bunny-03.mp4" poster="sound/03.jpg" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>小的知錯了～求放過！</figcaption>
     <button type="button" class="ms-share" data-k="03">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="bunny-04.mp4" poster="sound/04.jpg" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-bunny/bunny-04.mp4" poster="sound/04.jpg" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>我就爛～你能怎樣？</figcaption>
     <button type="button" class="ms-share" data-k="04">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="bunny-05.mp4" poster="sound/05.jpg" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-bunny/bunny-05.mp4" poster="sound/05.jpg" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>去你的！老子不幹了！</figcaption>
     <button type="button" class="ms-share" data-k="05">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="bunny-06.mp4" poster="sound/06.jpg" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-bunny/bunny-06.mp4" poster="sound/06.jpg" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>好委屈喔～嗚嗚嗚</figcaption>
     <button type="button" class="ms-share" data-k="06">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="bunny-07.mp4" poster="sound/07.jpg" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-bunny/bunny-07.mp4" poster="sound/07.jpg" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>有錢一切好談～啾咪</figcaption>
     <button type="button" class="ms-share" data-k="07">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="bunny-08.mp4" poster="sound/08.jpg" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-bunny/bunny-08.mp4" poster="sound/08.jpg" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>登出世界～下線勿擾</figcaption>
     <button type="button" class="ms-share" data-k="08">傳給朋友</button>
   </figure>
@@ -82,7 +82,7 @@ categories: ["創作實驗"]
     if(!c) return;
     var k = c.querySelector("video");
     if(e.target.classList.contains("ms-share")){
-      var u = window.location.origin + window.location.pathname + "bunny-" + e.target.dataset.k + ".mp4";
+      var u = "https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-bunny/" + "bunny-" + e.target.dataset.k + ".mp4";
       if(navigator.share){
         navigator.share({title: c.querySelector("figcaption").textContent, url: u}).catch(function(){});
       } else {
@@ -104,7 +104,7 @@ categories: ["創作實驗"]
 
 ## 🔊 一次聽完 8 句（22 秒直式展示影音）
 
-<video src="bunny-voice.mp4" controls playsinline preload="metadata" poster="cover.jpg" style="max-width:360px;width:100%;border-radius:12px"></video>
+<video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-bunny/bunny-voice.mp4" controls playsinline preload="metadata" poster="cover.jpg" style="max-width:360px;width:100%;border-radius:12px"></video>
 
 > 💡 **聲音規格說明：** LINE Creators Market 原創市集標準為 APNG 動態貼圖（目前聲音貼圖由官方合作創作者優先開放）。上架至 LINE 原創市集時採用高清晰度、透明背景的 APNG 動態貼圖；而超魔性的台灣娃娃音短影音版本，則可透過本網頁一鍵播放、轉發好友或下載永久收藏！
 

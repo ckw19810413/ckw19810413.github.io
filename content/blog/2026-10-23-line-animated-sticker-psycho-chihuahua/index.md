@@ -37,42 +37,42 @@ categories: ["創作實驗"]
 
 <div class="ms-g" id="ms-g">
   <figure class="ms-c">
-    <video src="chihuahua-01.mp4" poster="sound/01.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-psycho-chihuahua/chihuahua-01.mp4" poster="sound/01.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>我看你是在想屁吃</figcaption>
     <button type="button" class="ms-share" data-k="01">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="chihuahua-02.mp4" poster="sound/02.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-psycho-chihuahua/chihuahua-02.mp4" poster="sound/02.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>破防了！徹底發瘋！</figcaption>
     <button type="button" class="ms-share" data-k="02">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="chihuahua-03.mp4" poster="sound/03.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-psycho-chihuahua/chihuahua-03.mp4" poster="sound/03.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>已讀亂回～你能怎樣？</figcaption>
     <button type="button" class="ms-share" data-k="03">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="chihuahua-04.mp4" poster="sound/04.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-psycho-chihuahua/chihuahua-04.mp4" poster="sound/04.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>聽君一席話 如聽一席話</figcaption>
     <button type="button" class="ms-share" data-k="04">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="chihuahua-05.mp4" poster="sound/05.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-psycho-chihuahua/chihuahua-05.mp4" poster="sound/05.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>退！退！退！惡靈退散！</figcaption>
     <button type="button" class="ms-share" data-k="05">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="chihuahua-06.mp4" poster="sound/06.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-psycho-chihuahua/chihuahua-06.mp4" poster="sound/06.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>我佛慈悲 但你不配</figcaption>
     <button type="button" class="ms-share" data-k="06">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="chihuahua-07.mp4" poster="sound/07.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-psycho-chihuahua/chihuahua-07.mp4" poster="sound/07.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>我就爛～你能奈我何？</figcaption>
     <button type="button" class="ms-share" data-k="07">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="chihuahua-08.mp4" poster="sound/08.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-psycho-chihuahua/chihuahua-08.mp4" poster="sound/08.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>封鎖刪除 慢走不送</figcaption>
     <button type="button" class="ms-share" data-k="08">傳給朋友</button>
   </figure>
@@ -128,7 +128,7 @@ categories: ["創作實驗"]
 
 ## 🎬 24 秒直式精華影音（YouTube Shorts / IG Reels）
 
-<video src="chihuahua-promo-vertical.mp4" controls playsinline style="max-width:360px;width:100%;border-radius:12px;margin:1em 0;box-shadow:0 8px 24px rgba(0,0,0,0.15)"></video>
+<video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-psycho-chihuahua/chihuahua-promo-vertical.mp4" controls playsinline style="max-width:360px;width:100%;border-radius:12px;margin:1em 0;box-shadow:0 8px 24px rgba(0,0,0,0.15)"></video>
 
 ---
 

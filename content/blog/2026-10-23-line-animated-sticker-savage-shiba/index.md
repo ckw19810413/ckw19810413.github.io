@@ -35,42 +35,42 @@ categories: ["創作實驗"]
 
 <div class="ms-g" id="ms-g">
   <figure class="ms-c">
-    <video src="shiba-01.mp4" poster="sound/01.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-shiba/shiba-01.mp4" poster="sound/01.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>隨便啦～你爽就好</figcaption>
     <button type="button" class="ms-share" data-k="01">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="shiba-02.mp4" poster="sound/02.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-shiba/shiba-02.mp4" poster="sound/02.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>啊啊啊！我真的會謝！</figcaption>
     <button type="button" class="ms-share" data-k="02">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="shiba-03.mp4" poster="sound/03.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-shiba/shiba-03.mp4" poster="sound/03.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>大哥我錯了！求放過！</figcaption>
     <button type="button" class="ms-share" data-k="03">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="shiba-04.mp4" poster="sound/04.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-shiba/shiba-04.mp4" poster="sound/04.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>我就爛～你能拿我怎樣？</figcaption>
     <button type="button" class="ms-share" data-k="04">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="shiba-05.mp4" poster="sound/05.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-shiba/shiba-05.mp4" poster="sound/05.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>老子不幹了！誰愛做誰做！</figcaption>
     <button type="button" class="ms-share" data-k="05">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="shiba-06.mp4" poster="sound/06.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-shiba/shiba-06.mp4" poster="sound/06.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>好委屈喔～才怪！</figcaption>
     <button type="button" class="ms-share" data-k="06">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="shiba-07.mp4" poster="sound/07.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-shiba/shiba-07.mp4" poster="sound/07.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>有錢好辦事～啾咪！</figcaption>
     <button type="button" class="ms-share" data-k="07">傳給朋友</button>
   </figure>
   <figure class="ms-c">
-    <video src="shiba-08.mp4" poster="sound/08.png" muted autoplay loop playsinline preload="metadata"></video>
+    <video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-shiba/shiba-08.mp4" poster="sound/08.png" muted autoplay loop playsinline preload="metadata"></video>
     <figcaption>下線登出～慢走不送！</figcaption>
     <button type="button" class="ms-share" data-k="08">傳給朋友</button>
   </figure>
@@ -84,7 +84,7 @@ categories: ["創作實驗"]
     if(!c) return;
     var k = c.querySelector("video");
     if(e.target.classList.contains("ms-share")){
-      var u = window.location.origin + window.location.pathname + "shiba-" + e.target.dataset.k + ".mp4";
+      var u = "https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-shiba/" + "shiba-" + e.target.dataset.k + ".mp4";
       if(navigator.share){
         navigator.share({title: c.querySelector("figcaption").textContent, url: u}).catch(function(){});
       } else {
@@ -108,7 +108,7 @@ categories: ["創作實驗"]
 
 ## 🔊 一次聽完全套 8 句（24 秒直式社群展示影音）
 
-<video src="shiba-promo-vertical.mp4" controls playsinline preload="metadata" poster="cover.jpg" style="max-width:380px;width:100%;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.15)"></video>
+<video src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-savage-shiba/shiba-promo-vertical.mp4" controls playsinline preload="metadata" poster="cover.jpg" style="max-width:380px;width:100%;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.15)"></video>
 
 > 💡 **聲音規格說明：** LINE Creators Market 原創市集標準規格為 APNG 動態貼圖。上架至原創市集時採用高清晰度、透明背景的 APNG 動態貼圖包；而超魔性的台灣娃娃音短影音版本，則可透過本網頁一鍵即時播放、轉發好友或下載永久收藏！
 
