@@ -37,11 +37,10 @@
   [[zh-tw.menu.main]]
     identifier = 'line-stickers'
     name = 'LINE 貼圖'
-    url = 'https://line.me/S/shop/sticker/author/6564520'
+    url = '/line-stickers/'
     weight = 5
     [zh-tw.menu.main.params]
       icon = 'messages'
-      newTab = true
 
 [zh-cn]
   languageCode = 'zh-CN'
@@ -82,11 +81,10 @@
   [[zh-cn.menu.main]]
     identifier = 'line-stickers'
     name = 'LINE 贴图'
-    url = 'https://line.me/S/shop/sticker/author/6564520'
+    url = '/line-stickers/'
     weight = 5
     [zh-cn.menu.main.params]
       icon = 'messages'
-      newTab = true
 
 [en]
   languageCode = 'en'
