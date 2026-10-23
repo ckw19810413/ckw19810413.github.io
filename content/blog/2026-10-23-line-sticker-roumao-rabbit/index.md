@@ -1,7 +1,7 @@
 ---
 title: "白白軟軟的療癒系：「肉毛兔」LINE 貼圖，打招呼、撒嬌、哭哭、吃餅乾的日常"
 slug: "line-sticker-roumao-rabbit"
-date: 2026-10-23T20:30:00+08:00
+date: 2026-10-23T15:03:00+08:00
 draft: false
 image: cover.jpg
 cover: "https://ckw19810413.github.io/blog/line-sticker-roumao-rabbit/cover.jpg"

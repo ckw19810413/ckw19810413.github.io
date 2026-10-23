@@ -1,7 +1,7 @@
 ---
 title: "2026 聖誕節 LINE 貼圖推薦：交換禮物、跨年、2027 羊年拜年，冬天用得到的 6 組療癒貼圖"
 slug: "line-sticker-christmas-winter-gift"
-date: 2026-10-23T20:40:00+08:00
+date: 2026-10-23T15:04:00+08:00
 draft: false
 image: cover.jpg
 cover: "https://ckw19810413.github.io/blog/line-sticker-christmas-winter-gift/cover.jpg"
