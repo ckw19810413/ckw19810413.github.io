@@ -10,6 +10,8 @@ tags: ["LINE貼圖", "LINE動態貼圖", "變種吉娃娃", "迷因貼圖", "醜
 categories: ["創作實驗"]
 ---
 
+> 🛒 **變種魔性吉娃娃・發瘋厭世日常** 已在 LINE 商店正式開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37510988)
+
 在現代即時通訊的日常裡，當文字已經無法宣洩內心深處的崩潰與無奈，什麼樣的貼圖最能「一擊必殺、句點全場」？答案永遠是：**突破傳統審美極限、荒謬到令人笑出來的【醜萌與怪誕迷因系】（Weird-Cute & Meme）！**
 
 今天，Massor 創作團隊正式推出第二十六組原創動態貼圖——**「變種魔性吉娃娃・發瘋厭世日常」（Mutant Meme Chihuahua: Screaming & Meltdown）**！
@@ -160,6 +162,8 @@ categories: ["創作實驗"]
    - **創意類別**：Cute / Dogs
    - **販售價格**：建議設定 50 LINE 代幣（NT$33）或 100 LINE 代幣（NT$66）。
 4. 上傳圖片：直接上傳本專案生成的 `MutantChihuahua_LINE_stickers_upload.zip`，系統將自動比對 `main.png`、`tab.png` 與 8 張 `01.png` ~ `08.png`。
-5. 本套貼圖已完成上傳與自動錯誤檢查（**0 錯誤**），審核通過後將自動於全區（197 個地區）公開販售！
+5. 本套貼圖已完成上傳與自動錯誤檢查（**0 錯誤**），已審核通過，於全區（197 個地區）公開販售中 👉 [LINE 商店](https://line.me/S/sticker/37510988)
 
 👉 更多原創動態貼圖系列：請瀏覽 [Massor 的 LINE 貼圖專頁](https://line.me/S/shop/sticker/author/6564520) 或 [LINE 貼圖總目錄](/line-stickers/)！
+
+> 🛒 [在 LINE 商店購買「變種魔性吉娃娃・發瘋厭世日常」](https://line.me/S/sticker/37510988)｜全系列依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
