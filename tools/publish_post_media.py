@@ -19,7 +19,7 @@ import argparse, json, os, pathlib, re, sys, urllib.error, urllib.request
 
 REPO = 'ckw19810413/ckw19810413.github.io'
 API = f'https://api.github.com/repos/{REPO}'
-MEDIA = ('.mp4', '.zip')
+MEDIA = ('.mp4', '.webm', '.mov', '.mkv', '.zip', '.gz', '.7z', '.wav')  # keep in sync with check_no_media.sh
 
 
 def token():
@@ -58,7 +58,7 @@ def upload(rel, path, name):
         print(f'  = {name} (already on release)')
         return
     url = rel['upload_url'].split('{')[0] + f'?name={name}'
-    ctype = 'video/mp4' if name.endswith('.mp4') else 'application/zip'
+    ctype = 'video/mp4' if name.lower().endswith('.mp4') else 'application/octet-stream'
     gh('POST', url, path.read_bytes(), ctype)
     print(f'  + {name} ({path.stat().st_size} B)')
 

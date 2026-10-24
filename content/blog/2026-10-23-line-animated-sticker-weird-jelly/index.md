@@ -164,6 +164,6 @@ categories: ["創作實驗"]
 
 ## 6. 下載完整貼圖包
 
-- [WeirdJelly_LINE_stickers_upload.zip](https://github.com/ckw19810413/ckw19810413.github.io/raw/main/content/blog/2026-10-23-line-animated-sticker-weird-jelly/cover.jpg)：LINE 創作者市集 1-Click 上傳壓縮包
+- [WeirdJelly_LINE_stickers_upload.zip](https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/WeirdJelly_LINE_stickers_upload.zip)：LINE 創作者市集 1-Click 上傳壓縮包
 - [jelly-promo-vertical.mp4](https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-line-animated-sticker-weird-jelly/jelly-promo-vertical.mp4)：24 秒直式高畫質社群推廣展示影片
 - [jelly-sheet.png](jelly-sheet.png)：8 款貼圖完整展示長圖
