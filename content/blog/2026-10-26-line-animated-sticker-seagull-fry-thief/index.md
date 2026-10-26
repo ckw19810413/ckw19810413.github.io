@@ -12,7 +12,7 @@ categories: ["創作實驗"]
 
 去過海邊的人都知道，**海鷗是全世界最賤的鳥**：搶你薯條、對你大叫、搶完還一臉「怎樣？」。這次走「賤萌與浮誇顏藝系」：粗黑輪廓線、賽璐珞平塗、翻白眼咆哮土下座一次到位，主角就是這隻胖嘟嘟的**賤嘴海鷗阿薯**。
 
-> 🛒 **賤嘴海鷗阿薯・搶薯條互嗆王**（動態貼圖・NT$60）已送 LINE 審核，通常 1–3 天內上架。上架前可先逛 [Massor 的 LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520)，全系列依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)。
+> 🛒 **賤嘴海鷗阿薯・搶薯條互嗆王** 已在 LINE 商店正式開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37542075)
 
 ![賤嘴海鷗阿薯 8 張動態貼圖](ashu-sheet.webp)
 
@@ -115,6 +115,6 @@ LINE Creators Market 目前沒有「有聲貼圖」類型，所以 App 內的貼
 | 07 | 來咬我啊 | 嘴砲吵贏之後的挑釁 |
 | 08 | 哼！ | 傲嬌生氣，不理你了 |
 
-> 🛒 上架後會在這裡補上 LINE 商店購買連結｜先看 [Massor 的 LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520)｜全系列 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「賤嘴海鷗阿薯・搶薯條互嗆王」](https://line.me/S/sticker/37542075)｜全系列依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
 
 本套貼圖為 AI 輔助創作。
