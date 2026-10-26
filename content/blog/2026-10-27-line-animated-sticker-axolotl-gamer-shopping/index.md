@@ -1,7 +1,7 @@
 ---
 title: "開團囉！雙11衝！「宅宅六角恐龍宅寶」LINE 動態貼圖 2 套 32 張＋娃娃音"
 slug: "line-animated-sticker-axolotl-gamer-shopping"
-date: 2026-10-27T12:00:00+08:00
+date: 2026-10-27T04:00:00+08:00
 draft: false
 image: cover.jpg
 cover: "https://ckw19810413.github.io/blog/line-animated-sticker-axolotl-gamer-shopping/cover.jpg"
