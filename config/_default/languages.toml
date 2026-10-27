@@ -41,6 +41,13 @@
     weight = 5
     [zh-tw.menu.main.params]
       icon = 'messages'
+  [[zh-tw.menu.main]]
+    identifier = 'travelog'
+    name = '山佳遊記'
+    url = '/travelog/'
+    weight = 6
+    [zh-tw.menu.main.params]
+      icon = 'link'
 
 [zh-cn]
   languageCode = 'zh-CN'
