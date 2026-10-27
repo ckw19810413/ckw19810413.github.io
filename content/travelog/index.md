@@ -121,9 +121,9 @@ tags: ["台灣旅遊", "新北景點", "山佳火車站", "鐵道漫遊", "蓋�
 
 ## 🎬 完整遊記影片欣賞（YouTube 4K/1080p 實境導覽）
 
-歡迎點擊觀賞由 **[@slashman413](https://www.youtube.com/@slashman413)** 頻道親自採集剪輯的完整 16:9 雙語導覽高畫質遊記影片（全新字幕編碼優化與精確景點導覽版）：
+歡迎點擊觀賞由 **[@slashman413](https://www.youtube.com/@slashman413)** 頻道親自採集剪輯的完整 16:9 雙語導覽高畫質遊記影片（長輩友善大字幕、醒目景點圖卡與歷史文化捲動圖卡版）：
 
-{{< youtube JpzfypIqIhU >}}
+{{< youtube _xm5fWlMHOs >}}
 
 ---
 
