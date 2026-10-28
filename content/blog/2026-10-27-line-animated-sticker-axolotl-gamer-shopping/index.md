@@ -12,7 +12,7 @@ categories: ["創作實驗"]
 
 最近 LINE 上最紅的貼圖有兩個共同點：**角色小小一隻、圓圓軟軟**（吉伊卡哇、小傢伙那一路），而且**句子要能天天用**。這次的主角是粉紅色的**宅宅六角恐龍「宅寶」**。牠白天上網購物，晚上開團打電動，所以這次一口氣出了 **2 套共 32 張**動態貼圖。
 
-> 🛒 **宅宅六角恐龍宅寶** 2 套已送審，通過後就會上架（先看作者頁）（動態貼圖・NT$60）👉 [在 LINE 商店購買 Vol.1「電玩開團中」](https://line.me/S/shop/sticker/author/6564520)｜[在 LINE 商店購買 Vol.2「網購剁手中」](https://line.me/S/shop/sticker/author/6564520)
+> 🛒 **宅宅六角恐龍宅寶** 2 套已在 LINE 商店正式開賣（動態貼圖・各 NT$60）👉 [在 LINE 商店購買 Vol.1「電玩開團中」](https://line.me/S/sticker/37588158)｜[在 LINE 商店購買 Vol.2「網購剁手中」](https://line.me/S/sticker/37588159)
 
 ## Vol.1 電玩開團中
 
@@ -277,6 +277,6 @@ LINE Creators Market 目前沒有「有聲貼圖」類型，所以 App 裡的貼
 | 15 | 先買再說！ | 衝動、先做再說 |
 | 16 | 謝謝老闆！ | 有人請客、感謝贊助 |
 
-> 🛒 [在 LINE 商店購買 Vol.1「電玩開團中」](https://line.me/S/shop/sticker/author/6564520)｜[在 LINE 商店購買 Vol.2「網購剁手中」](https://line.me/S/shop/sticker/author/6564520)｜全系列依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買 Vol.1「電玩開團中」](https://line.me/S/sticker/37588158)｜[在 LINE 商店購買 Vol.2「網購剁手中」](https://line.me/S/sticker/37588159)｜全系列依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
 
 本套貼圖為 AI 輔助創作。
