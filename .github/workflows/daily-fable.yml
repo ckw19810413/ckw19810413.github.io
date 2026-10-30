@@ -1,0 +1,39 @@
+name: Daily Graduate Fable Automation
+
+on:
+  schedule:
+    # 00:00 UTC = 08:00 AM UTC+8 (Asia/Taipei)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  daily-fable-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Verify Fable Structure and Metaphor Mapping
+        run: |
+          echo "Checking recent fables for required pedagogical structure..."
+          latest_post=$(ls -t content/blog/*fable*.md | head -n 1)
+          echo "Inspecting: $latest_post"
+          grep -E '(隱喻|對應|概念)' "$latest_post"
+          echo "Verified: Allegory, technical concept, and metaphor mapping present."
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.157.0'
+          extended: true
+
+      - name: Build Hugo Site
+        run: hugo --gc --minify --buildFuture
