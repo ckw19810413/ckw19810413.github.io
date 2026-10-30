@@ -43,7 +43,7 @@
       icon = 'messages'
   [[zh-tw.menu.main]]
     identifier = 'travelog'
-    name = '山佳遊記'
+    name = '沖繩遊記 2027'
     url = '/travelog/'
     weight = 6
     [zh-tw.menu.main.params]
