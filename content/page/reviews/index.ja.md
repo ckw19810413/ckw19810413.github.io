@@ -21,7 +21,7 @@ Slashman Tools の製品一覧へようこそ。現在販売中のすべての�
 | [Cowork Pro](https://slashmaster6.gumroad.com/l/cowork-pro) | $59 | Cowork MCP フレームワークで AI チームを構築するマルチエージェント統合コース | [レビュー記事]({{< relref "/post/build-ai-agent-team" >}}) |
 | [Ship With AI](https://slashmaster6.gumroad.com/l/ship-with-ai) | $39 | AI でデジタル製品を迅速にローンチする実践コース | — |
 | [SAAS スターターキット](https://slashmaster6.gumroad.com/l/kuvajr) | $99.99 | ゼロから有料ユーザー 1000 人へ：SAAS 製品ローンチのロードマップとテンプレート | — |
-| [DGX Spark デプロイキット](https://slashmaster6.gumroad.com/l/bppdqp) | $49 | vLLM・ComfyUI・GPU 最適化によるローカル AI インフラ構築ガイド | — |
+| [DGX Spark デプロイキット](https://slashmaster6.gumroad.com/l/bppdqp) | $79 | vLLM・ComfyUI・GPU 最適化によるローカル AI インフラ構築ガイド | — |
 
 ## Slashman Tools を選ぶ理由
 
