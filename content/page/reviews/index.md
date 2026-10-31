@@ -21,7 +21,7 @@ description: "Slashman Tools 數位產品總覽：AI 工具、飛書模板、投
 | [Cowork Pro](https://slashmaster6.gumroad.com/l/cowork-pro) | $59 | 多 Agent AI 協作框架教學：建立你自己的 AI 工作團隊 | [閱讀評價]({{< relref "/post/build-ai-agent-team" >}}) |
 | [Ship With AI](https://slashmaster6.gumroad.com/l/ship-with-ai) | $39 | 用 AI 快速打造並上線數位產品的完整實戰課程 | [閱讀評價]({{< relref "/post/gumroad-digital-product-strategy" >}}) |
 | [SAAS 創業套件](https://slashmaster6.gumroad.com/l/kuvajr) | $99.99 | 從 0 到 1000 付費用戶的 SAAS 產品上市路線圖與模板 | [閱讀評價]({{< relref "/post/digital-product-launch-strategy-1000-users" >}}) |
-| [DGX Spark 部署套件](https://slashmaster6.gumroad.com/l/bppdqp) | $49 | 本機 AI 基礎設施部署指南：vLLM、ComfyUI 與 GPU 最佳化 | [閱讀評價]({{< relref "/post/local-ai-infrastructure-guide" >}}) |
+| [DGX Spark 部署套件](https://slashmaster6.gumroad.com/l/bppdqp) | $79 | 本機 AI 基礎設施部署指南：vLLM、ComfyUI 與 GPU 最佳化 | [閱讀評價]({{< relref "/post/local-ai-infrastructure-guide" >}}) |
 
 ## 為什麼選擇 Slashman Tools？
 

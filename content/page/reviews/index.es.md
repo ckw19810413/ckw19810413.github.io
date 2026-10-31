@@ -21,7 +21,7 @@ Todos los productos se venden a través de Gumroad — descarga instantánea tra
 | [Cowork Pro](https://slashmaster6.gumroad.com/l/cowork-pro) | $59 | Curso de orquestación multiagente: construye tu propio equipo de IA con el framework Cowork MCP | [Leer reseña]({{< relref "/post/build-ai-agent-team" >}}) |
 | [Ship With AI](https://slashmaster6.gumroad.com/l/ship-with-ai) | $39 | Curso práctico completo para lanzar productos digitales rápidamente con IA | — |
 | [SAAS Starter Kit](https://slashmaster6.gumroad.com/l/kuvajr) | $99.99 | De cero a 1000 usuarios de pago: hoja de ruta y plantillas de lanzamiento de productos SAAS | — |
-| [DGX Spark Kit](https://slashmaster6.gumroad.com/l/bppdqp) | $49 | Guía de despliegue de infraestructura de IA local: vLLM, ComfyUI y optimización de GPU | — |
+| [DGX Spark Kit](https://slashmaster6.gumroad.com/l/bppdqp) | $79 | Guía de despliegue de infraestructura de IA local: vLLM, ComfyUI y optimización de GPU | — |
 
 ## ¿Por qué Slashman Tools?
 

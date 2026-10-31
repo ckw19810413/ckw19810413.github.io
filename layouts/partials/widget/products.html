@@ -4,7 +4,8 @@
   pages (scope "page") via config/_default/params.toml [widgets].
 
   Product slugs validated live against Gumroad 2026-08-02 (all 200 OK,
-  slashmaster6 store).
+  slashmaster6 store). Prices synced to the Gumroad API 2026-10-31; Feishu
+  (xohjh) dropped — retired 2026-10-18, URL now 404.
 */ -}}
 {{- $lang := .Context.Lang -}}
 {{- $isEn := eq $lang "en" -}}
@@ -17,14 +18,13 @@
 
     <div class="widget-products--list" style="display:flex;flex-direction:column;gap:10px">
         {{- $products := slice
-            (dict "slug" "bppdqp" "nameEn" "DGX Spark Kit" "nameZh" "DGX Spark 部署套件" "price" "$99.99")
-            (dict "slug" "diwoc" "nameEn" "AI Prompt Library" "nameZh" "AI Prompt 庫" "price" "$29")
-            (dict "slug" "vzalgb" "nameEn" "AI Practical Course" "nameZh" "AI 實戰課程" "price" "$99")
-            (dict "slug" "mgtpcn" "nameEn" "Ship With AI" "nameZh" "Ship With AI 課程" "price" "$99.99")
-            (dict "slug" "xfhfps" "nameEn" "Cowork Pro" "nameZh" "Cowork Pro" "price" "$99.99")
-            (dict "slug" "xohjh" "nameEn" "Feishu Template Marketplace" "nameZh" "飛書模板市集" "price" "$49")
+            (dict "slug" "bppdqp" "nameEn" "DGX Spark Kit" "nameZh" "DGX Spark 部署套件" "price" "$79")
+            (dict "slug" "diwoc" "nameEn" "AI Prompt Library" "nameZh" "AI Prompt 庫" "price" "$39")
+            (dict "slug" "vzalgb" "nameEn" "AI Practical Course" "nameZh" "AI 實戰課程" "price" "$69")
+            (dict "slug" "mgtpcn" "nameEn" "Ship With AI" "nameZh" "Ship With AI 課程" "price" "$39")
+            (dict "slug" "xfhfps" "nameEn" "Cowork Pro" "nameZh" "Cowork Pro" "price" "$59")
             (dict "slug" "kuvajr" "nameEn" "SAAS Starter Kit" "nameZh" "SAAS 創業套件" "price" "$99.99")
-            (dict "slug" "etf-dashboard" "nameEn" "ETF Dashboard" "nameZh" "ETF 儀表板" "price" "$199")
+            (dict "slug" "etf-dashboard" "nameEn" "ETF Dashboard" "nameZh" "ETF 儀表板" "price" "$29")
         -}}
         {{- range $products -}}
             {{- $name := cond $isEn .nameEn .nameZh -}}
