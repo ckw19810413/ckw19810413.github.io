@@ -1,0 +1,59 @@
+name: Daily Graduate Fable & Blog Publishing Pipeline
+
+on:
+  schedule:
+    # 00:00 UTC = 08:00 AM UTC+8 (Asia/Taipei)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'daily-blog'
+  cancel-in-progress: false
+
+jobs:
+  research-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Verify Graduate Fable Metaphor and Structure
+        run: |
+          echo "Verifying latest graduate fable post for required pedagogical structure..."
+          latest_post=$(ls -t content/blog/*fable*.md | head -n 1)
+          echo "Inspecting post: $latest_post"
+          grep -E '(概念|隱喻|對應)' "$latest_post"
+          echo "Verified: Allegorical narrative, concept reveal, and metaphor mapping confirmed."
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.157.0'
+          extended: true
+
+      - name: Build Hugo Site
+        run: hugo --gc --minify --buildFuture
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: research-and-publish
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
