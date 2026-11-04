@@ -17,7 +17,6 @@ description: "Slashman Tools 数字产品总览：AI 工具、飞书模板、投
 | [ETF Dashboard](https://slashmaster6.gumroad.com/l/etf-dashboard) | $29 | 自动化 ETF 研究仪表盘，搭配 AI 分析、回测与再平衡工具 | [阅读评测]({{< relref "/post/etf-ai-dashboard" >}}) |
 | [AI Prompt 库](https://slashmaster6.gumroad.com/l/diwoc) | $39 | 300+ 实战 AI Prompt 模板，涵盖文案、营销、程序开发与日常效率 | [阅读评测]({{< relref "/post/ai-prompts-guide" >}}) |
 | [AI 实战课程](https://slashmaster6.gumroad.com/l/vzalgb) | $69 | 从零到实战的 AI 应用课程：提示工程、自动化工作流与 AI Agent | [阅读评测]({{< relref "/post/ultimate-ai-prompt-engineering-guide-2026" >}}) |
-| [飞书模板市集](https://slashmaster6.gumroad.com/l/feishu-templates) | $29 | 20+ 套飞书企业模板：项目管理、CRM、自动化工作流 | [阅读评测]({{< relref "/post/feishu-templates" >}}) |
 | [Cowork Pro](https://slashmaster6.gumroad.com/l/cowork-pro) | $59 | 多 Agent AI 协作框架教学：建立你自己的 AI 工作团队 | [阅读评测]({{< relref "/post/build-ai-agent-team" >}}) |
 | [Ship With AI](https://slashmaster6.gumroad.com/l/ship-with-ai) | $39 | 用 AI 快速打造并上线数字产品的完整实战课程 | [阅读评测]({{< relref "/post/gumroad-digital-product-strategy" >}}) |
 | [SAAS 创业套件](https://slashmaster6.gumroad.com/l/kuvajr) | $99.99 | 从 0 到 1000 付费用户的 SAAS 产品上市路线图与模板 | [阅读评测]({{< relref "/post/gumroad-digital-product-strategy" >}}) |

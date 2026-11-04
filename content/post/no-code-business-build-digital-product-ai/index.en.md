@@ -164,7 +164,7 @@ Once you have an idea, the next step is to use AI to rapidly build the product.
 
 **AI Acceleration Effect**: A template that would take an unskilled designer 3 days to make can be completed in 1 day by you + AI.
 
-**My Example**: The 15 templates in the [Feishu Template Market](https://gumroad.com/l/xohjh) took an average of 2-4 hours each to complete.
+**My Example**: The 15 templates in the Feishu Template Market took an average of 2-4 hours each to complete.
 
 ### Product Type 3: AI Prompt Library
 
