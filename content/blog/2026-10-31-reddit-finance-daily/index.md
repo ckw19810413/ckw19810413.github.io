@@ -178,6 +178,5 @@ aliases:
 - ☕ **請我喝杯咖啡**：[Ko-fi 小費贊助](https://ko-fi.com/ytstories0413)（支持每日自動化爬蟲與語音影音渲染運算）
 - 📚 **數位產品與實戰工具**：
   - [Gumroad 數位商品專區](https://slashmaster6.gumroad.com/)：收錄精選 AI Prompt 庫、生產力工作流模板與自動化腳本
-  - [飛書精選高人效商業模板](https://slashmaster6.gumroad.com/l/xohjh)
 - 🛠️ **免費線上工具箱**：[SlashmanTools 免費 Web 工具集](https://slashmantools.us/)（Token 成本換算、顯存試算、AI 工具庫）
 - 📖 **推薦經典閱讀**：[《晶片戰爭》（Chip War）繁中版 / 英文版精裝推薦](https://www.amazon.com/dp/059371671X?tag=ytstories0413-20)

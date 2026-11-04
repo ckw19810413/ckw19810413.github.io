@@ -164,7 +164,7 @@ Una vez que tengas la idea, el siguiente paso es usar la IA para construir el pr
 
 **Efecto de aceleración de IA**: Una plantilla que a un diseñador inexperto le toma 3 días, tú + IA podrían completarla en 1 día.
 
-**Mi ejemplo real**: Las 15 plantillas del [Mercado de plantillas de Feishu](https://gumroad.com/l/xohjh) se completaron en un promedio de 2-4 horas cada una.
+**Mi ejemplo real**: Las 15 plantillas del Mercado de plantillas de Feishu se completaron en un promedio de 2-4 horas cada una.
 
 ### Tipo de producto 3: Biblioteca de prompts de IA
 

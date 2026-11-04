@@ -133,7 +133,6 @@ aliases:
 - ☕ **請我喝杯咖啡**：[Ko-fi 小費贊助 (ytstories0413)](https://ko-fi.com/ytstories0413) 或 [Ko-fi 贊助 (slashman413)](https://ko-fi.com/slashman413)（支持每日自動化爬蟲、語音合成與雲端運算）
 - 📚 **數位產品與高人效生產力工具**：
   - [Gumroad 數位商品專區](https://slashmaster6.gumroad.com/)：收錄精選 AI Prompt 庫、生產力自動化工作流與實戰腳本
-  - [飛書精選高人效商業模板庫](https://slashmaster6.gumroad.com/l/xohjh)：助你一人公司高效運營，打通專案管理與自動化數據流
   - [SlashmanTools 免費 Web 工具集](https://slashmantools.us/)：Token 成本計算器、顯存預估、開源 AI 工具導航
 - 📖 **精選經典閱讀推薦**：
   - [《晶片戰爭》（Chip War）](https://www.amazon.com/dp/059371671X?tag=ytstories0413-20)：理解全球晶片霸權與印太供應鏈重組的必讀經典
