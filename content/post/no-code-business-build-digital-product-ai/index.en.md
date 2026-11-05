@@ -347,43 +347,32 @@ Actions:
 
 ## My Real Case: From 0 to a Digital Product Ecosystem
 
-Here is my actual growth path at [Slashman Tools](https://ckw19810413.github.io/):
+Here are the products I built at [Slashman Tools](https://ckw19810413.github.io/), in order:
 
 ### January 2026: The First Product
 
 - **Product**: AI Prompt Library (200+ carefully designed prompts)
 - **Pricing**: $29 one-time purchase
 - **Platform**: Gumroad
-- **First Month Sales**: 37 units
 
-**Reasons for Success**:
+**Why I chose it**:
 - Solved a real pain point (AI prompts are hard to write)
 - Good quality (every prompt was tested)
 - Reasonable price ($29 is a low barrier to decision)
 
-### March 2026: The Second Product
-
-- **Product**: Feishu Template Kit
-- **Pricing**: $49 one-time purchase
-- **First Month Sales**: 24 units
-
-**Strategy**: Utilized the AI Prompt Library customer base for cross-selling.
-
-### May 2026: The Third Product
+### May 2026: The Second Product
 
 - **Product**: Practical AI Tutorial Course
 - **Pricing**: $99 one-time purchase
-- **First Month Sales**: 41 units
 
-**Strategy**: Provided advanced content for customers who wanted to learn AI more deeply.
+**Strategy**: Advanced content for people who want to learn AI more deeply.
 
-### July 2026: The Fourth Product
+### July 2026: The Third Product
 
 - **Product**: ETF AI Dashboard (Subscription)
 - **Pricing**: $29/month or $199 lifetime
-- **Current Subscribers**: Continuously growing
 
-**Strategy**: Shifted from one-off products to recurring revenue.
+**Strategy**: Adding a subscription option alongside one-time products.
 
 ---
 

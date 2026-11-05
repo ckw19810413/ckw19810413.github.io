@@ -29,7 +29,7 @@ Pero aquí está la dura realidad: **el 80 % de los vendedores de Gumroad gana m
 
 No es porque sus productos sean malos. Es porque su estrategia es equivocada.
 
-Esta guía no predica teoría. Comparte la metodología que he validado en el proyecto Slashman Tools —construir cuatro productos digitales (Biblioteca de Prompts de IA 29 $, Plantillas de Feishu 49 $, Curso de IA 99 $, Panel de ETF 29 $/mes) y generar ingresos pasivos constantes mediante una estrategia sistemática—.
+Esta guía no predica teoría. Comparte el método que uso en el proyecto Slashman Tools para construir productos digitales (Biblioteca de Prompts de IA 29 $, Curso de IA 99 $, Panel de ETF 29 $/mes) con una estrategia sistemática.
 
 **Lo que aprenderás:**
 
@@ -105,7 +105,6 @@ El precio es la decisión más crítica para los productos digitales. Demasiado 
 | Producto | Precio | Estrategia | Fundamento |
 |---------|-------|----------|-----------|
 | Biblioteca de Prompts de IA | 29 $ | Entrada de baja barrera | Cualquiera puede probar; baja el umbral de decisión |
-| Plantillas de Feishu | 49 $ | Valor medio-alto | Apunta a usuarios empresariales, alto valor percibido |
 | Curso de IA | 99 $ | Entrega de alto valor | Curso completo, bajo coste de tiempo pero alta percepción de valor |
 | Panel de ETF | 29 $/mes o 199 $ de por vida | Modelo dual | Baja la barrera de entrada y satisface a los compradores de una sola vez |
 
@@ -131,8 +130,6 @@ Muestra un precio de comparación «artificialmente alto». Por ejemplo: «Antes
 
 **5. Suscripción frente a compra única**
 Para productos de tipo herramienta (como el Panel de ETF), ofrecer a la vez suscripción y compra única es el enfoque más eficaz. Las suscripciones aportan ingresos recurrentes; las compras únicas atraen a usuarios que no quieren quedar atados.
-
-> **Idea probada en batalla:** tras cambiar el Panel de ETF de suscripción pura (29 $/mes) al modelo dual «suscripción + licencia de por vida 199 $», la tasa de conversión aumentó un 35 %.
 
 ---
 
@@ -230,8 +227,6 @@ Compartir a diario un consejo de IA → Atraer seguidores → Promocionar el pro
 - **Usa hashtags relevantes**: #AI #PromptEngineering #Productivity
 - **Responde a publicaciones de moda**: deja respuestas con sustancia en publicaciones populares sobre IA
 
-> **Datos reales:** tras insistir 90 días en compartir a diario consejos de IA en X, las ventas orgánicas de la Biblioteca de Prompts de IA alcanzaron el 40 % del total.
-
 ### 4.2 Instagram — atractivo visual
 
 **Estrategia: Reels + carrusel**
@@ -244,7 +239,7 @@ Compartir a diario un consejo de IA → Atraer seguidores → Promocionar el pro
 
 **Estrategia: compartir conocimiento profesional**
 
-La audiencia de LinkedIn está más orientada a los responsables de decisión empresariales, ideal para productos de precio más alto (Plantillas de Feishu, Curso de IA):
+La audiencia de LinkedIn está más orientada a los responsables de decisión empresariales, ideal para productos de precio más alto (como el Curso de IA):
 
 - 2-3 publicaciones largas por semana compartiendo casos de uso de IA
 - Participar en debates sobre IA y productividad
@@ -374,20 +369,12 @@ Estos son los pasos que di en realidad:
 - Creé una cuenta de Instagram, publiqué contenido inicial
 - Publiqué el primer artículo del blog
 
-**Semana 4: seguimiento de datos**
-- Ventas de la primera semana: 12 pedidos (348 $)
-- Rastreé las fuentes de tráfico, X aportó el 60 % del tráfico
-- Optimicé el titular de la página de producto, mejoré la conversión un 15 %
-
 **Mes 2:**
-- Lancé el producto Plantillas de Feishu
 - Inicié la estrategia de contenido en LinkedIn
-- Las ventas mensuales llegaron a 2400 $
 
 **Mes 3:**
 - Lancé el Curso de IA
 - Se puso en marcha el producto de suscripción Panel de ETF
-- Las ventas mensuales llegaron a 5800 $
 
 ---
 

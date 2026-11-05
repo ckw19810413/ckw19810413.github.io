@@ -347,43 +347,32 @@ Acciones:
 
 ## Mi caso real: De 0 a un ecosistema de productos digitales
 
-El siguiente es mi camino de desarrollo real en [Slashman Tools](https://ckw19810413.github.io/):
+Estos son los productos que he creado en [Slashman Tools](https://ckw19810413.github.io/), en orden:
 
 ### Enero de 2026: El primer producto
 
 - **Producto**: AI Prompt Library (Más de 200 prompts cuidadosamente diseñados)
 - **Precio**: $29 compra única
 - **Plataforma**: Gumroad
-- **Ventas del primer mes**: 37
 
-**Razones del éxito**:
+**Por qué lo elegí**:
 - Resolvió un punto de dolor real (los prompts de IA son difíciles de escribir)
 - Buena calidad (cada prompt ha sido probado)
 - Precio razonable ($29 es una barrera de decisión baja)
 
-### Marzo de 2026: Segundo producto
-
-- **Producto**: Kit de plantillas para Feishu
-- **Precio**: $49 compra única
-- **Ventas del primer mes**: 24
-
-**Estrategia**: Aprovechar la base de clientes de la AI Prompt Library para realizar ventas cruzadas
-
-### Mayo de 2026: Tercer producto
+### Mayo de 2026: Segundo producto
 
 - **Producto**: Curso práctico de IA
 - **Precio**: $99 compra única
-- **Ventas del primer mes**: 41
 
-**Estrategia**: Ofrecer contenido avanzado a clientes que desean aprender más profundamente sobre la IA
+**Estrategia**: Ofrecer contenido avanzado a quienes desean aprender más profundamente sobre la IA
 
-### Julio de 2026: Cuarto producto
+### Julio de 2026: Tercer producto
 
 - **Producto**: Dashboard de ETF con IA (Suscripción)
 - **Precio**: $29/mes o $199 de por vida
-- **Número actual de suscriptores**: En continuo crecimiento
 
-**Estrategia**: Pasar de productos de pago único a ingresos recurrentes (recurring revenue)
+**Estrategia**: Añadir una suscripción junto a los productos de pago único
 
 ---
 

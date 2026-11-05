@@ -29,7 +29,7 @@ But here's the harsh reality: **80% of Gumroad sellers earn less than $100/year*
 
 This isn't because their products are bad. It's because their strategy is wrong.
 
-This guide doesn't preach theory. It shares the methodology I've validated in the Slashman Tools project — building four digital products (AI Prompt Library $29, Feishu Templates $49, AI Course $99, ETF Dashboard $29/mo) and generating consistent passive income through systematic strategy.
+This guide doesn't preach theory. It shares the approach I'm using in the Slashman Tools project to build digital products (AI Prompt Library $29, AI Course $99, ETF Dashboard $29/mo) with a systematic strategy.
 
 **What you'll learn:**
 
@@ -105,7 +105,6 @@ Pricing is the most critical decision for digital products. Price too high → n
 | Product | Price | Strategy | Rationale |
 |---------|-------|----------|-----------|
 | AI Prompt Library | $29 | Low-barrier entry | Anyone can try; lowers decision threshold |
-| Feishu Templates | $49 | Mid-high value | Targets enterprise users, high perceived value |
 | AI Course | $99 | High-value delivery | Full course, low time cost but high value perception |
 | ETF Dashboard | $29/mo or $199 lifetime | Dual model | Lowers entry barrier while satisfying one-time buyers |
 
@@ -131,8 +130,6 @@ $29, not $30. $49, not $50. This isn't superstition — it's a proven fact from 
 
 **5. Subscription vs. One-time Purchase**
 For tool-type products (like ETF Dashboard), offering both subscription and one-time purchase is the most effective approach. Subscriptions bring recurring revenue; one-time purchases attract users who don't want to be locked in.
-
-> **Battle-tested insight:** After switching the ETF Dashboard from pure subscription ($29/mo) to "subscription + lifetime license $199" dual model, conversion rate increased 35%.
 
 ---
 
@@ -230,8 +227,6 @@ Daily AI tip shares → Attract followers → Product promotion → Sales increa
 - **Use relevant hashtags**: #AI #PromptEngineering #Productivity
 - **Reply to hot posts**: Leave meaningful responses in popular AI-related posts
 
-> **Real data:** After persisting in daily AI tip sharing on X for 90 days, organic sales of AI Prompt Library reached 40% of total.
-
 ### 4.2 Instagram — Visual Appeal
 
 **Strategy: Reels + Carousel**
@@ -244,7 +239,7 @@ Daily AI tip shares → Attract followers → Product promotion → Sales increa
 
 **Strategy: Professional Knowledge Sharing**
 
-LinkedIn's audience is more enterprise-decision-maker oriented, ideal for higher-priced products (Feishu Templates, AI Course):
+LinkedIn's audience is more enterprise-decision-maker oriented, ideal for higher-priced products (such as the AI Course):
 
 - 2-3 long-form posts per week sharing AI use cases
 - Participate in AI and productivity discussions
@@ -374,20 +369,12 @@ Here are the actual steps I took:
 - Created Instagram account, posted initial content
 - Published first blog article
 
-**Week 4: Data Tracking**
-- First week sales: 12 orders ($348)
-- Tracked traffic sources, found X drove 60% of traffic
-- Optimized product page headline, improved conversion by 15%
-
 **Month 2:**
-- Launched Feishu Templates product
 - Started LinkedIn content strategy
-- Monthly sales reached $2,400
 
 **Month 3:**
 - Launched AI Course
 - ETF Dashboard subscription product went live
-- Monthly sales reached $5,800
 
 ---
 
