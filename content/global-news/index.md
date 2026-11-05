@@ -1,26 +1,26 @@
 ---
-title: "全球大事件每日晨報 · 2026-11-05：美期中選舉今投票決勝、德國青年示威爆發衝突、美伊優先外交接觸、美日簽署導彈產線"
+title: "全球大事件每日晨報 · 2026-11-06：美期中選舉今投票決勝、德國青年示威爆發衝突、美伊優先外交接觸、美日簽署導彈產線"
 url: "/global-news/"
-date: 2026-11-05T05:30:00+08:00
+date: 2026-11-06T05:30:00+08:00
 draft: false
 image: cover.png
 cover: "https://ckw19810413.github.io/global-news/cover.png"
-description: "2026-11-05 全球重大事件深度解析：美歐亞非及各大經濟體最新動態。涵蓋美國期中選舉開票決勝參眾兩院、德國逾 200 人被捕之青年抗議高生活成本事件、美伊優先推進外交接觸、OPEC+ 維持既定產量配額、奧列什基人道走廊順利落幕零違規、美日協議在日共造導彈，以及全球前十大經濟體核心總體數據全覽。"
+description: "2026-11-06 全球重大事件深度解析：美歐亞非及各大經濟體最新動態。涵蓋美國期中選舉開票決勝參眾兩院、德國逾 200 人被捕之青年抗議高生活成本事件、美伊優先推進外交接觸、OPEC+ 維持既定產量配額、奧列什基人道走廊順利落幕零違規、美日協議在日共造導彈，以及全球前十大經濟體核心總體數據全覽。"
 tags: ["全球大事件", "國際局勢", "期中選舉", "美股", "通膨", "德國示威", "歐元區", "黑海糧道", "荷姆茲海峽", "國際油價", "日銀升息", "美日同盟", "總體經濟"]
 categories: ["國際局勢", "總體經濟"]
 aliases:
-  - "/blog/2026-11-05-global-news/"
-  - "/global-news/2026-11-05/"
+  - "/blog/2026-11-06-global-news/"
+  - "/global-news/2026-11-06/"
 ---
 
-> **觀測週期**：2026-11-05 晨間即時彙整  
+> **觀測週期**：2026-11-06 晨間即時彙整  
 > **情報涵蓋**：全球各大洲（北美、歐洲、中東、亞洲/印太、非洲、大洋洲）與全球前 10 大經濟體  
 > **核心來源**：各國政府公報、路透社（Reuters）、Anadolu Agency、IMF 數據庫、S&P Global PMI 報告  
 > **定位宗旨**：以客觀數據、官方決策與供應鏈結構為準繩，剔除短期情緒噪音，提煉出真正驅動全球資金流向與地緣版圖重構的核心脈絡。
 
 <div style="margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.12); border: 1px solid rgba(128,128,128,0.2);">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #0f121c;">
-    <iframe src="https://www.youtube.com/embed/U0rHZbmc4-o" title="2026-11-05 全球大事件每日晨報" style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/jqdjv80uCo8" title="2026-11-06 全球大事件每日晨報" style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   <div style="background: rgba(0,0,0,0.03); padding: 10px 16px; font-size: 0.9rem; color: var(--card-text-color-secondary, #666); text-align: center; border-top: 1px solid rgba(128,128,128,0.15);">
     🎬 <strong>120 秒晨間快報影音動態版</strong>（含 AI 自然神經語音朗讀與背景配樂）
@@ -95,7 +95,7 @@ aliases:
 
 ### 6. 全球前十大經濟體核心指標與趨勢橫向比較
 
-| 排名 | 國家 / 經濟體 | 核心總體經濟數據 / 最新指標 | 2026-11-05 即時動態與政策取向 | 全球產業鏈與市場意涵 |
+| 排名 | 國家 / 經濟體 | 核心總體經濟數據 / 最新指標 | 2026-11-06 即時動態與政策取向 | 全球產業鏈與市場意涵 |
 |:---:|:---|:---|:---|:---|
 | **1** | **美國 (USA)** | 10年期美債殖利率 **4.92%** · 通膨 **3.7%** | 期中選舉今天正式投票開票；Q3 GDP 年化 3.4%；油價房貸居高不下 | 長債殖利率對資產定價構成硬約束，兩黨國會版圖將左右 2027 年債務上限法案。 |
 | **2** | **中國 (China)** | 官方 PMI **49.3** vs 民間 PMI **52.0** | 官民製造業數據分化；出口新訂單放緩；財政赤字率與內需提振措施落地 | 供應鏈加速高技術附加值轉型，房市築底期消費需求依賴政策進一步托底。 |
