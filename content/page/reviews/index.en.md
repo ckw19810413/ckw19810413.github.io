@@ -1,7 +1,7 @@
 ---
 title: "Products & Reviews"
 url: "/en/reviews/"
-description: "Slashman Tools digital product overview: AI tools, Feishu templates, investment dashboards and automation courses — with review articles and buy links"
+description: "Slashman Tools digital product overview: AI tools, investment dashboards and automation courses — with review articles and buy links"
 ---
 
 # Products & Reviews

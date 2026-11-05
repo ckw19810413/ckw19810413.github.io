@@ -1,7 +1,7 @@
 ---
 title: "製品とレビュー"
 url: "/ja/reviews/"
-description: "Slashman Tools デジタル製品一覧：AI ツール、飛書テンプレート、投資ダッシュボード、自動化コース — レビュー記事と購入リンク付き"
+description: "Slashman Tools デジタル製品一覧：AI ツール、投資ダッシュボード、自動化コース — レビュー記事と購入リンク付き"
 ---
 
 # 製品とレビュー

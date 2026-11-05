@@ -1,7 +1,7 @@
 ---
 title: "產品與評價"
 url: "/reviews/"
-description: "Slashman Tools 數位產品總覽：AI 工具、飛書模板、投資儀表板與自動化課程 — 含產品評價文章與購買連結"
+description: "Slashman Tools 數位產品總覽：AI 工具、投資儀表板與自動化課程 — 含產品評價文章與購買連結"
 ---
 
 # 產品與評價
