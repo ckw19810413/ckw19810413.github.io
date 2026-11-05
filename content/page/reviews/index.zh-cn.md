@@ -1,7 +1,7 @@
 ---
 title: "产品与评价"
 url: "/zh-cn/reviews/"
-description: "Slashman Tools 数字产品总览：AI 工具、飞书模板、投资仪表盘与自动化课程 — 含产品评测文章与购买链接"
+description: "Slashman Tools 数字产品总览：AI 工具、投资仪表盘与自动化课程 — 含产品评测文章与购买链接"
 ---
 
 # 产品与评价

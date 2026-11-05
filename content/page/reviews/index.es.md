@@ -1,7 +1,7 @@
 ---
 title: "Productos y Reseñas"
 url: "/es/reviews/"
-description: "Visión general de los productos digitales de Slashman Tools: herramientas de IA, plantillas de Feishu, paneles de inversión y cursos de automatización — con artículos de reseña y enlaces de compra"
+description: "Visión general de los productos digitales de Slashman Tools: herramientas de IA, paneles de inversión y cursos de automatización — con artículos de reseña y enlaces de compra"
 ---
 
 # Productos y Reseñas

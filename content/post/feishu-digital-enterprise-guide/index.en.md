@@ -19,10 +19,5 @@ slug: "feishu-digital-enterprise-guide"
 <h2>2. Why Choose Bitable?</h2>
 <p>Compared to traditional Excel, Feishu Bitable features powerful data association, multi-view switching (Kanban, Gantt chart, calendar), and automated trigger functions. As long as the data structure is set up properly, it can increase cross-departmental collaboration efficiency by 300%.</p>
 
-<div style="background: rgba(0, 194, 199, 0.1); border: 1px solid rgba(0, 194, 199, 0.3); border-radius: 12px; padding: 1.5rem; margin: 2rem 0;">
-  <h3 style="margin-top: 0; color: #00C2C7;">📦 Recommended Kit: Feishu/Lark Team Automation Template Suite ($49)</h3>
-  <p>Includes 20 ready-to-use professional Bitable templates covering CRM, OKRs, project management, financial tracking, and approval workflows, saving you weeks of setup time!</p>
-</div>
-
 <h2>3. Implementation Steps for Automated Workflows</h2>
 <p>It is recommended that teams start by trying out "automatic conversion of meeting minutes to to-do items" and "automatic routing of customer leads." Through simple automation rule settings, manual repetitive operations can be significantly reduced, allowing the team to focus on core business growth.</p>

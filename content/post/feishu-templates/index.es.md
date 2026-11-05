@@ -31,8 +31,6 @@ Si te identificas con 3 o más de estas situaciones, tu empresa necesita digital
 
 Este no es un problema exclusivo de las grandes empresas. De hecho, las PyMEs necesitan aún más la digitalización — porque sus recursos son limitados y cada minuto desperdiciado duele más. Después de ayudar a varios equipos de 10-50 personas a construir espacios de trabajo digitales con Feishu, el resultado más común es: **ahorrar de 15 a 20 horas semanales de tiempo de gestión** — equivalente a tener una persona extra en el equipo.
 
-Si quieres empezar rápidamente sin meses de prueba y error, mi Paquete de Plantillas de Feishu incluye más de 20 plantillas listas para usar, cubriendo casi todos los escenarios que necesitas en tu operación diaria.
-
 ---
 
 ## Feishu vs Otras Herramientas de Colaboración
@@ -193,8 +191,6 @@ Lo que más se pasa por alto en las actas de reunión es el "seguimiento posteri
 
 La función más importante del CRM es "no dejar que los datos de los clientes existan solo en la cabeza de una persona". Cambios de personal, vacaciones, o incluso renuncias — los datos de los clientes no desaparecen.
 
-Nuestro Paquete de Plantillas de Feishu incluye estas 4 plantillas y 16 adicionales, por solo $29, mucho menos que contratar a un consultor por un mes.
-
 ---
 
 ## Guía de Configuración de Automatización
@@ -236,7 +232,7 @@ Supongamos que tienes un equipo de 20 personas. El tiempo invertido mensualmente
 | Gestión de CRM | 10 horas | 3 horas | 7 horas |
 | **Total** | **57 horas** | **20 horas** | **37 horas** |
 
-37 horas al mes = casi la jornada laboral de un empleado a tiempo completo. Nuestro paquete de plantillas cuesta $49, lo que equivale a menos de $1.5 por hora ahorrada. Esto no es una inversión, es un regalo.
+37 horas al mes = casi la jornada laboral de un empleado a tiempo completo.
 
 Lo más importante es que estas plantillas no solo "ahorran tiempo" — garantizan que tus procesos de gestión sean "siempre igual de buenos". No dependen de la capacidad de una persona, sino de la garantía del sistema.
 
