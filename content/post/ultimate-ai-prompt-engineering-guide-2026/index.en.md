@@ -217,7 +217,7 @@ The best prompts in 2026 don't just ask a question — they stack multiple layer
 
 > **Role:** You are a conversion-focused copywriter who has generated over $10M in revenue through landing pages.
 >
-> **Background:** I sell an AI Prompt Library on Gumroad for $29. It contains 200+ prompts organized by category: writing, coding, marketing, data analysis, and creativity.
+> **Background (hypothetical):** Imagine I sell an AI Prompt Library on Gumroad for $29 — 200+ prompts organized by category: writing, coding, marketing, data analysis, and creativity. (Teaching example only; the live AI Prompt Library on Gumroad is a free sample.)
 >
 > **Reference:** Here's how I describe my product in two sentences: "A curated collection of 200+ tested prompt templates that work across ChatGPT, Claude, and Gemini. Covers every major use case from content creation to data analysis."
 >
