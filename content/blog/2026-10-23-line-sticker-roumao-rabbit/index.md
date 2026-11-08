@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "療癒貼圖", "兔子貼圖", "可愛貼圖", "肉毛兔"
 categories: ["創作實驗"]
 ---
 
-> 🛒 **肉毛兔**（32 張靜態貼圖・NT$42）👉 [在 LINE 商店購買](https://line.me/S/sticker/36099823)
+> 🛒 **肉毛兔**（32 張靜態貼圖・NT$42）👉 [在 LINE 商店購買](https://line.me/S/sticker/36099823?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=roumao-rabbit-36099823)
 
 「肉毛兔」是我上架的**第一組** LINE 貼圖（2026/8/26 開賣）。那時候還沒想好什麼主題、梗或台詞，只想做一隻看了會想摸一下的白色毛球兔子。
 
@@ -36,7 +36,7 @@ categories: ["創作實驗"]
 - 不喜歡貼圖上有一堆字的人
 - 想找一組「什麼都能回」的日常貼圖
 
-同樣是白色療癒系，可以搭配[麻糬海豹噗嚕・想躺平日常](/blog/line-sticker-pulu-seal-lazy/)；想要會動、晚安專用的兔子，可以看[黏土垂耳兔睏睏・晚安熬夜中](https://line.me/S/sticker/37390703)。
+同樣是白色療癒系，可以搭配[麻糬海豹噗嚕・想躺平日常](/blog/line-sticker-pulu-seal-lazy/)；想要會動、晚安專用的兔子，可以看[黏土垂耳兔睏睏・晚安熬夜中](https://line.me/S/sticker/37390703?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=bunny-goodnight-37390703)。
 
 所有貼圖依主題整理在 👉 [Massor LINE 貼圖全系列](/line-stickers/)。
 
@@ -46,4 +46,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 [在 LINE 商店購買「肉毛兔」](https://line.me/S/sticker/36099823)
+> 🛒 [在 LINE 商店購買「肉毛兔」](https://line.me/S/sticker/36099823?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=roumao-rabbit-36099823)

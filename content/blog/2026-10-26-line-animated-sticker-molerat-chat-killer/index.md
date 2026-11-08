@@ -12,7 +12,7 @@ categories: ["創作實驗"]
 
 聊天最強的武器不是長篇大論，是一個「**喔。**」。這次走「醜萌與怪誕迷因系」：主角是一隻皮皺皺、兩顆大暴牙、死魚豆豆眼、穿螢光綠 T 恤的**裸鼴鼠皺皺**，長得不好看，但句點人的功力一流。
 
-> 🛒 **醜萌裸鼴鼠皺皺・句點王** 已在 LINE 商店正式開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37541978)
+> 🛒 **醜萌裸鼴鼠皺皺・句點王** 已在 LINE 商店正式開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37541978?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=molerat-chat-killer-37541978)
 
 ![醜萌裸鼴鼠皺皺 8 張動態貼圖](zhouzhou-sheet.webp)
 
@@ -115,6 +115,6 @@ LINE Creators Market 目前沒有「有聲貼圖」類型，所以 App 內的貼
 | 07 | 好喔 | 比讚＋假笑，你開心就好 |
 | 08 | 掰。 | 揮手轉身，聊天結束 |
 
-> 🛒 [在 LINE 商店購買「醜萌裸鼴鼠皺皺・句點王」](https://line.me/S/sticker/37541978)｜全系列依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「醜萌裸鼴鼠皺皺・句點王」](https://line.me/S/sticker/37541978?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=molerat-chat-killer-37541978)｜全系列依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
 
 本套貼圖為 AI 輔助創作。

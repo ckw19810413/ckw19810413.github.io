@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "情侶貼圖", "戀愛貼圖", "撒嬌貼圖", "貓咪貼�
 categories: ["創作實驗"]
 ---
 
-> 🛒 **芋圓貓・黏TT戀愛日常**（16 張靜態貼圖・NT$42）👉 [在 LINE 商店購買](https://line.me/S/sticker/37220496)
+> 🛒 **芋圓貓・黏TT戀愛日常**（16 張靜態貼圖・NT$42）👉 [在 LINE 商店購買](https://line.me/S/sticker/37220496?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=yuyuan-cat-couple-37220496)
 
 情侶之間最常打的字，其實就那幾句：「在幹嘛？」「想你了」「你不愛我了嗎」「好啦原諒你」。每天打一樣的字會膩，換成一隻圓滾滾的紫色芋圓貓，同一句話就變得可愛又不肉麻。
 
@@ -37,7 +37,7 @@ categories: ["創作實驗"]
 - 想送另一半一個小禮物（在 LINE 商店頁按「贈送禮物」即可）
 - 喜歡紫色、圓滾滾角色的人
 
-想要會動的情侶貼圖？可以搭配[黏人水獺拉拉・戀愛情勒動起來](https://line.me/S/sticker/37304821)，或吵架後求原諒專用的[小狐狸橙橙・謝謝對不起拜託](https://line.me/S/sticker/37375782)。更多組合在 [情侶＋療癒 LINE 貼圖推薦](/blog/line-sticker-couple-healing-picks/)。
+想要會動的情侶貼圖？可以搭配[黏人水獺拉拉・戀愛情勒動起來](https://line.me/S/sticker/37304821?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=otter-love-37304821)，或吵架後求原諒專用的[小狐狸橙橙・謝謝對不起拜託](https://line.me/S/sticker/37375782?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=fox-thanks-37375782)。更多組合在 [情侶＋療癒 LINE 貼圖推薦](/blog/line-sticker-couple-healing-picks/)。
 
 所有貼圖依主題整理在 👉 [Massor LINE 貼圖全系列](/line-stickers/)。
 
@@ -47,4 +47,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 **送給另一半**：[在 LINE 商店購買「芋圓貓・黏TT戀愛日常」](https://line.me/S/sticker/37220496)
+> 🛒 **送給另一半**：[在 LINE 商店購買「芋圓貓・黏TT戀愛日常」](https://line.me/S/sticker/37220496?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=yuyuan-cat-couple-37220496)

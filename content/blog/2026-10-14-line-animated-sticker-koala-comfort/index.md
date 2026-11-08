@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "LINE動態貼圖", "療癒貼圖", "安慰貼圖", "無尾
 categories: ["創作實驗"]
 ---
 
-> 🛒 **無尾熊可可・療癒拍拍動起來** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37302939)
+> 🛒 **無尾熊可可・療癒拍拍動起來** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37302939?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=koala-comfort-37302939)
 
 朋友傳來一句「今天好累」，你打了「辛苦了」，又刪掉，覺得太敷衍。打了一大段，又覺得太沉重。
 
@@ -62,11 +62,11 @@ categories: ["創作實驗"]
 - **社畜企鵝啵啵・上班日常動起來**（動態貼圖）：審核中
 - **糰糰倉鼠・會動的超有反應**（動態貼圖）：審核中
 - **柚柚水豚・情緒穩定中**：審核中
-- **麻糬海豹噗嚕・想躺平日常** 👉 [LINE STORE](https://store.line.me/stickershop/product/37215265/zh-Hant)
-- **芋圓貓・黏TT戀愛日常** 👉 [LINE STORE](https://store.line.me/stickershop/product/37220496/zh-Hant)
-- **綿綿羊・喜氣羊羊過好年**（2027 羊年）👉 [LINE STORE](https://store.line.me/stickershop/product/37266378/zh-Hant)
+- **麻糬海豹噗嚕・想躺平日常** 👉 [LINE STORE](https://store.line.me/stickershop/product/37215265/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pulu-seal-lazy-37215265)
+- **芋圓貓・黏TT戀愛日常** 👉 [LINE STORE](https://store.line.me/stickershop/product/37220496/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=yuyuan-cat-couple-37220496)
+- **綿綿羊・喜氣羊羊過好年**（2027 羊年）👉 [LINE STORE](https://store.line.me/stickershop/product/37266378/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=goat-year-2027-37266378)
 
-全部作品都在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520)。
+全部作品都在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)。
 
 ## 誠實筆記
 
@@ -78,4 +78,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 [在 LINE 商店購買「無尾熊可可・療癒拍拍動起來」](https://line.me/S/sticker/37302939)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「無尾熊可可・療癒拍拍動起來」](https://line.me/S/sticker/37302939?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=koala-comfort-37302939)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)

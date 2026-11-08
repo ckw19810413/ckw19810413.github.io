@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "LINE動態貼圖", "刺蝟貼圖", "萌寵", "水彩風", 
 categories: ["創作實驗"]
 ---
 
-> 🛒 **水彩刺蝟栗栗・天冷保暖** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37336572)
+> 🛒 **水彩刺蝟栗栗・天冷保暖** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37336572?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=hedgehog-warm-37336572)
 
 天氣轉涼、秋意漸濃的時候，最需要的就是溫暖的問候和軟綿綿的抱抱。
 
@@ -72,7 +72,7 @@ categories: ["創作實驗"]
 
 - **水彩刺蝟栗栗・天冷保暖**（動態貼圖，NT$60 起）：已送審 LINE Creators Market，通過後將自動開賣，購買網址將同步更新！
 - 同步審核中的系列動態貼圖：[復古柯基短短](/blog/line-animated-sticker-corgi-retro/)、[像素鸚鵡啾比](/blog/line-animated-sticker-budgie-pixel/)、[蠟筆虎斑貓喵吉](/blog/line-animated-sticker-kitten-voice/)、[黏土豬豬嘟嘟](/blog/line-animated-sticker-piglet-foodie/)、[貓頭鷹咕咕](/blog/line-animated-sticker-owl-exam/) 等。
-- 歡迎前往我的 [LINE 貼圖作者官方主頁](https://line.me/S/shop/sticker/author/6564520) 逛逛所有作品！
+- 歡迎前往我的 [LINE 貼圖作者官方主頁](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520) 逛逛所有作品！
 
 ## 創作者誠實說明
 
@@ -84,4 +84,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 [在 LINE 商店購買「水彩刺蝟栗栗・天冷保暖」](https://line.me/S/sticker/37336572)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「水彩刺蝟栗栗・天冷保暖」](https://line.me/S/sticker/37336572?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=hedgehog-warm-37336572)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)

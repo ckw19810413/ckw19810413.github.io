@@ -132,7 +132,7 @@
   [[en.menu.main]]
     identifier = 'line-stickers'
     name = 'LINE Stickers'
-    url = 'https://line.me/S/shop/sticker/author/6564520'
+    url = 'https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520'
     weight = 5
     [en.menu.main.params]
       icon = 'messages'
@@ -177,7 +177,7 @@
   [[ja.menu.main]]
     identifier = 'line-stickers'
     name = 'LINEスタンプ'
-    url = 'https://line.me/S/shop/sticker/author/6564520'
+    url = 'https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520'
     weight = 5
     [ja.menu.main.params]
       icon = 'messages'
@@ -222,7 +222,7 @@
   [[es.menu.main]]
     identifier = 'line-stickers'
     name = 'Stickers de LINE'
-    url = 'https://line.me/S/shop/sticker/author/6564520'
+    url = 'https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520'
     weight = 5
     [es.menu.main.params]
       icon = 'messages'

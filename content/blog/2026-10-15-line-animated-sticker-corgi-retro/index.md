@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "LINE動態貼圖", "柯基貼圖", "柯基", "狗狗貼圖
 categories: ["創作實驗"]
 ---
 
-> 🛒 **復古柯基短短・約出門** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37327480)
+> 🛒 **復古柯基短短・約出門** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37327480?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=corgi-retro-37327480)
 
 「我出門了」其實是「我才剛起床」，「快到了」其實是「還在找鑰匙」。每次約吃飯、約看電影、約爬山，群組裡都在上演這齣戲。
 
@@ -68,11 +68,11 @@ categories: ["創作實驗"]
 ## 目前上架進度
 
 - **柯基短短・約出門**（動態貼圖，NT$60 起）：10/15 送審，通過後會自動開賣，到時再把連結補上來
-- 🎉 **這幾組動態貼圖已經開賣**：[糰糰倉鼠・會動的超有反應](https://store.line.me/stickershop/product/37292039/zh-Hant)、[社畜企鵝啵啵・上班日常](https://store.line.me/stickershop/product/37292394/zh-Hant)、[柴犬福福・長輩早安問候](https://store.line.me/stickershop/product/37292442/zh-Hant)
-- 已開賣的靜態貼圖：[柚柚水豚・情緒穩定中](https://store.line.me/stickershop/product/37291887/zh-Hant)、[麻糬海豹噗嚕](https://store.line.me/stickershop/product/37215265/zh-Hant)、[芋圓貓](https://store.line.me/stickershop/product/37220496/zh-Hant)、[綿綿羊](https://store.line.me/stickershop/product/37266378/zh-Hant)
+- 🎉 **這幾組動態貼圖已經開賣**：[糰糰倉鼠・會動的超有反應](https://store.line.me/stickershop/product/37292039/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=hamster-37292039)、[社畜企鵝啵啵・上班日常](https://store.line.me/stickershop/product/37292394/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=penguin-office-37292394)、[柴犬福福・長輩早安問候](https://store.line.me/stickershop/product/37292442/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=shiba-greetings-37292442)
+- 已開賣的靜態貼圖：[柚柚水豚・情緒穩定中](https://store.line.me/stickershop/product/37291887/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=capybara-calm-37291887)、[麻糬海豹噗嚕](https://store.line.me/stickershop/product/37215265/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pulu-seal-lazy-37215265)、[芋圓貓](https://store.line.me/stickershop/product/37220496/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=yuyuan-cat-couple-37220496)、[綿綿羊](https://store.line.me/stickershop/product/37266378/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=goat-year-2027-37266378)
 - 另外還有 7 組在審核中，例如[像素鸚鵡啾比](/blog/line-animated-sticker-budgie-pixel/)、[蠟筆虎斑貓喵吉](/blog/line-animated-sticker-kitten-voice/)、[黏土豬豬嘟嘟](/blog/line-animated-sticker-piglet-foodie/)
 
-全部作品都在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520)。
+全部作品都在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)。
 
 ## 誠實筆記
 
@@ -84,4 +84,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 [在 LINE 商店購買「復古柯基短短・約出門」](https://line.me/S/sticker/37327480)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「復古柯基短短・約出門」](https://line.me/S/sticker/37327480?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=corgi-retro-37327480)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)

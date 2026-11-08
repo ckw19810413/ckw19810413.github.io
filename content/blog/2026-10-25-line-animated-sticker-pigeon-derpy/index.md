@@ -12,7 +12,7 @@ categories: ["創作實驗"]
 
 有些貼圖不是用來表達情緒，是用來**結束對話**的。這次走「醜萌與怪誕迷因系」：鬥雞眼、大小眼、螢光綠＋桃紅的脖子、細長到不合理的橘色腿，主角是一隻永遠在狀況外的鴿子——**魔性鬥雞眼鴿子咕咕**。台灣人都懂：約好的事要落跑，就說一聲「**先鴿了**」。
 
-> 🛒 **魔性鬥雞眼鴿子咕咕・厭世發瘋** 已在 LINE 商店正式開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37523393)
+> 🛒 **魔性鬥雞眼鴿子咕咕・厭世發瘋** 已在 LINE 商店正式開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37523393?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pigeon-derpy-37523393)
 
 ![魔性鬥雞眼鴿子咕咕 8 張動態貼圖](gugu-sheet.webp)
 
@@ -115,6 +115,6 @@ LINE Creators Market 目前沒有「有聲貼圖」類型，所以 App 內的貼
 | 07 | 我不行了 | 累到原地昏倒 |
 | 08 | 老子走了 | 抬頭挺胸帥氣離場 |
 
-> 🛒 [在 LINE 商店購買「魔性鬥雞眼鴿子咕咕・厭世發瘋」](https://line.me/S/sticker/37523393)｜全系列依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「魔性鬥雞眼鴿子咕咕・厭世發瘋」](https://line.me/S/sticker/37523393?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pigeon-derpy-37523393)｜全系列依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
 
 👉 更多原創動態貼圖請看 [LINE 貼圖總目錄](/line-stickers/)。本套貼圖為 AI 輔助創作。

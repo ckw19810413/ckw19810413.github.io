@@ -1,0 +1,94 @@
+{{- /*
+  Mautic mtc.js + outbound line.me click attribution bridge.
+  Included once per page from layouts/partials/footer/custom.html.
+  Base URL: params.mauticBaseUrl (override per build with HUGO_PARAMS_MAUTICBASEURL).
+  Slug map: data/line_sticker_slugs.yaml (shared with scripts/add_line_utm.py).
+*/ -}}
+{{- $mauticBase := strings.TrimSuffix "/" (default "https://leads.slashmantools.us" site.Params.mauticBaseUrl) -}}
+<script>
+(function(w,d,t,u,n,a,m){
+  if (w.__mauticBridgeInitialized) return;
+  w.__mauticBridgeInitialized = true;
+  w['MauticTrackingObject'] = n;
+  w[n] = w[n] || function(){ (w[n].q = w[n].q || []).push(arguments); };
+  a = d.createElement(t); m = d.getElementsByTagName(t)[0];
+  a.defer = 1; a.src = u;
+  m.parentNode.insertBefore(a, m);
+
+  var MAUTIC_BASE = {{ $mauticBase }};
+  var SLUGS = {{ site.Data.line_sticker_slugs | default dict | jsonify | safeJS }};
+  var UTM = { utm_source: 'ghpages', utm_medium: 'bridge', utm_campaign: '5s-hook' };
+
+  function slugFor(u) {
+    var s = u.searchParams.get('utm_content'); if (s) return s;
+    var mm = u.pathname.match(/\/(?:S\/sticker|stickershop\/product)\/(\d+)/);
+    if (mm) return SLUGS[mm[1]] || ('sticker-' + mm[1]);
+    mm = u.pathname.match(/\/author\/(\d+)/);
+    if (mm) return 'author-' + mm[1];
+    if (u.hostname === 'creator.line.me') return 'creator-market';
+    return u.pathname.replace(/^\/+|\/+$/g, '').replace(/[^A-Za-z0-9_-]+/g, '-') || 'line-store';
+  }
+
+  // Adds UTM params, keeping any existing query string; leaves pre-tagged URLs untouched.
+  function decorate(href) {
+    try {
+      var u = new URL(href, w.location.href), slug = slugFor(u);
+      if (!/(^|\.)line\.me$/.test(u.hostname)) return null;
+      if (!u.searchParams.has('utm_source')) {
+        for (var k in UTM) u.searchParams.set(k, UTM[k]);
+        u.searchParams.set('utm_content', slug);
+      }
+      return { url: u.toString(), slug: slug };
+    } catch (e) { return null; }
+  }
+
+  // Canonical page URL (production origin even when previewed on localhost), keeping ?utm_*.
+  var SITE_ORIGIN = {{ strings.TrimSuffix "/" site.BaseURL }};
+  function pageUrl() { return SITE_ORIGIN + w.location.pathname + w.location.search; }
+
+  // One pageview per page load.
+  w[n]('send', 'pageview', { page_url: pageUrl() });
+
+  function decorateAll() {
+    var as = d.querySelectorAll('a[href*="line.me"]');
+    for (var i = 0; i < as.length; i++) {
+      var r = decorate(as[i].href);
+      if (r && r.url !== as[i].href) as[i].setAttribute('href', r.url);
+    }
+  }
+  if (d.readyState === 'loading') d.addEventListener('DOMContentLoaded', decorateAll); else decorateAll();
+
+  // Delegated outbound click listener.
+  d.addEventListener('click', function(e) {
+    var el = e.target && e.target.closest ? e.target.closest('a[href*="line.me"]') : null;
+    if (!el) return;
+    var r = decorate(el.href); if (!r) return;
+    if (el.href !== r.url) el.setAttribute('href', r.url);
+    var payload = {
+      page_url: r.url, page_title: 'outbound:line:' + r.slug, page_referrer: pageUrl(),
+      utm_source: UTM.utm_source, utm_medium: UTM.utm_medium,
+      utm_campaign: UTM.utm_campaign, utm_content: r.slug
+    };
+    var newTab = (el.getAttribute('target') || '').toLowerCase() === '_blank';
+    var modified = e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button !== 0;
+    var leaving = !newTab && !modified && !e.defaultPrevented;
+    var mtcReady = w.MauticJS && typeof w.MauticJS.sendPageview === 'function';
+    if (mtcReady && !leaving) {
+      // Page stays open (new tab): normal mtc.js delivery, incl. contact/device ids.
+      w[n]('send', 'pageview', payload);
+    } else if (navigator.sendBeacon) {
+      // Page is about to unload, or mtc.js is not loaded yet: beacon survives navigation.
+      var fd = new URLSearchParams(); for (var k in payload) fd.append(k, payload[k]);
+      navigator.sendBeacon(MAUTIC_BASE + '/mtc/event', fd);
+    } else {
+      w[n]('send', 'pageview', payload);
+    }
+    // Same-tab navigation: hold ~150ms so the hit is not cancelled by unload.
+    if (leaving) {
+      e.preventDefault();
+      setTimeout(function(){ w.location.assign(r.url); }, 150);
+    }
+  }, true);
+})(window, document, 'script', {{ printf "%s/mtc.js" $mauticBase }}, 'mt');
+</script>
+<noscript><img src="{{ $mauticBase }}/mtracking.gif?page_url={{ .Permalink | urlquery }}&amp;page_title={{ .Title | urlquery }}" style="display:none" alt="" width="1" height="1" /></noscript>

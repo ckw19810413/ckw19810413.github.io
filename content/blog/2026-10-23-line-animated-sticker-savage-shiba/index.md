@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "LINE動態貼圖", "賤萌貼圖", "柴犬貼圖", "白爛
 categories: ["創作實驗"]
 ---
 
-> 🛒 **欠扁白爛柴柴：社畜極限顏藝** 已在 LINE 商店正式開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37501425)
+> 🛒 **欠扁白爛柴柴：社畜極限顏藝** 已在 LINE 商店正式開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37501425?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=savage-shiba-37501425)
 
 在每天的 LINE 聊天室中，比起溫文儒雅的客套問候，現代年輕人與上班族最高頻率使用的溝通語言永遠是：**「互嗆、吐槽、自嘲、翻白眼與掀桌發瘋」**！為了將手機螢幕裡的情緒張力拉到最滿，全新自創 IP 顏藝霸主——**「欠扁白爛柴柴」（Savage Shiba：社畜極限顏藝）** 正式降臨！
 
@@ -164,7 +164,7 @@ categories: ["創作實驗"]
 
 ## 🛒 LINE Creators Market 上架販售指引
 
-1. 登入 [LINE Creators Market 創作者市集](https://creator.line.me/)。
+1. 登入 [LINE Creators Market 創作者市集](https://creator.line.me/?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=creator-market)。
 2. 點選「新增」→ 選擇「貼圖」，貼圖類型勾選「動態貼圖」。
 3. 填寫貼圖資訊：
    - **標題（中文）**：欠扁白爛柴柴：社畜極限顏藝
@@ -177,4 +177,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 [在 LINE 商店購買「欠扁白爛柴柴：社畜極限顏藝」](https://line.me/S/sticker/37501425)｜全部 29 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「欠扁白爛柴柴：社畜極限顏藝」](https://line.me/S/sticker/37501425?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=savage-shiba-37501425)｜全部 29 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)

@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "LINE動態貼圖", "學生貼圖", "考試貼圖", "期中
 categories: ["創作實驗"]
 ---
 
-> 🛒 **貓頭鷹咕咕・考試週求生中** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37303917)
+> 🛒 **貓頭鷹咕咕・考試週求生中** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37303917?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=owl-exam-37303917)
 
 10 月底到 11 月是期中考季。班級群組、讀書會群組、報告小組，每天來回傳的都是那幾句：「考試加油」「我熬夜了」「看不懂…」「考完了！」
 
@@ -59,11 +59,11 @@ categories: ["創作實驗"]
 - **社畜企鵝啵啵・上班日常動起來**（動態貼圖）：審核中
 - **糰糰倉鼠・會動的超有反應**（動態貼圖）：審核中
 - **柚柚水豚・情緒穩定中**：審核中
-- **麻糬海豹噗嚕・想躺平日常** 👉 [LINE STORE](https://store.line.me/stickershop/product/37215265/zh-Hant)
-- **芋圓貓・黏TT戀愛日常** 👉 [LINE STORE](https://store.line.me/stickershop/product/37220496/zh-Hant)
-- **綿綿羊・喜氣羊羊過好年**（2027 羊年）👉 [LINE STORE](https://store.line.me/stickershop/product/37266378/zh-Hant)
+- **麻糬海豹噗嚕・想躺平日常** 👉 [LINE STORE](https://store.line.me/stickershop/product/37215265/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pulu-seal-lazy-37215265)
+- **芋圓貓・黏TT戀愛日常** 👉 [LINE STORE](https://store.line.me/stickershop/product/37220496/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=yuyuan-cat-couple-37220496)
+- **綿綿羊・喜氣羊羊過好年**（2027 羊年）👉 [LINE STORE](https://store.line.me/stickershop/product/37266378/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=goat-year-2027-37266378)
 
-全部作品都在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520)。
+全部作品都在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)。
 
 ## 誠實筆記
 
@@ -75,4 +75,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 [在 LINE 商店購買「貓頭鷹咕咕・考試週求生中」](https://line.me/S/sticker/37303917)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「貓頭鷹咕咕・考試週求生中」](https://line.me/S/sticker/37303917?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=owl-exam-37303917)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)

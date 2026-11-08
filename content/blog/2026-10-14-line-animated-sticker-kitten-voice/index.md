@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "LINE動態貼圖", "貓咪貼圖", "萌寵", "虎斑貓", 
 categories: ["創作實驗"]
 ---
 
-> 🛒 **蠟筆虎斑貓喵吉・萌寵日常** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37327389)
+> 🛒 **蠟筆虎斑貓喵吉・萌寵日常** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37327389?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=kitten-voice-37327389)
 
 養貓的人都知道，家裡真正的老闆是誰。早上被踩醒、罐罐要準時、摸三下就翻臉、半夜在客廳暴衝。
 
@@ -69,9 +69,9 @@ categories: ["創作實驗"]
 
 - **蠟筆虎斑貓喵吉・萌寵日常**（動態貼圖，NT$60 起）：10/14 送審，通過後自動開賣，連結會補在這裡
 - 另外還有 8 組動態貼圖在審核中（[黏土豬豬嘟嘟](/blog/line-animated-sticker-piglet-foodie/)、[貓頭鷹咕咕](/blog/line-animated-sticker-owl-exam/)、[馴鹿叮噹](/blog/line-animated-sticker-reindeer-xmas/)、[無尾熊可可](/blog/line-animated-sticker-koala-comfort/)、[水獺拉拉](/blog/line-animated-sticker-otter-love/)、[柴犬福福](/blog/line-animated-sticker-shiba-greetings/)、[企鵝啵啵](/blog/line-animated-sticker-penguin-office/)、[糰糰倉鼠](/blog/line-animated-sticker-hamster/)）
-- 已經開賣：**麻糬海豹噗嚕** 👉 [LINE STORE](https://store.line.me/stickershop/product/37215265/zh-Hant)、**芋圓貓** 👉 [LINE STORE](https://store.line.me/stickershop/product/37220496/zh-Hant)、**綿綿羊** 👉 [LINE STORE](https://store.line.me/stickershop/product/37266378/zh-Hant)
+- 已經開賣：**麻糬海豹噗嚕** 👉 [LINE STORE](https://store.line.me/stickershop/product/37215265/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pulu-seal-lazy-37215265)、**芋圓貓** 👉 [LINE STORE](https://store.line.me/stickershop/product/37220496/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=yuyuan-cat-couple-37220496)、**綿綿羊** 👉 [LINE STORE](https://store.line.me/stickershop/product/37266378/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=goat-year-2027-37266378)
 
-全部作品都在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520)。
+全部作品都在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)。
 
 ## 誠實筆記
 
@@ -83,4 +83,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 [在 LINE 商店購買「蠟筆虎斑貓喵吉・萌寵日常」](https://line.me/S/sticker/37327389)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「蠟筆虎斑貓喵吉・萌寵日常」](https://line.me/S/sticker/37327389?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=kitten-voice-37327389)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)

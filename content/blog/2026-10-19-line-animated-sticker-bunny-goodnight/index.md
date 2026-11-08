@@ -66,11 +66,11 @@ categories: ["創作實驗"]
 
 ## 上架進度
 
-- **黏土垂耳兔睏睏・晚安熬夜中**（動態貼圖，NT$60）：**已開賣！** 👉 [LINE 商店購買](https://store.line.me/stickershop/product/37390703/zh-Hant)
-- 前一組 [小狐狸橙橙・謝謝對不起拜託](https://store.line.me/stickershop/product/37375782/zh-Hant) 已開賣（10/19 更新）。之前的動態貼圖也全部開賣了，清單見 [像素松鼠存存](/blog/line-animated-sticker-squirrel-payday/) 這篇。
-- 已經開賣的動態貼圖：[糰糰倉鼠](https://store.line.me/stickershop/product/37292039/zh-Hant)、[社畜企鵝啵啵](https://store.line.me/stickershop/product/37292394/zh-Hant)、[柴犬福福](https://store.line.me/stickershop/product/37292442/zh-Hant)。
-- 一般貼圖：[柚柚水豚](https://store.line.me/stickershop/product/37291887/zh-Hant)、[麻糬海豹噗嚕](https://store.line.me/stickershop/product/37215265/zh-Hant)。
-- 所有作品：[LINE 貼圖作者主頁](https://line.me/S/shop/sticker/author/6564520)
+- **黏土垂耳兔睏睏・晚安熬夜中**（動態貼圖，NT$60）：**已開賣！** 👉 [LINE 商店購買](https://store.line.me/stickershop/product/37390703/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=bunny-goodnight-37390703)
+- 前一組 [小狐狸橙橙・謝謝對不起拜託](https://store.line.me/stickershop/product/37375782/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=fox-thanks-37375782) 已開賣（10/19 更新）。之前的動態貼圖也全部開賣了，清單見 [像素松鼠存存](/blog/line-animated-sticker-squirrel-payday/) 這篇。
+- 已經開賣的動態貼圖：[糰糰倉鼠](https://store.line.me/stickershop/product/37292039/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=hamster-37292039)、[社畜企鵝啵啵](https://store.line.me/stickershop/product/37292394/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=penguin-office-37292394)、[柴犬福福](https://store.line.me/stickershop/product/37292442/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=shiba-greetings-37292442)。
+- 一般貼圖：[柚柚水豚](https://store.line.me/stickershop/product/37291887/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=capybara-calm-37291887)、[麻糬海豹噗嚕](https://store.line.me/stickershop/product/37215265/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pulu-seal-lazy-37215265)。
+- 所有作品：[LINE 貼圖作者主頁](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)
 
 ## 說明
 

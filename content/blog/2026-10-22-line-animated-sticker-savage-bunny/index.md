@@ -157,7 +157,7 @@ categories: ["創作實驗"]
 
 ## 🛒 LINE Creators Market 上架販售指引
 
-1. 登入 [LINE Creators Market 創作者市集](https://creator.line.me/)。
+1. 登入 [LINE Creators Market 創作者市集](https://creator.line.me/?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=creator-market)。
 2. 點選「新增」→ 選擇「貼圖」，貼圖類型勾選「動態貼圖」。
 3. 填寫貼圖資訊：
    - **標題（中文）**：廢爛小賤兔：社畜發瘋日常

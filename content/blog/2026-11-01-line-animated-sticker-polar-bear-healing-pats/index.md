@@ -12,7 +12,7 @@ categories: ["創作實驗"]
 
 2026 下半年 LINE 上最紅的貼圖有三個共通點：**圓圓軟軟的小動物**、**可以天天用的短句**，還有一股「**成年人崩潰，需要被秀秀**」的療癒風。所以這次的主角是一隻圍著薄荷綠圍巾的小北極熊——**秀秀**。牠的工作只有一個：拍拍你、抱抱你、跟你說「辛苦了」。
 
-> 🐻‍❄️ **北極熊秀秀・療癒拍拍**（動態貼圖 24 張）👉 [Massor 的 LINE 貼圖小舖](https://line.me/S/shop/sticker/author/6564520)（本套審核中，上架後同一頁就買得到）
+> 🐻‍❄️ **北極熊秀秀・療癒拍拍**（動態貼圖 24 張）👉 [Massor 的 LINE 貼圖小舖](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)（本套審核中，上架後同一頁就買得到）
 
 ![北極熊秀秀・療癒拍拍 24 張動態貼圖](shoushou-sheet.webp)
 
@@ -212,6 +212,6 @@ LINE Creators Market 目前沒有「有聲貼圖」類型，所以 App 裡的貼
 | 23 | 好暖～ | 冬天、喝熱可可、被暖到 |
 | 24 | 會好的 | 鼓勵、陪伴低潮 |
 
-> 🐻‍❄️ [Massor 的 LINE 貼圖小舖](https://line.me/S/shop/sticker/author/6564520)（本套審核中，上架後同一頁就買得到）｜全系列依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🐻‍❄️ [Massor 的 LINE 貼圖小舖](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)（本套審核中，上架後同一頁就買得到）｜全系列依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
 
 本套貼圖為 AI 輔助創作。
