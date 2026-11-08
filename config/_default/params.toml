@@ -1,3 +1,5 @@
+# Mautic instance that receives mtc.js page/outbound-click hits (layouts/partials/mautic-tracking.html)
+mauticBaseUrl = 'https://leads.slashmantools.us'
 mainSections = ['post']
 rssFullContent = true
 favicon = 'favicon.ico'

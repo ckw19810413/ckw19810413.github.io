@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "LINE動態貼圖", "河馬貼圖", "颱風假", "天氣", 
 categories: ["創作實驗"]
 ---
 
-> 🛒 **水彩河馬胖胖・颱風天氣篇** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37431495)
+> 🛒 **水彩河馬胖胖・颱風天氣篇** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37431495?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=hippo-weather-37431495)
 
 10 月的台灣和香港，天氣一天三變：早上 **「好熱喔…」**，晚上 **「好冷！」**，颱風一來大家都在問 **「明天放颱風假嗎？」**（香港朋友就是「掛唔掛八號波？」）。
 
@@ -70,12 +70,12 @@ categories: ["創作實驗"]
 
 - **水彩河馬胖胖・颱風天氣篇**（動態貼圖，NT$60）：已送審，並報名 LINE「2026 放手去DRAW 貼圖大賽」。通過後自動開賣，到時補上購買連結。
 - **好消息：之前的 20 組動態貼圖都開賣了！**
-  - 回覆／問候：[糰糰倉鼠](https://store.line.me/stickershop/product/37292039/zh-Hant)、[柴犬福福・長輩早安](https://store.line.me/stickershop/product/37292442/zh-Hant)、[小狐狸橙橙・謝謝對不起拜託](https://store.line.me/stickershop/product/37375782/zh-Hant)、[像素鸚鵡啾比・敷衍回覆](https://store.line.me/stickershop/product/37327360/zh-Hant)、[黏土垂耳兔睏睏・晚安熬夜中](https://store.line.me/stickershop/product/37390703/zh-Hant)
-  - 上班上學：[社畜企鵝啵啵](https://store.line.me/stickershop/product/37292394/zh-Hant)、[貓頭鷹咕咕・考試週](https://store.line.me/stickershop/product/37303917/zh-Hant)、[小黃鴨嘎嘎・衝鴨應援](https://store.line.me/stickershop/product/37350499/zh-Hant)
-  - 戀愛療癒：[黏人水獺拉拉](https://store.line.me/stickershop/product/37304821/zh-Hant)、[無尾熊可可・療癒拍拍](https://store.line.me/stickershop/product/37302939/zh-Hant)
-  - 生活：[黏土豬豬嘟嘟・吃貨](https://store.line.me/stickershop/product/37327325/zh-Hant)、[蠟筆貓喵吉](https://store.line.me/stickershop/product/37327389/zh-Hant)、[復古柯基短短・約出門](https://store.line.me/stickershop/product/37327480/zh-Hant)、[樹懶懶懶・週末耍廢](https://store.line.me/stickershop/product/37360149/zh-Hant)、[水彩青蛙呱寶・減肥](https://store.line.me/stickershop/product/37374736/zh-Hant)、[像素松鼠存存・月光族](https://store.line.me/stickershop/product/37390747/zh-Hant)
-  - 節日／季節：[馴鹿叮噹・聖誕新年](https://store.line.me/stickershop/product/37302946/zh-Hant)、[小熊貓糖糖・萬聖節](https://store.line.me/stickershop/product/37350480/zh-Hant)、[黏土熊貓滾滾・生日恭喜](https://store.line.me/stickershop/product/37360223/zh-Hant)、[水彩刺蝟栗栗・天冷保暖](https://store.line.me/stickershop/product/37336572/zh-Hant)
-- 所有作品：[LINE 貼圖作者主頁](https://line.me/S/shop/sticker/author/6564520)
+  - 回覆／問候：[糰糰倉鼠](https://store.line.me/stickershop/product/37292039/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=hamster-37292039)、[柴犬福福・長輩早安](https://store.line.me/stickershop/product/37292442/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=shiba-greetings-37292442)、[小狐狸橙橙・謝謝對不起拜託](https://store.line.me/stickershop/product/37375782/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=fox-thanks-37375782)、[像素鸚鵡啾比・敷衍回覆](https://store.line.me/stickershop/product/37327360/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=budgie-pixel-37327360)、[黏土垂耳兔睏睏・晚安熬夜中](https://store.line.me/stickershop/product/37390703/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=bunny-goodnight-37390703)
+  - 上班上學：[社畜企鵝啵啵](https://store.line.me/stickershop/product/37292394/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=penguin-office-37292394)、[貓頭鷹咕咕・考試週](https://store.line.me/stickershop/product/37303917/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=owl-exam-37303917)、[小黃鴨嘎嘎・衝鴨應援](https://store.line.me/stickershop/product/37350499/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=duck-cheer-37350499)
+  - 戀愛療癒：[黏人水獺拉拉](https://store.line.me/stickershop/product/37304821/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=otter-love-37304821)、[無尾熊可可・療癒拍拍](https://store.line.me/stickershop/product/37302939/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=koala-comfort-37302939)
+  - 生活：[黏土豬豬嘟嘟・吃貨](https://store.line.me/stickershop/product/37327325/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=piglet-foodie-37327325)、[蠟筆貓喵吉](https://store.line.me/stickershop/product/37327389/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=kitten-voice-37327389)、[復古柯基短短・約出門](https://store.line.me/stickershop/product/37327480/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=corgi-retro-37327480)、[樹懶懶懶・週末耍廢](https://store.line.me/stickershop/product/37360149/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=sloth-lazy-37360149)、[水彩青蛙呱寶・減肥](https://store.line.me/stickershop/product/37374736/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=frog-diet-37374736)、[像素松鼠存存・月光族](https://store.line.me/stickershop/product/37390747/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=squirrel-payday-37390747)
+  - 節日／季節：[馴鹿叮噹・聖誕新年](https://store.line.me/stickershop/product/37302946/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=reindeer-xmas-37302946)、[小熊貓糖糖・萬聖節](https://store.line.me/stickershop/product/37350480/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=redpanda-halloween-37350480)、[黏土熊貓滾滾・生日恭喜](https://store.line.me/stickershop/product/37360223/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=panda-birthday-37360223)、[水彩刺蝟栗栗・天冷保暖](https://store.line.me/stickershop/product/37336572/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=hedgehog-warm-37336572)
+- 所有作品：[LINE 貼圖作者主頁](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)
 
 ## 說明
 
@@ -83,4 +83,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 [在 LINE 商店購買「水彩河馬胖胖・颱風天氣篇」](https://line.me/S/sticker/37431495)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「水彩河馬胖胖・颱風天氣篇」](https://line.me/S/sticker/37431495?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=hippo-weather-37431495)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)

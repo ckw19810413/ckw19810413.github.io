@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "療癒貼圖", "上班族貼圖", "躺平", "海豹貼圖"
 categories: ["創作實驗"]
 ---
 
-> 🛒 **麻糬海豹噗嚕・想躺平日常**（16 張靜態貼圖・NT$42）👉 [在 LINE 商店購買](https://line.me/S/sticker/37215265)
+> 🛒 **麻糬海豹噗嚕・想躺平日常**（16 張靜態貼圖・NT$42）👉 [在 LINE 商店購買](https://line.me/S/sticker/37215265?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pulu-seal-lazy-37215265)
 
 早上九點，人到了公司，靈魂還在被窩裡。咖啡還沒喝到，整隻人是融化狀態。
 
@@ -45,7 +45,7 @@ categories: ["創作實驗"]
 - **喜歡白色圓滾滾角色的人**：噗嚕跟[肉毛兔](/blog/line-sticker-roumao-rabbit/)、[無尾熊可可](/blog/line-animated-sticker-koala-comfort/)一樣，屬於療癒系。
 - **想找已讀不回替代方案的人**：16 張裡有一半都能當「我看到了但我很累」的回覆。
 
-想要會動的版本？可以看看同樣主打躺平的[樹懶懶懶・週末耍廢](https://line.me/S/sticker/37360149)，或[社畜企鵝啵啵](https://line.me/S/sticker/37292394)。
+想要會動的版本？可以看看同樣主打躺平的[樹懶懶懶・週末耍廢](https://line.me/S/sticker/37360149?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=sloth-lazy-37360149)，或[社畜企鵝啵啵](https://line.me/S/sticker/37292394?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=penguin-office-37292394)。
 
 所有貼圖依主題整理在 👉 [Massor LINE 貼圖全系列](/line-stickers/)。
 
@@ -55,4 +55,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 **喜歡噗嚕的話**：[在 LINE 商店購買「麻糬海豹噗嚕・想躺平日常」](https://line.me/S/sticker/37215265)，也可以在商店頁按「贈送禮物」送給一樣想躺平的朋友。
+> 🛒 **喜歡噗嚕的話**：[在 LINE 商店購買「麻糬海豹噗嚕・想躺平日常」](https://line.me/S/sticker/37215265?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pulu-seal-lazy-37215265)，也可以在商店頁按「贈送禮物」送給一樣想躺平的朋友。

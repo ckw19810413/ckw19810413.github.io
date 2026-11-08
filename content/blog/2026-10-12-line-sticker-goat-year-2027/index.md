@@ -38,12 +38,12 @@ categories: ["創作實驗"]
 
 ## 進度與購買連結
 
-- **麻糬海豹噗嚕・想躺平日常：已開賣 🎉** 👉 [LINE STORE 購買頁](https://store.line.me/stickershop/product/37215265/zh-Hant)（NT$42）
-- **芋圓貓・黏TT戀愛日常：已開賣** 👉 [LINE STORE 購買頁](https://store.line.me/stickershop/product/37220496/zh-Hant)
-- **綿綿羊・喜氣羊羊過好年：已開賣（送審隔天就通過）** 👉 [LINE STORE 購買頁](https://store.line.me/stickershop/product/37266378/zh-Hant)
+- **麻糬海豹噗嚕・想躺平日常：已開賣 🎉** 👉 [LINE STORE 購買頁](https://store.line.me/stickershop/product/37215265/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pulu-seal-lazy-37215265)（NT$42）
+- **芋圓貓・黏TT戀愛日常：已開賣** 👉 [LINE STORE 購買頁](https://store.line.me/stickershop/product/37220496/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=yuyuan-cat-couple-37220496)
+- **綿綿羊・喜氣羊羊過好年：已開賣（送審隔天就通過）** 👉 [LINE STORE 購買頁](https://store.line.me/stickershop/product/37266378/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=goat-year-2027-37266378)
 - 新作 **柚柚水豚・情緒穩定中**：[製作紀錄](/blog/line-sticker-capybara-calm/)
 
-三組都會出現在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520)，可以先收藏起來。
+三組都會出現在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)，可以先收藏起來。
 
 ## 一點誠實的筆記
 

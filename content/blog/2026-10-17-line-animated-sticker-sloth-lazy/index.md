@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "LINE動態貼圖", "樹懶貼圖", "耍廢", "週末", "�
 categories: ["創作實驗"]
 ---
 
-> 🛒 **樹懶懶懶・週末耍廢** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37360149)
+> 🛒 **樹懶懶懶・週末耍廢** 已在 LINE 商店開賣（動態貼圖・NT$60）👉 [在 LINE 商店購買](https://line.me/S/sticker/37360149?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=sloth-lazy-37360149)
 
 週末到了，群組裡有人約你出門，你只想躺著？那就傳一張 **「耍廢中…」**。
 
@@ -70,9 +70,9 @@ categories: ["創作實驗"]
 ## 上架進度
 
 - **樹懶懶懶・週末耍廢**（動態貼圖，NT$60）：已送審，通過後自動開賣，到時會在這裡補上購買連結。
-- 已經開賣的動態貼圖：[糰糰倉鼠](https://store.line.me/stickershop/product/37292039/zh-Hant)、[社畜企鵝啵啵](https://store.line.me/stickershop/product/37292394/zh-Hant)、[柴犬福福](https://store.line.me/stickershop/product/37292442/zh-Hant)。
-- 一般貼圖：[柚柚水豚](https://store.line.me/stickershop/product/37291887/zh-Hant)、[麻糬海豹噗嚕](https://store.line.me/stickershop/product/37215265/zh-Hant)。
-- 所有作品：[LINE 貼圖作者主頁](https://line.me/S/shop/sticker/author/6564520)
+- 已經開賣的動態貼圖：[糰糰倉鼠](https://store.line.me/stickershop/product/37292039/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=hamster-37292039)、[社畜企鵝啵啵](https://store.line.me/stickershop/product/37292394/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=penguin-office-37292394)、[柴犬福福](https://store.line.me/stickershop/product/37292442/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=shiba-greetings-37292442)。
+- 一般貼圖：[柚柚水豚](https://store.line.me/stickershop/product/37291887/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=capybara-calm-37291887)、[麻糬海豹噗嚕](https://store.line.me/stickershop/product/37215265/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pulu-seal-lazy-37215265)。
+- 所有作品：[LINE 貼圖作者主頁](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)
 
 ## 說明
 
@@ -82,4 +82,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 [在 LINE 商店購買「樹懶懶懶・週末耍廢」](https://line.me/S/sticker/37360149)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「樹懶懶懶・週末耍廢」](https://line.me/S/sticker/37360149?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=sloth-lazy-37360149)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)

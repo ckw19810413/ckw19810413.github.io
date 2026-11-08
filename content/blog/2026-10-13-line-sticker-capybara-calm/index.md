@@ -10,7 +10,7 @@ tags: ["LINE貼圖", "貼圖創作", "水豚", "情緒穩定", "AI繪圖", "柚�
 categories: ["創作實驗"]
 ---
 
-> 🛒 **柚柚水豚・情緒穩定中** 已在 LINE 商店開賣（靜態貼圖・NT$42）👉 [在 LINE 商店購買](https://line.me/S/sticker/37291887)
+> 🛒 **柚柚水豚・情緒穩定中** 已在 LINE 商店開賣（靜態貼圖・NT$42）👉 [在 LINE 商店購買](https://line.me/S/sticker/37291887?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=capybara-calm-37291887)
 
 最近聊天室最常出現的一句話，可能不是「哈哈哈」，而是 **「我很情緒穩定」**。
 
@@ -46,12 +46,12 @@ categories: ["創作實驗"]
 
 這是我第一次公開進度，三組都在送審後 1～3 天通過，現在都可以買了（每組 NT$42）：
 
-- **麻糬海豹噗嚕・想躺平日常**（上班族厭世）👉 [LINE STORE](https://store.line.me/stickershop/product/37215265/zh-Hant)
-- **芋圓貓・黏TT戀愛日常**（情侶、曖昧）👉 [LINE STORE](https://store.line.me/stickershop/product/37220496/zh-Hant)
-- **綿綿羊・喜氣羊羊過好年**（2027 羊年、聖誕跨年）👉 [LINE STORE](https://store.line.me/stickershop/product/37266378/zh-Hant)
+- **麻糬海豹噗嚕・想躺平日常**（上班族厭世）👉 [LINE STORE](https://store.line.me/stickershop/product/37215265/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=pulu-seal-lazy-37215265)
+- **芋圓貓・黏TT戀愛日常**（情侶、曖昧）👉 [LINE STORE](https://store.line.me/stickershop/product/37220496/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=yuyuan-cat-couple-37220496)
+- **綿綿羊・喜氣羊羊過好年**（2027 羊年、聖誕跨年）👉 [LINE STORE](https://store.line.me/stickershop/product/37266378/zh-Hant?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=goat-year-2027-37266378)
 - **柚柚水豚・情緒穩定中**：10/13 送審，通過後我會把連結補在這裡
 
-全部作品都在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520)。
+全部作品都在我的 [LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)。
 
 ## 誠實筆記
 
@@ -63,4 +63,4 @@ categories: ["創作實驗"]
 
 ---
 
-> 🛒 [在 LINE 商店購買「柚柚水豚・情緒穩定中」](https://line.me/S/sticker/37291887)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
+> 🛒 [在 LINE 商店購買「柚柚水豚・情緒穩定中」](https://line.me/S/sticker/37291887?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=capybara-calm-37291887)｜全部 27 組依主題整理在 [Massor LINE 貼圖全系列](/line-stickers/)
