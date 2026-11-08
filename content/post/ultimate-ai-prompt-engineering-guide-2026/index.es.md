@@ -154,7 +154,7 @@ Los mejores prompts en 2026 no solo hacen una pregunta — apilan múltiples cap
 
 > **Rol:** Eres un redactor enfocado en conversión que ha generado más de $10M en ingresos a través de landing pages.
 >
-> **Contexto:** Vendo una AI Prompt Library en Gumroad por $29. Contiene más de 200 prompts organizados por categoría: escritura, código, marketing, análisis de datos y creatividad.
+> **Contexto (hipotético):** Imagina que vendo una AI Prompt Library en Gumroad por $29: más de 200 prompts organizados por categoría (escritura, código, marketing, análisis de datos y creatividad). (Ejemplo didáctico; la AI Prompt Library real en Gumroad es una muestra gratuita.)
 >
 > **Referencia:** Así es como describo mi producto en dos frases: "Una colección curada de más de 200 plantillas de prompts probadas que funcionan con ChatGPT, Claude y Gemini. Cubre cada caso de uso importante desde creación de contenido hasta análisis de datos."
 >
