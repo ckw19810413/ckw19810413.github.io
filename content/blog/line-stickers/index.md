@@ -17,6 +17,19 @@ categories: ["創作實驗"]
 
 👉 想一次看全部：[LINE 貼圖作者頁](https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=bridge&utm_campaign=5s-hook&utm_content=author-6564520)
 
+<div id="hook-preview-line-stickers" style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;background:#fff8f0;border:2px solid #06c755;border-radius:14px;padding:16px;margin:16px 0;">
+  <a href="https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=seo&utm_campaign=5s-hook-2026-11&utm_content=line-stickers-h1" target="_blank" rel="noopener" style="flex:0 0 120px;">
+    <img src="/hook-previews/line-stickers-h1.gif" alt="Massor LINE Stickers 5s Hook Preview" width="120" height="213" style="border-radius:10px;width:120px;height:auto;display:block;" loading="lazy" />
+  </a>
+  <div style="flex:1 1 240px;">
+    <strong>⚡ 5 秒動態預覽：已讀不回？派柴柴跟羊駝開嗆！</strong><br>
+    <span>36 組原創動態與靜態貼圖（欠扁柴柴、賤萌羊駝呸呸、無尾熊可可、柚柚水豚、黏人水獺拉拉）。</span><br>
+    <a class="lh-b" href="https://line.me/S/shop/sticker/author/6564520?utm_source=ghpages&utm_medium=seo&utm_campaign=5s-hook-2026-11&utm_content=line-stickers-h1" target="_blank" rel="noopener">👉 前往 LINE 貼圖作者頁（36 組一次看）</a>
+    <a href="/hook-bridges/line-stickers/?utm_source=ghpages&utm_medium=seo&utm_campaign=5s-hook-2026-11&utm_content=line-stickers-h1" style="margin-left:8px;font-size:0.9em;">5s Hook 專頁 →</a>
+  </div>
+</div>
+
+
 <style>.lh-g{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;margin:1em 0}.lh-c{display:flex;gap:12px;align-items:flex-start;background:#fff8f0;border-radius:12px;padding:10px;font-size:.92em;line-height:1.5}.lh-c img{width:96px;height:96px;border-radius:10px;flex:none;background:#fff}.lh-b{display:inline-block;margin-top:4px;padding:2px 10px;border-radius:8px;background:#06c755;color:#fff!important;text-decoration:none}</style>
 
 ## 🌿 療癒動物系：累了、想哭、想躺平
