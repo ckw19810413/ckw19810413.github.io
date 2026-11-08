@@ -15,6 +15,9 @@ pagerSize = 12
 [markup.goldmark.renderer]
 unsafe = true
 
+[minify]
+  disableXML = true
+
 # Google Analytics (GA4)
 [services.googleAnalytics]
   ID = 'G-MY95FHB8JG'
