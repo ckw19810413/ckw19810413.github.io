@@ -1,0 +1,62 @@
+name: Daily Graduate Fable Automation Pipeline
+
+on:
+  schedule:
+    # 00:00 UTC = 08:00 AM UTC+8 (Asia/Taipei)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'daily-parable'
+  cancel-in-progress: false
+
+jobs:
+  fable-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Daily Parable Verification & Generation Pipeline
+        run: python3 scripts/daily_parable.py
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.157.0'
+          extended: true
+
+      - name: Build Hugo Site
+        run: hugo --gc --minify --buildFuture
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: fable-pipeline
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
