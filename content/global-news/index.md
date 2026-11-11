@@ -1,26 +1,26 @@
 ---
-title: "全球大事件每日晨報 · 2026-11-11：美期中選藍潮翻盤兩院・英央行升息至4%・俄伊導彈密件曝光・加國千億預算"
+title: "全球大事件每日晨報 · 2026-11-12：美期中選藍潮翻盤兩院・英央行升息至4%・俄伊導彈密件曝光・加國千億預算"
 url: "/global-news/"
-date: 2026-11-11T05:30:00+08:00
+date: 2026-11-12T05:30:00+08:00
 draft: false
 image: cover.png
 cover: "https://ckw19810413.github.io/global-news/cover.png"
-description: "2026-11-11 全球重大事件深度解析：美洲民主黨贏得期中大選奪回兩院、道瓊暴漲千點、英國央行升息至 4%、歐洲連環航班炸彈威脅排查、俄伊 90 具先進飛彈軍援密件曝光、加拿大公布 1510 億預算案、巴拉圭總統因銀行風暴請辭、亞洲製造業微幅回溫，以及全球前十大經濟體核心總體數據橫向評比。"
+description: "2026-11-12 全球重大事件深度解析：美洲民主黨贏得期中大選奪回兩院、道瓊暴漲千點、英國央行升息至 4%、歐洲連環航班炸彈威脅排查、俄伊 90 具先進飛彈軍援密件曝光、加拿大公布 1510 億預算案、巴拉圭總統因銀行風暴請辭、亞洲製造業微幅回溫，以及全球前十大經濟體核心總體數據橫向評比。"
 tags: ["全球大事件", "國際局勢", "期中選舉", "美股", "英國升息", "歐洲航班", "俄伊密件", "荷姆茲海峽", "加拿大預算", "日銀升息", "總體經濟"]
 categories: ["國際局勢", "總體經濟"]
 aliases:
-  - "/blog/2026-11-11-global-news/"
-  - "/global-news/2026-11-11/"
+  - "/blog/2026-11-12-global-news/"
+  - "/global-news/2026-11-12/"
 ---
 
-> **觀測週期**：2026-11-11 晨間即時彙整  
+> **觀測週期**：2026-11-12 晨間即時彙整  
 > **情報涵蓋**：全球各大洲（北美、歐洲、中東、亞洲/印太、拉美、大洋洲）與全球前 10 大經濟體  
 > **核心來源**：各國政府公報、路透社（Reuters）、美聯社（AP）、英國衛報（The Guardian）、各國央行公報與 S&P Global PMI 報告  
 > **定位宗旨**：以客觀數據、官方決策與供應鏈結構為準繩，剔除短期情緒噪音，提煉出真正驅動全球資金流向與地緣版圖重構的核心脈絡。
 
 <div style="margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.12); border: 1px solid rgba(128,128,128,0.2);">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #0f121c;">
-    <iframe src="https://www.youtube.com/embed/zd4VKej4AbY" title="2026-11-11 全球大事件每日晨報" style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/TjDzzFmbLSs" title="2026-11-12 全球大事件每日晨報" style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   <div style="background: rgba(0,0,0,0.03); padding: 10px 16px; font-size: 0.9rem; color: var(--card-text-color-secondary, #666); text-align: center; border-top: 1px solid rgba(128,128,128,0.15);">
     🎬 <strong>120 秒晨間快報影音動態版</strong>（含 AI 自然神經語音朗讀與背景配樂）
@@ -94,7 +94,7 @@ aliases:
 
 ### 6. 全球前十大經濟體核心指標與趨勢橫向全景
 
-| 排名 | 國家 / 經濟體 | 核心總體經濟數據 / 最新指標 | 2026-11-11 即時動態與政策取向 | 全球產業鏈與市場意涵 |
+| 排名 | 國家 / 經濟體 | 核心總體經濟數據 / 最新指標 | 2026-11-12 即時動態與政策取向 | 全球產業鏈與市場意涵 |
 |:---:|:---|:---|:---|:---|
 | **1** | **美國 (USA)** | 基準利率 **3.75%–4.00%** · 通膨 **3.7%** | 期中大選藍潮奪回兩院；道瓊暴漲 1500 點；川普承諾與國會合作 | 國會分治阻絕激進單邊關稅風險，美股風險溢價快速重估，長端殖利率壓力略減。 |
 | **2** | **中國 (China)** | 民間 PMI **> 50** · 銅冶煉利潤承壓 | 科技製造業外銷訂單維持動能；副產品價格下跌壓抑冶煉業；財政基建持續落地 | 科技與新能源供應鏈維持韌性，製造業加速向高附加價值端升級。 |
