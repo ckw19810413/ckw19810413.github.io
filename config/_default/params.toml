@@ -8,6 +8,12 @@ dateFormat = { published = '2006-01-02', lastUpdated = '2006-01-02' }
 # SEO
 description = 'Practical, evergreen guides on money, productivity, and the web — 理財、生產力、開發者工具的實用長青指南'
 
+# Google Search Console verification (URL-prefix property for https://ckw19810413.github.io/)
+# Set to the token GSC issues (Settings → Site ownership → Verification methods → HTML tag,
+# the value between the quotes) to emit a <meta name="google-site-verification"> on every page.
+# Empty = tag not emitted.
+googleSiteVerification = ''
+
 [sidebar]
   subtitle = 'Practical, evergreen guides on money, productivity, and the web'
   [sidebar.avatar]

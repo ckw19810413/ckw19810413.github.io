@@ -1,6 +1,11 @@
 User-agent: *
 Allow: /
+Sitemap: https://ckw19810413.github.io/sitemap.xml
 Sitemap: https://slashmantools.us/sitemap.xml
+
+# Google Search Console — explicitly allow Googlebot
+User-agent: Googlebot
+Allow: /
 
 # Crawl delay for aggressive bots
 User-agent: AhrefsBot
