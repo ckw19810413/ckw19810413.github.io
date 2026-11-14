@@ -12,7 +12,7 @@ description = 'Practical, evergreen guides on money, productivity, and the web �
 # Set to the token GSC issues (Settings → Site ownership → Verification methods → HTML tag,
 # the value between the quotes) to emit a <meta name="google-site-verification"> on every page.
 # Empty = tag not emitted.
-googleSiteVerification = ''
+googleSiteVerification = 'PENDING_REAL_GSC_TOKEN_FOR_ckw19810413.github.io'
 
 [sidebar]
   subtitle = 'Practical, evergreen guides on money, productivity, and the web'
