@@ -4,8 +4,8 @@ date: 2026-11-17T06:00:00+08:00
 draft: false
 image: cover.png
 cover: "https://ckw19810413.github.io/blog/2026-11-17-reddit-finance-daily/cover.png"
-description: "Reddit 美股五大核心板塊近 3 日熱門話題 Top 3 與 ApeWisdom 即時熱度監控。"
-tags: ["Reddit", "美股", "期權", "ApeWisdom", "投資快訊", "Shorts"]
+description: "NVDA CEO 風暴、AI 晶片漏洞收緊與 AI 泡沫之爭——Reddit 美股五大核心板塊近 3 日熱門話題 Top 3 與 ApeWisdom 即時熱度監控。"
+tags: ["Reddit", "美股", "期權", "ApeWisdom", "NVDA", "投資快訊", "Shorts"]
 categories: ["財經投資", "市場觀察"]
 ---
 
@@ -24,36 +24,52 @@ categories: ["財經投資", "市場觀察"]
 本報告完成對五大核心財經看板（**r/wallstreetbets**、**r/stocks**、**r/investing**、**r/options**、**r/StockMarket**）近 3 日熱門話題、社群情緒、量化聲量與衍生品異動之全面監控。
 
 > **監控看板**：r/wallstreetbets、r/stocks、r/investing、r/options、r/StockMarket  
-> **觀測期間**：近 72 小時  
-> **數據來源**：Reddit 核心社群實時討論流、ApeWisdom 全網即時熱度監控 API  
+> **觀測期間**：近 72 小時（2026-11-14 起）  
+> **數據來源**：Reddit 核心社群實時討論流（RSS 新鮮帖：WSB 29 / stocks 32 / investing 31 / options 14 / StockMarket 28 篇）、ApeWisdom 全網即時熱度監控 API（2026-11-17 快照）
 
 ## 🎯 跨板塊三大核心主題
-1. **超微（AMD）Q3 財報噴出突破，資料中心翻倍帶動晶片股多頭大軋空**
-2. **科技巨頭千億 AI 資本開支（CapEx）進入實質檢驗期，資金轉向防禦與現金**
-3. **上游半導體定價權依舊穩固，英特爾（INTC）多空末日期權對決白熱化**
+1. **NVDA CEO 風暴**：董事會「不會考慮讓 Jensen Huang 回任」（CNBC 消息）；川普表態支持回任、反駁「情婦是間諜」指控；NVDA 自 10/6 累跌 32%，週二財報為 33 年來首次沒有 Jensen 出席。
+2. **美國補上 AI 晶片漏洞**：华府動作限制先進 AI 晶片「遠端存取」，收緊經第三國远程使用中國市場的後門。
+3. **AI 泡沫之爭白熱化**：前 SEC 主委預警「AI 泡沫將在 2028 大選前破裂並引發衰退」；Fed 的 Warsh 稱若 AI 熱潮失約恐有股市崩盤風險；10 年期美債殖利率站上 5.13%、BofA 預估再加三碼；hyperscaler 發債 $296B、美國債務規模等於 GDP，訴訟潮（Intel 股東、DRAM  cartel、Meta 義大利 €887M 罰款）與 Anthropic IPO「成敗一戰」交織。
 
 ## 📊 五大核心板塊近 3 日最熱話題 Top 3
 ### 1. r/wallstreetbets（規模：1,800 萬+ · 類型：情緒／動能 · 雜訊：🔴 極高）
-- AMD Q3 財報噴出多頭軋空大暴賺
-- SMCI 審計風波與 INTC 末日期權博弈
-- 大選前夕科技股避險與 Loss Porn
+- 前 SEC 主委發文預警：AI 泡沫很可能在 2028 大選前破裂、引發衰退
+- Jensen Huang 風暴全記錄：董事會不回任、川普挺回任、「Jensen's "Hung" Huang details his past week」
+- 晶片漏洞收緊（closing the nvidia/china loophole）與三宗訴訟潮：Intel 股東、DRAM cartel、Meta 罰款
 
-### 2. r/stocks（規模：約 900 萬 · 類型：綜合討論／個股研討 · 🟡 中雜訊）
-- AMD Q3 財報深度拆解與資料中心市佔
-- 科技巨頭千億 CapEx 折舊對淨利潤之衝擊
-- 資金湧向防禦型權值股（沃爾瑪 WMT）
+### 2. r/stocks（規模：約 900 萬 · 類型：綜合討論／個股研討 · 雜訊：🟡 中）
+- US Moves to Curb China's Remote Access to Nvidia's AI Chips（第三國遠端使用後門被點名）
+- Blackstone REIT 以 $5B 買下 Amazon 資料中心，AI 基礎設施進入資產證券化階段
+- Altman：Huang 下台後 AI 業「會沒問題」；「市場流出的錢都去哪了？」與美國債務等於 GDP 之辯
 
-### 3. r/investing（規模：約 300 萬 · 類型：中長期／資產配置 · 🟢 低雜訊）
-- SGOV 與超短天期美債 ETF 鎖定無風險利息
-- VTI vs 科技巨頭權重集中度風險探討
-- 生成式 AI 對開放內容平台導流之長期重塑
+### 3. r/investing（規模：約 300 萬 · 類型：中長期／資產配置 · 雜訊：🟢 低）
+- 「The day of reckoning for NVDA is finally here」——週二財報被視為宿命時刻
+- 「Swamping by hyperscalers?」——超大規模雲端商 $296B 發債資本開支是否壓垮資本市場
+- 泡沫對沖思維：Warsh 崩盤風險論、「如何布局贏在 AI 泡沫破裂」與 Meb Faber 50% 趨勢跟隨
 
-### 4. r/options（規模：約 100 萬+ · 類型：衍生品／交易策略 · 🟡 中雜訊）
-- 財報密集週與大選前夕之 IV Crush 避險解析
-- Theta Gang 垂直價差與鐵禿鷹防禦指南
-- TQQQ、ASTS 與高波動標的異常期權偏斜
+### 4. r/options（規模：約 100 萬+ · 類型：衍生品／交易策略 · 雜訊：🟡 中）
+- NVDA 財報雙向押注：160 美元 call 賭財報 vs 賣 put 被指派風險白熱化
+- TGT（Target）財報 play 與零售財報季期權布局
+- 策略雜項：再空 TSLA、penny stock 賣 CSP、long puts vs short stock + call 避險對決
 
-### 5. r/StockMarket（規模：約 300 萬 · 類型：新聞圖表／技術分析 · 🟡 中雜訊）
-- 費半成分股與 AMD 突破下降趨勢線
-- 標普 500 (SPY) 與那斯達克 (QQQ) 關鍵支撐攻防
-- 大選年季節性歷史波動與板塊輪動矩陣
+### 5. r/StockMarket（規模：約 300 萬 · 類型：新聞圖表／技術分析 · 雜訊：🟡 中）
+- 大文後測：NVDA 自 10/6 跌 32%，回測 2,943 次大型美股同幅下跌檢驗逢低勝率；「Another Dip」續跌攻防
+- 川普稱 Jensen 回任「不是壞主意」，政治因素重新注入公司治理
+- 宏觀債務警訊：「U.S. debt now equals the whole economy」＋ 2001 以來減稅累積超過 $10T
+
+## 🔥 ApeWisdom 全網聲量榜（2026-11-17 快照，看增幅不看絕對量）
+| 代號 | 24h 提及 | 前 24h | 增幅 | 熱點 |
+|---|---|---|---|---|
+| NVDA | 1,060 | 331 | ~3.2x | 董事會不回任 Jensen、川普表態、週二財報 |
+| SPY | 281 | 42 | ~6.7x | 大盤續跌避險、10Y 殖利率破 5.13% |
+| MU | 107 | 12 | ~9x | DRAM cartel 訴訟＋HBM 景氣 |
+| NBIS | 90 | 14 | ~6.4x | AI 基礎設施（neocloud）話題 |
+| GOOGL | 80 | 1 | ~80x | 搜尋＋AI 競爭、資金輪動 |
+
+各板塊過濾視角下 NVDA 亦為第一熱點（WSB 1,060 / stocks 84 / investing 13 / options 10 / StockMarket 13）。
+
+## 📌 一句話總結
+Jensen Huang 去留決定 NVDA 敘事走向，美國晶片漏洞收緊與前 SEC 主委的衰退預警交會，這週二財報是 AI 板块「成敗一戰」。
+
+> 本頁同時作為 `https://ckw19810413.github.io/reddit-daily-summaries/` 当日快報頁。完整影音版見上方影片區塊；YouTube 動態版將於同日發布於 [@kwc1933](https://www.youtube.com/@kwc1933)。
