@@ -20,6 +20,38 @@ aliases:
 
 ## 今日全球重點掃描 (2026-11-22)
 
+
+## 今日六大焦點（跨洲掃描）
+
+1. **歐洲（俄烏局勢）**：Zelensky 稱打擊克里米亞大橋是「公平回應」，並會晤英國 Streeting；芬蘭防衛軍指涉一艘往俄羅斯的船只在芬蘭海遭無人機襲擊。 → [BBC](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo)
+2. **北美（美國市場）**：科技股拋售拖垮大盤，S&P 500 與道瓊指數跌入修正區間（Anthropic 股價下挫為引信）。 → [BBC](https://www.bbc.co.uk/news/articles/c6808ym10vzgo)
+3. **北美（美國科技政策）**：Trump 威脅禁止美國公司在海外建造 AI 資料中心，細節未明，市場關注對全球算力供應鏈衝擊。 → [BBC](https://www.bbc.co.uk/news/articles/cmde1lw9y54ko)
+4. **歐洲（英國）**：UK-EU 新貿易協定涵蓋食品出口、碳權交易與青年見習方案；Burnham 稱將探索更緊密關係，分析指約為 GDP +0.5%（約 £17bn）推升。 → [BBC](https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o)
+5. **中東（伊朗）**：伊朗外交部長稱已與卡達斡旋方會談，若美國接受合理條件，重開海峽「並非困難」。 → [Al Jazeera](https://www.aljazeera.com/)
+6. **亞太（APEC 深圳峰會）**：Trump 稱與習、普的深圳三邊會談為「數年來最重大」之一，共同聲明承諾核風險對話，貿易／台灣／科技爭端未解；APEC 带回 41.1 比索投資承諾。 → [The Asia Gazette](https://www.theasiagazette.com/executive-report)
+
+### 其他洲補充掃描
+- **南美洲**：巴西前總統 Bolsonaro 因腸阻塞入住加護病房（Al Jazeera）
+- **非洲／全球（聯合國）**：UNFPA 報告 — 全球四分之一女性在婚姻中無法拒絕性行為，西非／中非近半（Guardian）
+- **全球氣候**：COP31 因化石燃料爭端陷入僵局，近 200 國未達新氣候協議（BBC）
+- **歐洲社會**：法國、葡萄牙數千人為生活成本與住房抗議，歐洲青年教育抗議持續（Al Jazeera）
+
+## 前十大經濟體總覽（2026-11-22 晨報）
+
+| # | 經濟體 | 今日宏觀焦點 | 訊號 | 出處 |
+|---|--------|--------------|------|------|
+| 1 | 美國 | S&P 500／道瓊跌入修正區間；Trump 威脅限制海外 AI 資料中心投資 | 承壓 | BBC Business |
+| 2 | 中國 | APEC 深圳峰會：三邊共同聲明承諾核風險對話；貿易與科技出口韌性為主軸 | 分化 | Asia Gazette |
+| 3 | 日本 | 物價升溫持續，聚焦日銀利率路徑與實質薪資 | 承壓 | 晨報掃描 |
+| 4 | 德國 | 冬季能源儲備與工業製造動能為焦點 | 承壓 | 晨報掃描 |
+| 5 | 印度 | 抗通膨與供應鏈轉移紅利並存 | 穩健 | 晨報掃描 |
+| 6 | 英國 | UK-EU 協定生效（食品／碳權／青年方案），GDP 約 +0.5% 推升；探索更緊密關係 | 偏多 | BBC Business |
+| 7 | 法國 | 生活成本與住房抗議擴散，財政紀律受關注 | 偏鷹 | Al Jazeera |
+| 8 | 義大利 | 財政紀律與服務業通膨為關鍵 | 偏鷹 | 晨報掃描 |
+| 9 | 加拿大 | 資源與對美貿易重組為主軸 | 穩健 | 晨報掃描 |
+| 10 | 巴西 | Bolsonaro 入院成政治風險事件；資源型經濟維持穩定 | 穩健 | Al Jazeera |
+
+> 說明：「訊號」欄為今晨宏觀定位（觀察／偏多／偏鷹／承壓／穩健／分化）；「晨報掃描」= 晨報影片前十大經濟體座標（未見當晨重大新聞者列為觀望）。
 ### bbc_world
 - [Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss) — Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.
 - [Russia-bound ship attacked in Gulf of Finland](https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss) — Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.
