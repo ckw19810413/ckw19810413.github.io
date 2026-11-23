@@ -8,32 +8,4 @@
     {{ end }}
   </sitemap>
   {{ end }}
-  <sitemap>
-    <loc>https://ckw19810413.github.io/hook-bridges/line-stickers/</loc>
-    <lastmod>2026-11-08T22:00:00+08:00</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://ckw19810413.github.io/hook-bridges/slashman-tools-os/</loc>
-    <lastmod>2026-11-08T22:00:00+08:00</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://ckw19810413.github.io/hook-bridges/cowork-multi-agent-engine/</loc>
-    <lastmod>2026-11-08T22:00:00+08:00</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://ckw19810413.github.io/hook-bridges/twse-premium-etf-dashboard/</loc>
-    <lastmod>2026-11-08T22:00:00+08:00</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://ckw19810413.github.io/hook-bridges/saas-starter/</loc>
-    <lastmod>2026-11-08T22:00:00+08:00</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://ckw19810413.github.io/hook-bridges/ai-shorts-bots/</loc>
-    <lastmod>2026-11-08T22:00:00+08:00</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://ckw19810413.github.io/hook-bridges/ebook-kdp-engine/</loc>
-    <lastmod>2026-11-08T22:00:00+08:00</lastmod>
-  </sitemap>
 </sitemapindex>
