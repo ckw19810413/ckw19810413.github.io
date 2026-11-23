@@ -1,56 +1,56 @@
 ---
-title: "美股六年最慘一週、荷莫茲油輪觸雷｜全球大事件晨報 2026-11-23"
+title: "黃仁勳回歸輝達狂飆31%、烏軍擊中俄艦｜全球大事件晨報 2026-11-24"
 url: "/global-news/"
-date: 2026-11-23T05:30:00+08:00
+date: 2026-11-24T05:30:00+08:00
 draft: false
 image: cover.png
 cover: "https://ckw19810413.github.io/global-news/cover.png"
-description: "2026-11-23 全球晨報：美股六年最慘一週、荷莫茲油輪觸雷、COP31 破局、中國穩市政策包，以及前十大經濟體動向。"
-tags: ["全球大事件", "國際局勢", "總體經濟", "美股", "荷莫茲海峽", "COP31"]
+description: "2026-11-24 全球晨報：黃仁勳復任輝達 CEO 引爆美股最強單日反彈、中國下調融資保證金至 80%、油價跌破 90 美元、烏軍擊中利比亞外海俄艦、COP31 破局與前十大經濟體動向。"
+tags: ["全球大事件", "國際局勢", "總體經濟", "輝達", "美股", "荷莫茲海峽", "COP31"]
 categories: ["國際局勢", "總體經濟"]
 aliases:
-  - "/global-news/2026-11-23/"
+  - "/global-news/2026-11-24/"
 ---
 
 <div style="margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.12); border: 1px solid rgba(128,128,128,0.2);">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #0f121c;">
-    <iframe src="https://www.youtube.com/embed/jMlyXLZtvqo" title="2026-11-23 全球大事件晨報" style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/X4gx4qY2pKw" title="2026-11-24 全球大事件晨報" style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
 </div>
 
-> **一句話看今天：** AI 交易退潮讓全球股市走完六年來最慘的一週，荷莫茲海峽又傳油輪觸雷——風險資產退潮、能源風險溢價居高不下。
+> **一句話看今天：** 黃仁勳火速重掌輝達 CEO 引爆美股創 2025 年 4 月以來最強單日反彈，那斯達克飆漲 6.51%；同時烏克蘭無人艇在利比亞外海擊中兩艘俄國軍艦，油價則因供應增加與利比亞油管重啟跌破 90 美元。
 
 ## 今日六大焦點（各大洲）
 
-![AI 交易退潮，全球股市重挫](s02.png)
+![輝達領軍強彈，中國鬆綁融資護盤](s02.png)
 
-### ① 北美｜AI 交易退潮，華爾街進入修正
-週五標普 500 下跌 3.7%、那斯達克重挫 5.3%、道瓊 -1.9%；標普單週跌 8.6%，較十月高點回落近 12%，正式進入「修正」區間，是六年多來最差的一週。MSCI 全球股票指數單週跌 8.1%，VIX 升至七個月高點。輝達單週股價重挫約 23%，新華財經報導美國 SEC 正調查其潛在會計問題。
-來源：[ABC News 市場快報](https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602)、[Westpac IQ Morning Report](https://www.westpaciq.com.au/economics/2026/11/Morning-report-23-Nov-2026)、[新華財經早報](https://www.cnfin.com/hb-lb/detail/20261122/4498614_1.html)
+### ① 北美｜黃仁勳重掌輝達 CEO，美股創 2025 年 4 月以來最強單日反彈
+輝達（Nvidia）董事會週一（11/23）宣布立即恢復黃仁勳（Jensen Huang）執行長職務，帶動輝達股價單日暴漲 31%（市值暴增近 1 兆美元）。美股三大指數全面強彈，收復上週重挫逾半失地：那斯達克暴漲 6.51% 收 24,089.56 點、標普 500 跳漲 4.73% 收 7,237.17 點、道瓊工業指數大漲 1,447.98 點（+3.01%）收 49,595.31 點；美光（Micron）大漲 19%，CoreWeave 飆升 22%，Alphabet 與 Meta 亦上漲約 6%。
+來源：[CNBC 盤後整理](https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html)、[AP News](https://apnews.com/article/stocks-markets-rates-technology-ai-anthropic-49ba1beba78fa4ed2bd5898029f79c91)、[Investopedia](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11232026-12274147)
 
-### ② 亞洲｜中國證監會推出穩市場政策包
-11 月 22 日，在證監會統籌下，上交所、深交所、北交所與中國結算聯合推出一系列政策，目標穩定市場預期；國家發改委同時要求各地加快政府投資項目建設與資金撥付。澳洲 ASX 期貨則預示第七個連跌交易日。
-來源：[CGTN](https://news.cgtn.com/news/2026-11-22/China-rolls-out-policy-package-to-stabilize-market-and-expectations-1ShDFzCbgqc/p.html)、[澎湃新聞／經濟日報財經早餐](https://www.thepaper.cn/newsDetail_forward_34532043)
+### ② 亞太｜中國下調融資最低保證金至 80%，澳洲聯儲示警通膨風險
+中國證監會週日（11/22）核准滬、深、北三大交易所將融資買入最低保證金比例由 100% 下調至 80%（11 月 30 日起生效），同時國有資金創紀錄規模買入 ETF 護盤；週一（11/23）上證指數收漲 0.15%，創業板指勁揚 3.08%。日本東京股市 11/23 因勤勞感謝日休市，今日（11/24）復市將正面迎接美股強彈與 12 月日銀升息預期。大洋洲方面，澳洲聯儲（RBA）最新模型警告工黨政府擬議調整資本利得稅優惠恐推升通膨，ASX 盤中隨美股期指反彈。
+來源：[新華社英文網](https://english.news.cn/20261123/4e3ca972a01a47a687ccdc205e285d2f/c.html)、[CNBC TV18](https://www.cnbctv18.com/market/chinas-government-backed-funds-ramp-up-etf-buying-to-record-as-rout-deepens-20039572.htm)、[JAPAN.co.jp](https://japan.co.jp/e/japan-market-desk/)、[Sharecafe](https://www.sharecafe.com.au/2026/11/23/rba-flags-inflation-risk-as-asx-rebounds/)
 
-![海峽水雷與俄船遇襲](s03.png)
+![波斯灣衝突持續，俄烏戰線延燒地中海](s03.png)
 
-### ③ 中東｜伊朗稱兩艘超級油輪在荷莫茲觸雷
-伊朗革命衛隊（IRGC）海軍週日宣稱，兩艘超級油輪在荷莫茲海峽附近觸雷後「發生爆炸並停航」；IRGC 也稱攻擊了巴林的美軍愛國者防空雷達，葉門胡塞武裝則對沙烏地重啟攻擊。英國 UKMTO 證實美軍封鎖線附近發生「涉及軍事力量」的油輪事件。布蘭特原油約 92.6 美元。（伊方說法，尚待獨立證實）
-來源：[Anadolu](https://www.aa.com.tr/en/middle-east/iran-says-2-supertankers-struck-naval-mines-near-strait-of-hormuz/4133736)、[Euronews](https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz)、[Investing.com](https://www.investing.com/news/economy-news/iran-asserts-control-over-hormuz-as-strikes-on-bahrain-and-saudi-arabia-escalate-5043802)
+### ③ 中東｜伊朗再襲波斯灣據點，布蘭特原油回落跌破 90 美元
+伊朗在短暫停火間隙後再度對波斯灣美軍基地與民用目標發動襲擊；美國總統川普表示目前無需恢復大規模軍事行動，但要求伊朗停止企圖封鎖或控制荷莫茲海峽，卡達代表團亦在德黑蘭進行外交斡旋。受中東出口供給回升與利比亞 Sharara 油管重啟影響，週一國際油價走低：布蘭特原油期貨收跌 3.20 美元（-3.5%）至每桶 89.37 美元，WTI 原油收跌 3.24 美元至每桶 80.17 美元。
+來源：[Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull)、[AP News](https://apnews.com/article/mideast-iran-gaza-israel-houthis-libya-november-23-2026-c2cb6de3515f887a5786c1147e918489)、[Newsquawk](https://www.newsquawk.com/headlines/crude-wrap-wti-f7-settles-usd-324-lower-at-8017bbl-brent-f7-settles-usd-320-lower-at-8937bbl)
 
-### ④ 歐洲｜俄國船隻接連遇襲，俄軍續攻烏克蘭電網
-利比亞班加西港一艘俄國船發生爆炸，利比亞官員稱疑為烏克蘭無人機攻擊；芬蘭灣另有一艘赴俄貨輪遇襲後被拖離。俄軍則持續打擊烏克蘭電廠與敖德薩港口設施。
-來源：[The Guardian](https://www.theguardian.com/world)、[BBC World](https://www.bbc.com/news/world)
+### ④ 歐非｜烏軍無人艇擊中利比亞外海兩艘俄艦，歐盟拍板 2027 預算與 ECB 新人選
+烏克蘭總統澤倫斯基證實，烏軍海軍無人艇在利比亞東部班加西（Benghazi）外海擊中兩艘俄國艦艇，其中一艘護衛艦沉沒，將俄烏戰線推進至北非地中海海域。歐洲財金方面，歐盟理事會 11/23 正式通過 2027 年歐盟預算（承諾總額 1,997 億歐元、支付總額 2,115 億歐元）；法德也完成歐洲央行（ECB）執委提名政治協議，法國提名 Laurence Boone、德國提名 Markus Brunnermeier。
+來源：[AP News](https://apnews.com/article/libya-russia-ukriane-war-benghazi-ship-drone-cbd82b965a111dcf4605b8b2d0493780)、[The Guardian](https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya)、[Consilium](https://www.consilium.europa.eu/en/press/press-releases/2026/11/23/eu-budget-for-2027-council-gives-final-green-light/)、[RTÉ](https://www.rte.ie/news/business/2026/1123/1600251-france-and-germany-to-take-key-ecb-roles/)
 
-![COP31 破局，蘇丹戰火未歇](s04.png)
+![氣候峰會破局，巴西拚財政盈餘](s04.png)
 
-### ⑤ 全球｜COP31 氣候峰會破局
-在土耳其舉行、史上最長的聯合國氣候大會經兩週談判仍未通過最終宣言；德國政府指責沙烏地、俄羅斯等產油國阻撓，巴西代表團批評結果「缺乏雄心」，聯合國秘書長強調「科學毫無模糊空間」。
-來源：[UN News](https://news.un.org/)、[Deutschlandfunk](https://www.deutschlandfunk.de/nachrichten-index-40734.html)、[G1](https://g1.globo.com/meio-ambiente/noticia/2026/11/22/cop31-fracasso-brasil-turquia.ghtml)
+### ⑤ 全球與南美｜COP31 氣候峰會無協議破局，巴西瞄準 2% 基本財政盈餘
+在土耳其舉行的史上最長聯合國氣候大會（COP31）延長談判兩天後正式破局，主席國澳洲與土耳其提出的最終草案因未提及化石燃料退場而遭多國否決。南美最大經濟體巴西財長 Dario Durigan 週一宣布，政府目標在總統魯拉下一任期末達成占 GDP 1.5% 至 2% 的基本財政盈餘，力拚重返失去十餘年的投資級主權信評。
+來源：[ABC News](https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772)、[BBC World](https://www.bbc.co.uk/news/articles/cky970n83rvjo)、[Reuters／Investing.com](https://www.investing.com/news/economy-news/brazil-targets-primary-surplus-of-up-to-2-of-gdp-by-end-of-lulas-next-term-5046231)
 
-### ⑥ 非洲｜蘇丹 RSF 無人機襲擊喀土穆
-蘇丹快速支援部隊（RSF）的無人機週日清晨襲擊首都喀土穆及周邊，造成 4 人死亡，聯合國一棟建築受損，政府機關與機場被列為目標。
-來源：[Al Jazeera](https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum)
+### ⑥ 非洲與英國市場｜蘇丹無人機襲喀土穆；英國 Capita 暴跌 70%
+非洲方面，蘇丹快速支援部隊（RSF）無人機襲擊首都喀土穆造成 4 人死亡並波及聯合國設施；利比亞武裝團體一度關閉兩條油管造成全國約四分之一產量短暫中斷（Sharara 油管隨後恢復）。歐洲市場方面，英國大型外包商 Capita 因公務員退休金系統失靈且執行長辭職，股價單日崩跌 70%；但受美股強彈激勵，倫敦 FTSE 100 指數仍收漲 1.3% 至 10,480.82 點。
+來源：[Al Jazeera](https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum)、[BBC Business](https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo)、[AJ Bell](https://www.ajbell.co.uk/news/latest/lunchtime-roundup)
 
 ## 前十大經濟體總覽
 
@@ -59,26 +59,26 @@ aliases:
 
 | # | 經濟體 | 今日焦點 | 訊號 |
 |---|---|---|---|
-| 1 | 美國 | 10 年債約 4.95%；通膨偏熱，12 月升息預期搖擺；標普進入修正 | ▼ 股市修正 |
-| 2 | 中國 | 證監會＋交易所穩市政策包、發改委催投資撥款 | ◆ 托底 |
-| 3 | 德國 | DAX 週五 -2.6%；總理梅爾茨反對歐盟長期預算妥協方案（增幅逾 40% 過高） | ▼ 承壓 |
-| 4 | 日本 | 日銀多數委員傾向 12 月升息，但終點利率分歧恐引發日圓賣壓 | ◆ 偏鷹 |
-| 5 | 印度 | 11 月外資淨流入創紀錄（約 1.22 兆盧比），被視為「反 AI 交易」；考慮限制非巴斯馬蒂米出口；印歐 FTA 預計 12/16 簽署 | ▲ 受惠 |
-| 6 | 英國 | Centrica 執行長警告電費飆漲衝擊；英歐降成本協議未必帶來降價 | ▼ 民生壓力 |
-| 7 | 法國 | 10 年債殖利率自中東衝突以來淨升約 180bp，2027 春季選舉前政治財政不確定 | ▼ 財政疑慮 |
-| 8 | 義大利 | S&P Global 下修 2027 展望，南歐高負債國恐受法國傳染 | ▼ 承壓 |
-| 9 | 加拿大 | 央行 10/28 升息 1 碼至 2.50%，為 2023 年 7 月以來首次 | ◆ 緊縮 |
-| 10 | 巴西 | 中間派政黨配合，國會可望通過財政調整案；對 COP31 結果表失望 | ◆ 觀察 |
+| 1 | 美國 | 輝達復職黃仁勳暴漲 31%；那指 +6.51%、標普 +4.73%、道瓊 +3.01%，創 2025/4 來最強單日反彈 | ▲ 強彈 |
+| 2 | 中國 | 證監會降融資保證金比例（100%→80%，11/30 生效）+ 國家隊護盤；創業板指 +3.08%、上證 +0.15% | ◆ 穩市 |
+| 3 | 德國 | DAX 指數收漲 2.15% 至 25,337.27 點重返兩萬五千點；提名 Markus Brunnermeier 出任 ECB 執委 | ▲ 反彈 |
+| 4 | 日本 | 11/23 勤勞感謝日休市，今日復市迎美股強彈；通膨逼近 3%，市場押注日銀 12 月再度升息 | ◆ 觀望 |
+| 5 | 印度 | 獲利了結與衍生品結算壓低 Nifty 50 跌 1.75%（25,349 點）、盧比收 92.91；但外資連 16 日淨買超（單日 +567.3 億盧比） | ▼ 回檔 |
+| 6 | 英國 | FTSE 100 收漲 1.3% 至 10,480.82 點；外包商 Capita 因退休金系統失靈與換帥單日暴跌 70% | ▲ 分化 |
+| 7 | 法國 | CAC 40 跟漲約 1.5%；提名 Laurence Boone 掌 ECB 市場操作執委，在歐盟長期預算談判推進農業補貼 | ▲ 穩健 |
+| 8 | 義大利 | 受多家銀行除息拖累約 1.4%，FTSE MIB 小漲 0.65% 收 49,021.93 點，科技股撐盤；2027 預算法案審議中 | ◆ 震盪 |
+| 9 | 加拿大 | 油價走低疊加美元轉強，加幣連 10 個交易日走貶至 1.4380（19 個月新低、2016 年以來最長連跌紀錄） | ▼ 匯壓 |
+| 10 | 巴西 | 財長 Durigan 宣布下任期末力拚 GDP 1.5%–2% 基本財政盈餘以重返投資級信評；批 COP31 缺乏雄心 | ◆ 整頓 |
 
-來源：[S&P Global 地緣風險簡報 11 月](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/11/geopolitical-risk-brief-november-2026)、[Reuters／Investing.com](https://www.investing.com/news/economy-news/analysisbojs-ambiguity-on-rate-hike-path-could-tempt-yen-bears-5040426)、[Times of India](https://timesofindia.indiatimes.com/business/india-business/record-rs-1-22-lakh-crore-foreign-inflows-is-india-becoming-the-worlds-anti-ai-trade/articleshow/136075365.cms)、[The Hindu](https://www.thehindu.com/news/top-news-of-the-day-november-22-2026/article71731458.ece)、[Deutschlandfunk](https://www.deutschlandfunk.de/merz-gegen-kompromissvorschlag-von-ratspraesident-costa-102.html)、[BBC Business](https://www.bbc.com/business)、[Bank of Canada](https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/)、[Estadão](https://digital.estadao.com.br/o-estado-de-s-paulo/20261122)
+來源：[CNBC](https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html)、[Xinhua](https://english.news.cn/20261123/4e3ca972a01a47a687ccdc205e285d2f/c.html)、[Finanzen.net](https://www.finanzen.net/nachricht/aktien/heute-im-fokus-23-11-2026-16079765)、[TradingView／MaceNews](https://www.tradingview.com/news/macenews:b459fd8cd094b:0-japan-week-ahead-rising-costs-weak-yen-hurting-households-but-boj-board-seen-leaning-toward-another-rate-hike-in-december/)、[Indian Express](https://indianexpress.com/article/business/sensex-nifty-fall-profit-booking-fno-expiry-india-markets-10975373/)、[CNBC TV18](https://www.cnbctv18.com/market/fiis-pump-in-rs-5673-crore-despite-market-rout-extend-buying-streak-to-16-sessions-20040215.htm)、[MilanoFinanza](https://www.milanofinanza.it/news/borse-oggi-diretta-23-novembre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202611230748404021)、[Kitco／Reuters](https://www.kitco.com/news/off-the-wire/2026-11-23/canadian-dollar-falls-10th-straight-session-oil-slides)、[Reuters／Investing.com](https://www.investing.com/news/economy-news/brazil-targets-primary-surplus-of-up-to-2-of-gdp-by-end-of-lulas-next-term-5046231)
 
 ## 今日重點
 
 ![今日重點](s07.png)
 
-1. **AI 估值修正已擴散**到全球股市與銅、金等大宗商品。
-2. **荷莫茲與俄烏雙線**推升能源風險溢價。
-3. **日本、加拿大偏鷹**，歐洲南翼（法、義）財政利差值得持續觀察。
+1. **AI 權值股出現劇烈報復性反彈**，但單一事件驅動代表市場波動率仍處於高檔。
+2. **布蘭特原油跌破 90 美元**，但荷莫茲海峽談判與俄烏地中海新戰線仍具高度變數。
+3. **日銀 12 月升息預期與歐盟新財金高層換血**將持續牽動未來數週匯市與債市定價。
 
 *本文僅供資訊參考，不構成任何投資建議。*
 
