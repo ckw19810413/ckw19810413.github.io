@@ -1,13 +1,13 @@
 ---
-title: "Reddit 金融快報 · 2026-11-23：美股五大核心板塊最新精華與聲量榜"
-date: 2026-11-23T06:00:00+08:00
+title: "Reddit 金融快報 · 2026-11-24：美股五大核心板塊最新精華與聲量榜"
+date: 2026-11-24T06:00:00+08:00
 draft: false
 image: cover.png
 cover: "https://ckw19810413.github.io/reddit-daily-summaries/cover.png"
 url: "/reddit-daily-summaries/"
 aliases:
-  - "/blog/2026-11-23-reddit-finance-daily/"
-  - "/reddit-daily-summaries/2026-11-23/"
+  - "/blog/2026-11-24-reddit-finance-daily/"
+  - "/reddit-daily-summaries/2026-11-24/"
 description: "Reddit 美股五大核心板塊近 3 日熱門話題 Top 3 與 ApeWisdom 即時熱度監控。"
 tags: ["Reddit", "美股", "期權", "ApeWisdom", "投資快訊", "Shorts"]
 categories: ["財經投資", "市場觀察"]
@@ -15,7 +15,7 @@ categories: ["財經投資", "市場觀察"]
 
 <div style="margin: 2rem 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.12); border: 1px solid rgba(128,128,128,0.2);">
   <video controls width="100%" poster="s01.png" preload="metadata" style="display: block; border-radius: 12px 12px 0 0; background: #0f121c;">
-    <source src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-reddit-finance-daily/reddit-finance-2026-11-23.mp4" type="video/mp4">
+    <source src="https://github.com/ckw19810413/ckw19810413.github.io/releases/download/media-reddit-finance-daily/reddit-finance-2026-11-24.mp4" type="video/mp4">
     您的瀏覽器不支援直接播放 MP4 影片。
   </video>
   <div style="background: rgba(0,0,0,0.03); padding: 10px 16px; font-size: 0.9rem; color: var(--card-text-color-secondary, #666); text-align: center; border-top: 1px solid rgba(128,128,128,0.15);">
@@ -23,7 +23,7 @@ categories: ["財經投資", "市場觀察"]
   </div>
 </div>
 
-# 每日 6:00AM Reddit 金融財經板塊最新資訊彙整報告（2026-11-23）
+# 每日 6:00AM Reddit 金融財經板塊最新資訊彙整報告（2026-11-24）
 
 本報告完成對五大核心財經看板（**r/wallstreetbets**、**r/stocks**、**r/investing**、**r/options**、**r/StockMarket**）近 3 日熱門話題、社群情緒、量化聲量與衍生品異動之全面監控。
 
