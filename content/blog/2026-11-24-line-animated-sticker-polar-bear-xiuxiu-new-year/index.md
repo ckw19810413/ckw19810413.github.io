@@ -1,7 +1,7 @@
 ---
 title: "北極熊秀秀・喜氣拜年：24 張 2027 羊年＆新年 LINE 動態貼圖登場！"
 slug: "2026-11-24-line-animated-sticker-polar-bear-xiuxiu-new-year"
-date: 2026-11-24T22:50:00+08:00
+date: 2026-11-24T22:00:00+08:00
 draft: false
 image: cover.jpg
 cover: "https://ckw19810413.github.io/blog/2026-11-24-line-animated-sticker-polar-bear-xiuxiu-new-year/cover.jpg"
